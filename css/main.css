@@ -148,6 +148,7 @@ img::-moz-selection {
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 100%;
+  height: 90px;
   /*border-radius: 50%;*/
   display: block;
 }
