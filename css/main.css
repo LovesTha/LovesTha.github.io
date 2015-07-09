@@ -135,10 +135,11 @@ img::-moz-selection {
   transition: opacity 0.5s ease-in-out;
   left: 50%;
   width: 404px;
+  height: 340px;
   margin-top: -25px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
-  /*width: 100%;
+  width: 100%;
   /*border-radius: 50%;*/
   margin-left: -50%;
   display: inline-block;
@@ -147,8 +148,7 @@ img::-moz-selection {
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
 .navbar-custom .avatar-container  .avatar-img {
-  height: 340px;
-  /*width: 100%;
+  width: 100%;
   /*border-radius: 50%;*/
   display: block;
 }
