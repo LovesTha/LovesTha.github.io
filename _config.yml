@@ -6,9 +6,86 @@ description: >
     eating good and bad food and exploring what it means to be a Christian in 
     my communities.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: lovestha
-facebook_username: lovestha
+url: "http://blog.cerberos.id.au" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+# Image to show in the navigation bar - image must be a square (width = height)
+# Remove this parameter if you don't want an image in the navbar
+avatar: "/img/logo.png"
+
+# List of links in the navigation bar
+navbar-links:
+  Home: ""
+  About Me: "aboutme"
+  Contact: "contact"
+  
+# --- Footer options --- #
+
+# Change all these values or delete the ones you don't want.
+# Important: you must keep the "name" parameter, everything else you can remove
+author:
+  name: Gareth 'LovesTha' Pye
+  facebook: lovestha  # eg. daattali
+  twitter: lovestha   # eg. daattali
+ 
+# Select which links to show in the footer
+footer-links-active:
+  rss: true
+  facebook: true
+  email: true
+  twitter: true
+  github: true
+  linkedin: false
+  stackoverflow: false
+
+# --- Misc --- #
+
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+disqus: "lovestha"
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-64956282-1"
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+
+# Output options (more information on Jekyll's site)
+timezone: "Australia/Melbourne"
+markdown: kramdown
+highlighter: pygments
+permalink: /:year-:month-:day-:title
+paginate: 5
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true  # add comments to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "default"
+
+# Exclude these files from production site
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
+
+# prose.io options
+prose:
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - /_includes
+    - /_layouts
+    - /css
+    - /img
+    - /js
+    
