@@ -1,0 +1,35 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2007-01-05 02:24:34+00:00
+layout: post
+slug: 64bit-ubuntu
+title: 64Bit Ubuntu
+wordpress_id: 192
+categories:
+- Geeky
+---
+
+I brought my self a laptop this week, a [Acer Aspire 5630](http://www.byo.acer.com.au/ecprod/AcerConfigurator/Configurator.html?viewmode=3&id=8082). Got it from Office Works for a nice price of $1899. I'm pretty happy with it, it has all the specs I want in a pc.
+
+Got it home, messed around in windows for a short while, did important updates and such, and downloaded the current 64bit install CD for Ubuntu. After a fair bit of frigging around, I needed to use the alternate CD for no good reason, I got it installed. It didn't even take much effort to get the video card working well.
+
+What is really anoying though is the essential pieces of software that aren't 64bit friendly:
+
+
+
+	
+  * Macromedia Flash
+
+	
+  * Java for Firefox
+
+	
+  * Wine
+
+
+Now I managed to get the 32bit version of Firefox working with Flash and Java, but I couldn't for the life of me manage to get Wine installed.
+
+So back to 32bit land for me, lets hope April brings more 64bit happy pieces for Ubuntu. And Zen working out of the box with Ubuntu would also be great.
+
+Chances are I'll be left in 32bit OS land till October though I imagine.

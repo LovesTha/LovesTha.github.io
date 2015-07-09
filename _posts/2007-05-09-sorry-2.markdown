@@ -1,0 +1,13 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2007-05-09 04:36:49+00:00
+layout: post
+slug: sorry-2
+title: Sorry
+wordpress_id: 258
+categories:
+- Meta-Site Discussion
+---
+
+Sorry for not posting much this past week, I've been busy with bits and pieces and suffering from a significant cold that has kept me home from work 3 days.

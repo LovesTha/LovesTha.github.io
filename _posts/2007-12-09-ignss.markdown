@@ -1,0 +1,28 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2007-12-09 01:17:07+00:00
+layout: post
+slug: ignss
+title: IGNSS
+wordpress_id: 321
+categories:
+- Work
+tags:
+- Coogee
+- GPS
+- IGNSS
+- NovAtel
+- Spirent
+- UNSW
+---
+
+I spent the past week in Sydney working the booth at the [IGNSS conference](http://www.ignss.org/?D=5). The International Global Navigation Satellite Systems Society Inc hold two conferences every year one somewhere in asia and another in Australia, I believe it alternates between UNSW, Brisbane and the Goldcoast. This year was UNSWs turn again.
+
+My company had decided to set up lots of demos this year including an interactive one with a flight simulator game driving GPS simulator. People were quite interested in it, anything with a moving image draws something of a crowd.
+
+Apparently my company has a bit of a tradition for staying at the [Coogee Bay Hotel](http://maps.google.com/maps?f=q&hl=en&geocode=&time=&date=&ttype=&q=corner+of+coogee+bay+road+and+arden+street,+coogee,+nsw&sll=-33.920785,151.256762&sspn=0.008565,0.020084&ie=UTF8&ll=-33.920785,151.256762&spn=0.008565,0.020084&z=16&om=1). I'm not sure why, it might have a great position but lacks most of the amenities I like in a room. Such as air conditioning, bed side lights and clock radios. Some may call me picky but that's just me.
+
+After the rush to get everything together for the show, the show it self was quite a relief. Other than forgetting to print some labels, which amazingly was never mentioned by anyone, all of our demo's worked fairly well. There was some issues getting the NovAtel Galileo receiver to track Galileo satellites that was just a issue of us not knowing the commands we were meant to be using.
+
+It was great having a refreshing swim after setting things up on the Monday though. Sydney does have its benefits.

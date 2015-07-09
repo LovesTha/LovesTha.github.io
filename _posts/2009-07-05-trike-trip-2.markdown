@@ -1,0 +1,30 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2009-07-05 09:27:41+00:00
+layout: post
+slug: trike-trip-2
+title: 'Trike Trip #2'
+wordpress_id: 468
+categories:
+- Riding Log
+---
+
+So after the defeat of the rather large hill I went after a flatter target this Sunday. Practicing the trip to work seemed like a good idea. Having perfected the use of the Garmin Edge 205 I know that the trip was 4902 meters. As my day job informs me GPS units are least accurate in terms of height (it has to do with the geometry of the constellation. IE you can only ever receive satellites that are 'up' so working out how far up or down you are is hard), which explains why I keep managing to have a total gain in elevation greater than my loss, despite starting and finishing the trip at the same place.
+
+Elevation - Distance graph:
+
+![2009 07 05 Elevation](http://rockpaperdynamite.files.wordpress.com/2009/07/2009-07-05-elevation.png)
+
+Stats:
+Trip Distance: 4.9km
+Avg Speed: 7km/h
+Max Speed: 25km/h
+Rise-Fall: 151 - 142m
+Time: 41 minutes
+
+Totals to Date:
+Distance: 6,345m
+Avg Speed: 7km/h
+
+PS: You wont have to wade through me talking about every trip to and from work, I intend to do weekly round ups of the boring daily work rides.

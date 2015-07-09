@@ -1,0 +1,34 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2006-08-01 05:54:42+00:00
+layout: post
+slug: 9e-roll-over
+title: 9e Roll Over
+wordpress_id: 110
+categories:
+- Magic The Gathering
+tags:
+- Rules
+---
+
+Why do so many players have such a trouble with which single turn effects can last for ever so slightly more than 1 turn and which can't.
+
+At a Champions of Kamigawa sneak peak I was using my Jiki-Kiki to attack with an extra two copies of a random 4/3 dude. My opponent was amazed that this worked, he was a much more experienced and well respected player than I was at the time. I was actually quite shocked by his lack of knowledge about what I thought was such a simple concept.
+
+As was just discussed on #mtgjudge, there are one two way in which this roll over trick can be seen in the base set though:
+
+
+
+	
+  * Ruhk Egg (it generates the token at end of turn)
+
+	
+  * Viashino Sandstalker + Elvish Piper (to play the Sandstalker after the OET trigger)
+
+
+In light of that it does make it slightly more reasonable for people to not understand how the 'trick' works. Its really quite simple though, the phrase '... until end of turn' is very different to 'at end of turn ...' The later is obviously creating a delayed triggered ability and the former just an effect with a duration.
+
+The trigger can be manipulated, the duration can't be.
+
+I hope I've managed to help more than confuse :)

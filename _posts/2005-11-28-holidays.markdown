@@ -1,0 +1,13 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2005-11-28 01:16:00+00:00
+layout: post
+slug: holidays
+title: Holidays
+wordpress_id: 55
+categories:
+- Meta-Site Discussion
+---
+
+Just letting you all know that the Blog will not be updated over the next few weeks till after christmas as I won't be playing any/much magic in the next few weeks.

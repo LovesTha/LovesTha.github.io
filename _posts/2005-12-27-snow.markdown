@@ -1,0 +1,24 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2005-12-27 04:10:21+00:00
+layout: post
+slug: snow
+title: Snow
+wordpress_id: 56
+categories:
+- Geeky
+---
+
+Bloody snow. I have two major issues with the proliferation of snow right now:
+
+
+
+	
+  * Its 30 odd Degrees out side so snow is not something that's really on the books right now
+
+	
+  * I shouldn't be being forced to use MTGSalvation.com just so that I can find out when the release date for Guildpact is. (yes I know that the first expansion to a block comes out on the first Friday of February, but I like to be sure about things)
+
+
+The silly snow effect on every page at wizards.com at the moment is bloody annoying. In Firefox it runs really really slowly, this is ok under Windows, but under Ubuntu it runs that slow that I can't do anything (Windows box is a 1.3gig Duron, Ubuntu box is a 2500+ XP, so its not system dependant).

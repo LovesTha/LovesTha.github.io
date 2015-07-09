@@ -1,0 +1,14 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2008-02-12 09:02:20+00:00
+layout: post
+slug: hiatus
+title: Hiatus
+wordpress_id: 352
+categories:
+- India
+- Meta-Site Discussion
+---
+
+This little blog will be on hiatus for 4 weeks till I return from India and KL. Enjoy the silence.

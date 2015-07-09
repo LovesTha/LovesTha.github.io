@@ -1,0 +1,15 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2008-03-23 03:25:57+00:00
+layout: post
+slug: update
+title: Update
+wordpress_id: 359
+categories:
+- Constructed
+- Deck Building
+- Magic The Gathering
+---
+
+Just posting to say the below post has had a lot of extra info put in, including some pointers towards future directions for the deck.

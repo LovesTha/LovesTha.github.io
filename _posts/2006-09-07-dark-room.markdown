@@ -1,0 +1,19 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2006-09-07 04:30:40+00:00
+layout: post
+slug: dark-room
+title: Dark Room
+wordpress_id: 130
+categories:
+- Geeky
+---
+
+At the last Forge Intensive I saw one of the interns using a very interesting application for taking their notes. The interface was about as simple as I have even seen. A black screen. With green text. Nothing else.
+
+The philosophy behind it is that a lot of the time you want to get away from as many distractions as you can and just type. I like this idea, it is very easy to go back and format a document nicely in word at a later time, and that isn't even always needed. It has all the essential features you need in a text editor, the ability to auto-save, and umm, you can change the text colour. It also has a few features that seam to be going slightly against the concept of the program though, you can change the back ground to being partially transparent, although you can't change its colour (sure why would you want to but it'd be nice to have options).
+
+I'm going to start using it on my desktops and it is going to be one of the first things I install on a laptop.
+
+[Linkage.](http://they.misled.us/dark-room)
