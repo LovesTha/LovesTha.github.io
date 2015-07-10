@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2011-03-17 09:43:09+00:00
+date: 2011-03-17 09:43:09+00:00 +1000
 layout: post
 slug: rooms-for-rent
 title: Rooms for Rent

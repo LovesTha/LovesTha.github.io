@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-10 00:28:23+00:00
+date: 2007-01-10 00:28:23+00:00 +1000
 layout: post
 slug: sorry-porn-lovers
 title: Sorry Porn Lovers

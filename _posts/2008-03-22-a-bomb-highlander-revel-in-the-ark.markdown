@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-03-22 13:23:58+00:00
+date: 2008-03-22 13:23:58+00:00 +1000
 layout: post
 slug: a-bomb-highlander-revel-in-the-ark
 title: A-Bomb Highlander - Revel in the Ark

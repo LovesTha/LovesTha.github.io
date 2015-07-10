@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-11-03 00:40:45+00:00
+date: 2008-11-03 00:40:45+00:00 +1000
 layout: post
 slug: selling-my-car-300zx
 title: Selling My Car - 300zx

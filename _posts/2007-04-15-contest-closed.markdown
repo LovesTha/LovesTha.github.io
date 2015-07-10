@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-15 07:02:58+00:00
+date: 2007-04-15 07:02:58+00:00 +1000
 layout: post
 slug: contest-closed
 title: Contest Closed

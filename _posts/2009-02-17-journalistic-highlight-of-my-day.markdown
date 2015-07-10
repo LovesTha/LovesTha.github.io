@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-02-17 03:45:13+00:00
+date: 2009-02-17 03:45:13+00:00 +1000
 layout: post
 slug: journalistic-highlight-of-my-day
 title: Journalistic Highlight of My Day

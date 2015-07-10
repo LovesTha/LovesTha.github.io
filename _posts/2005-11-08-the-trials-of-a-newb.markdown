@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-11-08 03:17:00+00:00
+date: 2005-11-08 03:17:00+00:00 +1000
 layout: post
 slug: the-trials-of-a-newb
 title: The Trials of a Newb

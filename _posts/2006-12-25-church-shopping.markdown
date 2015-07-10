@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-12-25 22:13:28+00:00
+date: 2006-12-25 22:13:28+00:00 +1000
 layout: post
 slug: church-shopping
 title: Church Shopping

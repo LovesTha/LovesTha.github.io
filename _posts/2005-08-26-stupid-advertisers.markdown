@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-08-26 01:19:00+00:00
+date: 2005-08-26 01:19:00+00:00 +1000
 layout: post
 slug: stupid-advertisers
 title: Stupid Advertisers

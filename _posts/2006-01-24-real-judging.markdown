@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-01-24 23:53:00+00:00
+date: 2006-01-24 23:53:00+00:00 +1000
 layout: post
 slug: real-judging
 title: Real Judging

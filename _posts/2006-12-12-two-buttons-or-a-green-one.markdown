@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-12-12 00:30:04+00:00
+date: 2006-12-12 00:30:04+00:00 +1000
 layout: post
 slug: two-buttons-or-a-green-one
 title: Two Buttons or a Green One

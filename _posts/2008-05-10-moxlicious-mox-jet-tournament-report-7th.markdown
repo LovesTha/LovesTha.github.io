@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-05-10 14:52:06+00:00
+date: 2008-05-10 14:52:06+00:00 +1000
 layout: post
 slug: moxlicious-mox-jet-tournament-report-7th
 title: Moxalicious - Mox Jet Tournament report - 7th!!!!!

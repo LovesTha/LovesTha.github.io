@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-30 04:23:05+00:00
+date: 2006-08-30 04:23:05+00:00 +1000
 layout: post
 slug: zacchaeus-selfless-convert-or-still-sly
 title: Zacchaeus - Selfless Convert or Still Sly

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-01-18 09:11:21+00:00
+date: 2009-01-18 09:11:21+00:00 +1000
 layout: post
 slug: chitty-chitty-bang-bang-reliving-old-memories
 title: Chitty Chitty Bang Bang - Reliving Old Memories

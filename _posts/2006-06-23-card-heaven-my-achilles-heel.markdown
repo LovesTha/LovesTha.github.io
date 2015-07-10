@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-06-23 05:28:17+00:00
+date: 2006-06-23 05:28:17+00:00 +1000
 layout: post
 slug: card-heaven-my-achilles-heel
 title: Card Heaven - My Achilles Heel

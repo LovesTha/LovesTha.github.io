@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-08-09 03:02:00+00:00
+date: 2005-08-09 03:02:00+00:00 +1000
 layout: post
 slug: my-precious-darkness
 title: My Precious Darkness

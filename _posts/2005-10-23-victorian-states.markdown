@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-10-23 02:05:00+00:00
+date: 2005-10-23 02:05:00+00:00 +1000
 layout: post
 slug: victorian-states
 title: Victorian States

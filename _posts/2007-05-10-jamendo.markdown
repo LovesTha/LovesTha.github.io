@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-05-10 01:55:56+00:00
+date: 2007-05-10 01:55:56+00:00 +1000
 layout: post
 slug: jamendo
 title: Jamendo

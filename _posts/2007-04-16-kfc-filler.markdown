@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-16 23:54:11+00:00
+date: 2007-04-16 23:54:11+00:00 +1000
 layout: post
 slug: kfc-filler
 title: KFC Filler

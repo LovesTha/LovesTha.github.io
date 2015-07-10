@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-02-02 09:31:52+00:00
+date: 2007-02-02 09:31:52+00:00 +1000
 layout: post
 slug: planar-chaos-prerelease-report
 title: Planar Chaos Prerelease Report

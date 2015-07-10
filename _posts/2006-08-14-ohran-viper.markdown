@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-14 23:49:39+00:00
+date: 2006-08-14 23:49:39+00:00 +1000
 layout: post
 slug: ohran-viper
 title: Ohran Viper

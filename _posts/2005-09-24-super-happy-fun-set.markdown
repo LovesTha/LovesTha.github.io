@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-09-24 23:19:00+00:00
+date: 2005-09-24 23:19:00+00:00 +1000
 layout: post
 slug: super-happy-fun-set
 title: Super Happy Fun Set

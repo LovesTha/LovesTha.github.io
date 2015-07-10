@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-01 22:40:56+00:00
+date: 2007-01-01 22:40:56+00:00 +1000
 layout: post
 slug: good-burger-watch
 title: Good Burger Watch

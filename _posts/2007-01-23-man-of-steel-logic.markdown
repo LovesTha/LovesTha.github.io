@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-23 02:57:18+00:00
+date: 2007-01-23 02:57:18+00:00 +1000
 layout: post
 slug: man-of-steel-logic
 title: Man of Steel Logic

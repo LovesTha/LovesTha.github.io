@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-08-05 23:40:19+00:00
+date: 2009-08-05 23:40:19+00:00 +1000
 layout: post
 slug: iphone-first-impressions
 title: iPhone - First Impressions

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-12-30 04:53:18+00:00
+date: 2007-12-30 04:53:18+00:00 +1000
 layout: post
 slug: mythtv-install-woes
 title: MythTV Install Woes

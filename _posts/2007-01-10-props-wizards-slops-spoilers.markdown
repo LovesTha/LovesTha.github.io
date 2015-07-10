@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-10 01:00:20+00:00
+date: 2007-01-10 01:00:20+00:00 +1000
 layout: post
 slug: props-wizards-slops-spoilers
 title: 'Props: Wizards, Slops: Spoilers'

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-02 00:21:24+00:00
+date: 2007-06-02 00:21:24+00:00 +1000
 layout: post
 slug: 925am
 title: 9.25am

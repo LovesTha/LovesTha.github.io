@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-09-03 02:31:00+00:00
+date: 2005-09-03 02:31:00+00:00 +1000
 layout: post
 slug: bfdec-isnt-bad
 title: BF.dec Isn't Bad

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-07-13 09:02:32+00:00
+date: 2009-07-13 09:02:32+00:00 +1000
 layout: post
 slug: soda-rock-burger-review
 title: Soda Rock - Burger Review

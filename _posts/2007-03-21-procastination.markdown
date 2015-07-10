@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-21 01:27:48+00:00
+date: 2007-03-21 01:27:48+00:00 +1000
 layout: post
 slug: procastination
 title: Procastination

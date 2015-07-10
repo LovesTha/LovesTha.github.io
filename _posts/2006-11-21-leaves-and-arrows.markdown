@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-21 02:09:14+00:00
+date: 2006-11-21 02:09:14+00:00 +1000
 layout: post
 slug: leaves-and-arrows
 title: Leaves and Arrows

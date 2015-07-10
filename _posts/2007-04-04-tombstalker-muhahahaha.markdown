@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-04 00:55:25+00:00
+date: 2007-04-04 00:55:25+00:00 +1000
 layout: post
 slug: tombstalker-muhahahaha
 title: Tombstalker, Muhahahaha

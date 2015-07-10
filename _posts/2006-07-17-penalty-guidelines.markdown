@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-17 23:27:22+00:00
+date: 2006-07-17 23:27:22+00:00 +1000
 layout: post
 slug: penalty-guidelines
 title: Penalty Guidelines

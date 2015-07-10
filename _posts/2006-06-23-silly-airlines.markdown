@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-06-23 05:32:24+00:00
+date: 2006-06-23 05:32:24+00:00 +1000
 layout: post
 slug: silly-airlines
 title: Silly Airlines

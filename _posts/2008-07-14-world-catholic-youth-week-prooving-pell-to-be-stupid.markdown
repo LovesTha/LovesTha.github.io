@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-07-14 23:28:11+00:00
+date: 2008-07-14 23:28:11+00:00 +1000
 layout: post
 slug: world-catholic-youth-week-prooving-pell-to-be-stupid
 title: 'World Catholic Youth Week: Prooving Pell to be stupid'

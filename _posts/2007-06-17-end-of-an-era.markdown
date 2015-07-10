@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-17 23:29:35+00:00
+date: 2007-06-17 23:29:35+00:00 +1000
 layout: post
 slug: end-of-an-era
 title: End of an Era

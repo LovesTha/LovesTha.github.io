@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-02-11 04:46:32+00:00
+date: 2008-02-11 04:46:32+00:00 +1000
 layout: post
 slug: limericks-r-us
 title: Limericks-R-Us

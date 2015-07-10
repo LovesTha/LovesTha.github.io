@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-02-09 22:11:00+00:00
+date: 2006-02-09 22:11:00+00:00 +1000
 layout: post
 slug: crappy-cards-suck
 title: Crappy Cards Suck

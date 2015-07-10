@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-11-11 02:05:00+00:00
+date: 2005-11-11 02:05:00+00:00 +1000
 layout: post
 slug: possum-in-the-back-yard
 title: Possum in the Back Yard

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-13 05:37:30+00:00
+date: 2006-11-13 05:37:30+00:00 +1000
 layout: post
 slug: black-is-white
 title: Black is White

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2011-05-03 07:01:06+00:00
+date: 2011-05-03 07:01:06+00:00 +1000
 layout: post
 slug: some-idle-thoughts-on-osmas-end
 title: Some Idle Thoughts On Osma's End

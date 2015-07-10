@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-01-09 01:36:00+00:00
+date: 2006-01-09 01:36:00+00:00 +1000
 layout: post
 slug: mark-of-eviction-nightmare-void
 title: Mark of Eviction + Nightmare Void

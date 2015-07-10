@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2010-01-02 14:12:51+00:00
+date: 2010-01-02 14:12:51+00:00 +1000
 layout: post
 slug: theres-been-a-short-delay
 title: There's Been a Short Delay

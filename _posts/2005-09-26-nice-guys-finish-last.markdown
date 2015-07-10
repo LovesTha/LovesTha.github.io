@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-09-26 04:23:00+00:00
+date: 2005-09-26 04:23:00+00:00 +1000
 layout: post
 slug: nice-guys-finish-last
 title: Nice Guys Finish Last

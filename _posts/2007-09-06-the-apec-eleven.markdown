@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-06 23:36:14+00:00
+date: 2007-09-06 23:36:14+00:00 +1000
 layout: post
 slug: the-apec-eleven
 title: The APEC Eleven

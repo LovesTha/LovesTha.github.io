@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-06-20 12:01:18+00:00
+date: 2008-06-20 12:01:18+00:00 +1000
 layout: post
 slug: edh-lifegain-a-reaction
 title: 'EDH Lifegain: A Reaction.'

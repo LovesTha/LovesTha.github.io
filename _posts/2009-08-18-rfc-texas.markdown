@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-08-18 00:27:12+00:00
+date: 2009-08-18 00:27:12+00:00 +1000
 layout: post
 slug: rfc-texas
 title: RFC - Texas

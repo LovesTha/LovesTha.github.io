@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-08-31 13:42:00+00:00
+date: 2005-08-31 13:42:00+00:00 +1000
 layout: post
 slug: broken-fattiesdec
 title: Broken Fatties.dec

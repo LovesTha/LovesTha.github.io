@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-27 02:15:48+00:00
+date: 2007-06-27 02:15:48+00:00 +1000
 layout: post
 slug: google-codes-good
 title: Google Codes Good

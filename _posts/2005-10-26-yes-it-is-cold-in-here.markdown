@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-10-26 12:06:00+00:00
+date: 2005-10-26 12:06:00+00:00 +1000
 layout: post
 slug: yes-it-is-cold-in-here
 title: Yes it is cold in here

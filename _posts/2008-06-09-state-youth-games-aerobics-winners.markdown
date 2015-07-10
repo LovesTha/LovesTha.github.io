@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-06-09 22:59:27+00:00
+date: 2008-06-09 22:59:27+00:00 +1000
 layout: post
 slug: state-youth-games-aerobics-winners
 title: State Youth Games Aerobics Winners!

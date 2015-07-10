@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-11 23:01:26+00:00
+date: 2007-04-11 23:01:26+00:00 +1000
 layout: post
 slug: 36-hours
 title: 36 Hours

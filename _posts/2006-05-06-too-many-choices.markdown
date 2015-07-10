@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-05-06 13:11:19+00:00
+date: 2006-05-06 13:11:19+00:00 +1000
 layout: post
 slug: too-many-choices
 title: Too Many Choices

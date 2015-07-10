@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-01-10 09:07:56+00:00
+date: 2008-01-10 09:07:56+00:00 +1000
 layout: post
 slug: obligatory-rumoured-card-im-excited-about
 title: Obligatory Rumoured Card I'm Excited about

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-09-07 01:48:16+00:00
+date: 2006-09-07 01:48:16+00:00 +1000
 layout: post
 slug: brown-is-the-new-black-or-gold
 title: Brown is the New Black (or Gold)

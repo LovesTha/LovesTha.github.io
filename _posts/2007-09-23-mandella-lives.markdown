@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-23 22:56:33+00:00
+date: 2007-09-23 22:56:33+00:00 +1000
 layout: post
 slug: mandella-lives
 title: Mandella Lives

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-04-06 06:36:12+00:00
+date: 2008-04-06 06:36:12+00:00 +1000
 layout: post
 published: false
 slug: kl-india-2-sights-of-kl

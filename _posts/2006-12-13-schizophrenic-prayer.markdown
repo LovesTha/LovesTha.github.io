@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-12-13 09:02:07+00:00
+date: 2006-12-13 09:02:07+00:00 +1000
 layout: post
 slug: schizophrenic-prayer
 title: Schizophrenic Prayer

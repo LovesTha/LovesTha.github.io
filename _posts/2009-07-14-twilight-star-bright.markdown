@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-07-14 00:06:54+00:00
+date: 2009-07-14 00:06:54+00:00 +1000
 layout: post
 slug: twilight-star-bright
 title: Twilight, Star Bright

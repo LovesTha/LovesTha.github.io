@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-02-28 03:07:58+00:00
+date: 2007-02-28 03:07:58+00:00 +1000
 layout: post
 slug: review-deep-analysis-the-rules-of-engagement
 title: 'Review: Deep Analysis - The Rules of Engagement'

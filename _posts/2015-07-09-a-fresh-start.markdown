@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome Back To RPD"
-date:   2015-07-09 20:58:15
+date:   2015-07-09 20:58:15 +1000
 categories: meta
 ---
 

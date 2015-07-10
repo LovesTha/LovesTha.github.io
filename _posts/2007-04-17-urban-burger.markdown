@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-17 23:57:44+00:00
+date: 2007-04-17 23:57:44+00:00 +1000
 layout: post
 slug: urban-burger
 title: Urban Burger

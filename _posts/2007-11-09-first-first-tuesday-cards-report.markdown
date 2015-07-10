@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-11-09 05:14:03+00:00
+date: 2007-11-09 05:14:03+00:00 +1000
 layout: post
 slug: first-first-tuesday-cards-report
 title: First First Tuesday Cards Report

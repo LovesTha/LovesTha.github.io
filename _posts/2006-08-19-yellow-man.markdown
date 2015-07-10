@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-19 01:22:49+00:00
+date: 2006-08-19 01:22:49+00:00 +1000
 layout: post
 slug: yellow-man
 title: Orange Man

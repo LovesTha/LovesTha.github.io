@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-10-16 00:24:52+00:00
+date: 2006-10-16 00:24:52+00:00 +1000
 layout: post
 slug: back-2-back
 title: Back 2 Back

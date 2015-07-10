@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-09-19 07:09:55+00:00
+date: 2006-09-19 07:09:55+00:00 +1000
 layout: post
 slug: i-heart-the-dresden-dolls
 title: I {heart} The Dresden Dolls

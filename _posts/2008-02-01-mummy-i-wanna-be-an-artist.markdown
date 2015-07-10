@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-02-01 13:27:36+00:00
+date: 2008-02-01 13:27:36+00:00 +1000
 layout: post
 slug: mummy-i-wanna-be-an-artist
 title: Mummy I wanna be an Artist

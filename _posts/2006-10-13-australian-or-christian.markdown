@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-10-13 02:16:24+00:00
+date: 2006-10-13 02:16:24+00:00 +1000
 layout: post
 slug: australian-or-christian
 title: Australian or Christian?

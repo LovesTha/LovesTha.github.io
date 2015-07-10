@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-10-25 06:09:34+00:00
+date: 2006-10-25 06:09:34+00:00 +1000
 layout: post
 slug: a-pox-on-your-house
 title: A Pox On Your House

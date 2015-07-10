@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-11-07 05:16:00+00:00
+date: 2005-11-07 05:16:00+00:00 +1000
 layout: post
 slug: mulliganing-with-strategy
 title: Mulliganing with Strategy?

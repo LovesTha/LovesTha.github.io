@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-13 02:38:11+00:00
+date: 2006-07-13 02:38:11+00:00 +1000
 layout: post
 slug: whats-too-little
 title: What's Too Little

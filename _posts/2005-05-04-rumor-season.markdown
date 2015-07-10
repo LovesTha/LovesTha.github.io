@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-05-04 22:25:00+00:00
+date: 2005-05-04 22:25:00+00:00 +1000
 layout: post
 slug: rumor-season
 title: Rumor Season

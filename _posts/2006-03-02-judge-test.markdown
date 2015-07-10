@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-03-02 22:51:00+00:00
+date: 2006-03-02 22:51:00+00:00 +1000
 layout: post
 slug: judge-test
 title: Judge Test

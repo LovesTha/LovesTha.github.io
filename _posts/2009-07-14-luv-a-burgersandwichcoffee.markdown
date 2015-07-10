@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-07-14 13:33:37+00:00
+date: 2009-07-14 13:33:37+00:00 +1000
 layout: post
 slug: luv-a-burgersandwichcoffee
 title: Luv A Burger/Sandwich/Coffee

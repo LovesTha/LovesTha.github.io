@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-04-07 00:07:42+00:00
+date: 2008-04-07 00:07:42+00:00 +1000
 layout: post
 slug: beta-coaster
 title: Beta Coaster

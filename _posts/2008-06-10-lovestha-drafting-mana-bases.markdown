@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-06-10 06:08:59+00:00
+date: 2008-06-10 06:08:59+00:00 +1000
 layout: post
 slug: lovestha-drafting-mana-bases
 title: 'LovesTha Drafting: Mana Bases'

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-10-16 00:11:00+00:00
+date: 2005-10-16 00:11:00+00:00 +1000
 layout: post
 slug: giant-fun-was-had
 title: Giant Fun Was Had

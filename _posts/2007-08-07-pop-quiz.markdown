@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-08-07 02:39:51+00:00
+date: 2007-08-07 02:39:51+00:00 +1000
 layout: post
 slug: pop-quiz
 title: Pop Quiz

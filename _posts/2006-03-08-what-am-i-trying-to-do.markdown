@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-03-08 06:06:00+00:00
+date: 2006-03-08 06:06:00+00:00 +1000
 layout: post
 slug: what-am-i-trying-to-do
 title: What am I trying to do?

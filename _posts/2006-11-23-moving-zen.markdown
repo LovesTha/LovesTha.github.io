@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-23 00:15:53+00:00
+date: 2006-11-23 00:15:53+00:00 +1000
 layout: post
 slug: moving-zen
 title: Moving Zen

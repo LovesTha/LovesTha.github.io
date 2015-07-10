@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-08-18 12:27:21+00:00
+date: 2009-08-18 12:27:21+00:00 +1000
 layout: post
 slug: thesaurus-com-is-wrong
 title: Thesaurus.com is wrong

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-01-25 10:07:36+00:00
+date: 2008-01-25 10:07:36+00:00 +1000
 layout: post
 slug: stop-press-posting-on-web-forum-has-effect
 title: 'STOP-PRESS: Posting On Web Forum Has Effect'

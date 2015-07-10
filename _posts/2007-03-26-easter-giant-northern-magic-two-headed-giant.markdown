@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-26 01:54:10+00:00
+date: 2007-03-26 01:54:10+00:00 +1000
 layout: post
 slug: easter-giant-northern-magic-two-headed-giant
 title: Easter Giant - Northern Magic Two Headed Giant

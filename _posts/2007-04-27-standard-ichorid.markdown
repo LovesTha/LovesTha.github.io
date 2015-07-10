@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-27 02:51:42+00:00
+date: 2007-04-27 02:51:42+00:00 +1000
 layout: post
 slug: standard-ichorid
 title: Standard Ichorid

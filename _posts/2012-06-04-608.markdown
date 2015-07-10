@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2012-06-04 01:41:01+00:00
+date: 2012-06-04 01:41:01+00:00 +1000
 layout: post
 slug: '608'
 title: Alphabet City Cafe

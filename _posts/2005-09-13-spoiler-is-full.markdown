@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-09-13 23:52:00+00:00
+date: 2005-09-13 23:52:00+00:00 +1000
 layout: post
 slug: spoiler-is-full
 title: Spoiler is Full

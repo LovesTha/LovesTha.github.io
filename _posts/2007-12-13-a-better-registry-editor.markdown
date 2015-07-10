@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-12-13 02:29:02+00:00
+date: 2007-12-13 02:29:02+00:00 +1000
 layout: post
 slug: a-better-registry-editor
 title: A Better Registry Editor

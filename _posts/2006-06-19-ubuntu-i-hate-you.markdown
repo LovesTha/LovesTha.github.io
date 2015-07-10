@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-06-19 01:15:30+00:00
+date: 2006-06-19 01:15:30+00:00 +1000
 layout: post
 slug: ubuntu-i-hate-you
 title: Ubuntu I hate you

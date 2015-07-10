@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-05 01:31:34+00:00
+date: 2007-03-05 01:31:34+00:00 +1000
 layout: post
 slug: short-break
 title: Short Break

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-02-11 00:11:41+00:00
+date: 2008-02-11 00:11:41+00:00 +1000
 layout: post
 slug: leaving-on-an-aeroplane
 title: Leaving on an Aeroplane

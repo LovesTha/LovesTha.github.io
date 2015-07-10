@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-29 02:35:07+00:00
+date: 2006-07-29 02:35:07+00:00 +1000
 layout: post
 slug: wolfmother
 title: Wolfmother
