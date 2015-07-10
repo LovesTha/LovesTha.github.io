@@ -10,9 +10,9 @@ interest in here, but I'll try and summarize my current status and outlook.
 
 # Personal
 
-I'm very happy to have known L for nearly 42 moons and to have been married to her for 55% of that 
-time. After living in my/our one bedroom apartment in Ivanhoe for over a year we have moved into a 
-two bedroom unit in Ringwood. It has been a time of many many first for us and we are really 
+I'm very happy to have known Lierin for nearly 42 moons and to have been married to her for 55% of 
+that time. After living in my/our one bedroom apartment in Ivanhoe for over a year we have moved 
+into a two bedroom unit in Ringwood. It has been a time of many many first for us and we are really 
 enjoying life these days.
 
 # Health
@@ -68,9 +68,9 @@ I'm getting into board games a bit more recently. I've always enjoyed them, but 
 had enough time for them with how much mtg I was playing. Another factor in this upswing is that the 
 church we have joined in Ringwood, [UrbanLife][4], runs a month board game night: [UrbanGamer][5].
 
-### Board Games With L
+### Board Games With Lierin
 
-L and I are also enjoying playing some board games at home by our selves. We have been having trouble 
+Lierin and I are also enjoying playing some board games at home by our selves. We have been having trouble 
 finding awesome games for 2 players, [Foursite][6] has been a hit but we are getting into a new favourite
 of mine: [Smash Up][7]. 
 
