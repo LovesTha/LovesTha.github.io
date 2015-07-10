@@ -8,12 +8,7 @@ title: 'Bill Hensen: Not Evil'
 wordpress_id: 393
 categories:
 - Rant
-tags:
-- Art
-- Bill Henson
-- Coburg
-- Porn
-- Rant
+tags: [Art, Bill Henson, Coburg, Porn, rant]
 ---
 
 Bill Henson has managed to make the lead story on news services again. We haven't been told details that would make it easier to determine if what he, or the principal, did was wrong though.
