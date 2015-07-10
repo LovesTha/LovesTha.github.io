@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-11-10 23:39:00+00:00
+date: 2005-11-10 23:39:00+00:00 +1000
 layout: post
 slug: bad-draft-plays-101-suicide-missions
 title: 'Bad Draft Plays 101: Suicide Missions'

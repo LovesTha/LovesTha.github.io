@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-05-31 02:49:15+00:00
+date: 2007-05-31 02:49:15+00:00 +1000
 layout: post
 slug: double-standards-on-abortion
 title: Double Standards on Abortion

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-25 03:35:20+00:00
+date: 2006-07-25 03:35:20+00:00 +1000
 layout: post
 slug: messing-around
 title: Messing Around

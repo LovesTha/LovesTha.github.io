@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-10-27 06:52:21+00:00
+date: 2006-10-27 06:52:21+00:00 +1000
 layout: post
 slug: when-will-people-learn
 title: When Will People Learn

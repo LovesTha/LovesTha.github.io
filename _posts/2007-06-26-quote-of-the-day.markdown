@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-26 23:35:07+00:00
+date: 2007-06-26 23:35:07+00:00 +1000
 layout: post
 slug: quote-of-the-day
 title: Quote of the Day

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-05-07 11:23:02+00:00
+date: 2006-05-07 11:23:02+00:00 +1000
 layout: post
 slug: first-block-draft
 title: First Block Draft

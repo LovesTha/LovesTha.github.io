@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-08-27 05:23:00+00:00
+date: 2005-08-27 05:23:00+00:00 +1000
 layout: post
 slug: stupid-saviours
 title: Stupid Saviours

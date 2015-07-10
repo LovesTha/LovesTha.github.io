@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2010-05-05 01:52:02+00:00
+date: 2010-05-05 01:52:02+00:00 +1000
 layout: post
 slug: long-live-comics-die-comics-die
 title: Long Live Comics / Die Comics Die!!!!

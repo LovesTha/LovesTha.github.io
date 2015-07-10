@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-11 04:49:41+00:00
+date: 2006-08-11 04:49:41+00:00 +1000
 layout: post
 slug: 2007-pro-tour-schedule-released
 title: 2007 Pro Tour Schedule Released

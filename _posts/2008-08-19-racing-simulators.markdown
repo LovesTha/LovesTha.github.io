@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-08-19 23:54:59+00:00
+date: 2008-08-19 23:54:59+00:00 +1000
 layout: post
 slug: racing-simulators
 title: Racing 'Simulators'

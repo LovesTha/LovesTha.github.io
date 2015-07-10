@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-02-07 23:39:00+00:00
+date: 2006-02-07 23:39:00+00:00 +1000
 layout: post
 slug: what-should-the-rock-look-like
 title: What Should the Rock Look Like?

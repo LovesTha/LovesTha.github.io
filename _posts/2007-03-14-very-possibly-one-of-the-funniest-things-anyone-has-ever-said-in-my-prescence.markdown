@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-14 03:17:16+00:00
+date: 2007-03-14 03:17:16+00:00 +1000
 layout: post
 slug: very-possibly-one-of-the-funniest-things-anyone-has-ever-said-in-my-prescence
 title: Very Possibly One Of The Funniest Things Anyone Has Ever Said In My Prescence

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-23 23:02:06+00:00
+date: 2006-11-23 23:02:06+00:00 +1000
 layout: post
 slug: stupid-people
 title: Stupid People

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-10 01:52:26+00:00
+date: 2007-09-10 01:52:26+00:00 +1000
 layout: post
 slug: edh-general-options-flippers
 title: 'EDH: General Options - Flippers'

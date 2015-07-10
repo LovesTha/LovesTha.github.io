@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-02-19 23:22:54+00:00
+date: 2007-02-19 23:22:54+00:00 +1000
 layout: post
 slug: the-introduction-to-two-headed-giant-draft
 title: '''The'' Introduction to Two Headed Giant Draft'

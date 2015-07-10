@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-11-15 23:10:18+00:00
+date: 2007-11-15 23:10:18+00:00 +1000
 layout: post
 slug: its-all-in-the-timing
 title: Its all in the timing

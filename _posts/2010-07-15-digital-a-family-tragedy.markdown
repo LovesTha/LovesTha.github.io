@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2010-07-15 03:16:39+00:00
+date: 2010-07-15 03:16:39+00:00 +1000
 layout: post
 slug: digital-a-family-tragedy
 title: 'Digital: A Family Tragedy'

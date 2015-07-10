@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-12-18 00:02:01+00:00
+date: 2006-12-18 00:02:01+00:00 +1000
 layout: post
 slug: a-comedy-of-errors
 title: A Comedy of Errors

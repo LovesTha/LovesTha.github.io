@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-10-03 01:41:00+00:00
+date: 2005-10-03 01:41:00+00:00 +1000
 layout: post
 slug: 9th-%d0%98%d0%97%d0%94%d0%90%d0%9d%d0%98%d0%95
 title: 9th ИЗДАНИЕ

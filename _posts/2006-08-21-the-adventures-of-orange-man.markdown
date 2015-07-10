@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-21 12:11:24+00:00
+date: 2006-08-21 12:11:24+00:00 +1000
 layout: post
 slug: the-adventures-of-orange-man
 title: The Adventures of Orange Man

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-10-06 07:37:27+00:00
+date: 2008-10-06 07:37:27+00:00 +1000
 layout: post
 slug: bill-hensen-not-evil
 title: 'Bill Hensen: Not Evil'

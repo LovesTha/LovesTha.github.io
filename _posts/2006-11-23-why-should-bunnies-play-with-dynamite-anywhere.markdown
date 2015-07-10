@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-23 03:24:19+00:00
+date: 2006-11-23 03:24:19+00:00 +1000
 layout: post
 slug: why-should-bunnies-play-with-dynamite-anywhere
 title: Why Should Bunnies Play With Dynamite Anywhere?

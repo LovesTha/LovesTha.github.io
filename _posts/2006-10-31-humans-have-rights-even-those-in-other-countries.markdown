@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-10-31 05:59:24+00:00
+date: 2006-10-31 05:59:24+00:00 +1000
 layout: post
 slug: humans-have-rights-even-those-in-other-countries
 title: Humans Have Rights (Even Those In Other Countries)

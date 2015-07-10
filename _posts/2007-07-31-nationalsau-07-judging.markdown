@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-07-31 06:44:12+00:00
+date: 2007-07-31 06:44:12+00:00 +1000
 layout: post
 slug: nationalsau-07-judging
 title: Nationals.au '07 - Judging

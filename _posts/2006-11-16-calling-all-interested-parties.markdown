@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-16 01:00:00+00:00
+date: 2006-11-16 01:00:00+00:00 +1000
 layout: post
 slug: calling-all-interested-parties
 title: Calling All Interested Parties

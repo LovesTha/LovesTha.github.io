@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-24 06:42:46+00:00
+date: 2006-08-24 06:42:46+00:00 +1000
 layout: post
 slug: beds-flags-are-burning
 title: Beds Flags are Burning

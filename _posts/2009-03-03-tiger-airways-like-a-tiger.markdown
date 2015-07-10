@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-03-03 01:25:41+00:00
+date: 2009-03-03 01:25:41+00:00 +1000
 layout: post
 slug: tiger-airways-like-a-tiger
 title: Tiger Airways - Like a Tiger

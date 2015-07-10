@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-03-15 11:51:00+00:00
+date: 2006-03-15 11:51:00+00:00 +1000
 layout: post
 slug: azorious-deck
 title: Azorious Deck

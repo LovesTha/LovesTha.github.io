@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-02-09 00:21:55+00:00
+date: 2007-02-09 00:21:55+00:00 +1000
 layout: post
 slug: extended-practice-tournament
 title: Extended Practice Tournament

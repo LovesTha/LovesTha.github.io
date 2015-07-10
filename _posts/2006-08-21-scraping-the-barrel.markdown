@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-21 12:58:30+00:00
+date: 2006-08-21 12:58:30+00:00 +1000
 layout: post
 slug: scraping-the-barrel
 title: Scraping the Barrel

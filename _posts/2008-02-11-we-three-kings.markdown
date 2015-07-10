@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-02-11 01:24:52+00:00
+date: 2008-02-11 01:24:52+00:00 +1000
 layout: post
 slug: we-three-kings
 title: We Three Kings

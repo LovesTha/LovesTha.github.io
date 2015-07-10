@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-12-19 23:06:45+00:00
+date: 2006-12-19 23:06:45+00:00 +1000
 layout: post
 slug: lightening-review-jvc-canal-phones
 title: Lightening Review - JVC Canal Phones

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-01-10 03:53:33+00:00
+date: 2008-01-10 03:53:33+00:00 +1000
 layout: post
 slug: no-im-not-stupid
 title: No I'm Not Stupid

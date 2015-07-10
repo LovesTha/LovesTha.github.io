@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-15 06:00:54+00:00
+date: 2007-03-15 06:00:54+00:00 +1000
 layout: post
 slug: potential-asylum-seekers
 title: '"Potential Asylum Seekers"'

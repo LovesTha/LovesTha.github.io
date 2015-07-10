@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-27 02:25:28+00:00
+date: 2007-06-27 02:25:28+00:00 +1000
 layout: post
 slug: hello-how-may-i-help-you-today
 title: Hello, How May I Help You Today

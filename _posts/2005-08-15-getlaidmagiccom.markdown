@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-08-15 09:45:00+00:00
+date: 2005-08-15 09:45:00+00:00 +1000
 layout: post
 slug: getlaidmagiccom
 title: Getlaidmagic.com

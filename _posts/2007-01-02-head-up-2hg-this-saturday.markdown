@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-02 22:30:21+00:00
+date: 2007-01-02 22:30:21+00:00 +1000
 layout: post
 slug: head-up-2hg-this-saturday
 title: Head Up - 2HG This Saturday

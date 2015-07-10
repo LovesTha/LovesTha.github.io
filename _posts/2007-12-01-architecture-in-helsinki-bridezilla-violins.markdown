@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-12-01 03:17:40+00:00
+date: 2007-12-01 03:17:40+00:00 +1000
 layout: post
 slug: architecture-in-helsinki-bridezilla-violins
 title: Architecture in Helsinki + Bridezilla + Violins

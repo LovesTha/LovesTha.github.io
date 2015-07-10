@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-05-31 00:21:54+00:00
+date: 2007-05-31 00:21:54+00:00 +1000
 layout: post
 slug: ecotarian
 title: Ecotarian?

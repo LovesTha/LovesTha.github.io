@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-02 22:42:47+00:00
+date: 2007-09-02 22:42:47+00:00 +1000
 layout: post
 slug: fixing-ebay
 title: Fixing eBay

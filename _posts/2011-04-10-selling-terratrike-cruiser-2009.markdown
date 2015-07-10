@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2011-04-10 01:16:53+00:00
+date: 2011-04-10 01:16:53+00:00 +1000
 layout: post
 slug: selling-terratrike-cruiser-2009
 title: Selling - TerraTrike Cruiser 2009

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-02-16 03:52:56+00:00
+date: 2007-02-16 03:52:56+00:00 +1000
 layout: post
 slug: our-mate-hicksy
 title: Our Mate Hicksy

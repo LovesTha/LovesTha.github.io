@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-10-09 23:22:00+00:00
+date: 2005-10-09 23:22:00+00:00 +1000
 layout: post
 slug: two-headed-giant-just-5-days-away
 title: Two Headed Giant Just 5 Days Away

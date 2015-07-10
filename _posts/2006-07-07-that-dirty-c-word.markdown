@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-07 06:32:31+00:00
+date: 2006-07-07 06:32:31+00:00 +1000
 layout: post
 slug: that-dirty-c-word
 title: That Dirty C Word

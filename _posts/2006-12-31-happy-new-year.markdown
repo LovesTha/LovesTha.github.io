@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-12-31 11:05:13+00:00
+date: 2006-12-31 11:05:13+00:00 +1000
 layout: post
 slug: happy-new-year
 title: Happy New Year

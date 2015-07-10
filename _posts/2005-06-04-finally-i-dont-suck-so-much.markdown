@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-06-04 05:57:00+00:00
+date: 2005-06-04 05:57:00+00:00 +1000
 layout: post
 slug: finally-i-dont-suck-so-much
 title: Finally I don't suck so much

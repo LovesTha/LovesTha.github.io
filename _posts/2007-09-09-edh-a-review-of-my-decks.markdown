@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-09 23:19:14+00:00
+date: 2007-09-09 23:19:14+00:00 +1000
 layout: post
 slug: edh-a-review-of-my-decks
 title: 'EDH: A Review of My Decks'

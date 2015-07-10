@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-08-08 04:12:00+00:00
+date: 2005-08-08 04:12:00+00:00 +1000
 layout: post
 slug: rumour-season-2
 title: Rumour Season 2

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-11-10 00:42:00+00:00
+date: 2005-11-10 00:42:00+00:00 +1000
 layout: post
 slug: uncommon-drafting
 title: Uncommon Drafting

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-01-14 03:47:05+00:00
+date: 2009-01-14 03:47:05+00:00 +1000
 layout: post
 slug: facebook-party
 title: Facebook Party

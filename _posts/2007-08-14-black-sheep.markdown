@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-08-14 00:48:20+00:00
+date: 2007-08-14 00:48:20+00:00 +1000
 layout: post
 slug: black-sheep
 title: Black Sheep

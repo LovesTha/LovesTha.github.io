@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-13 05:05:55+00:00
+date: 2007-03-13 05:05:55+00:00 +1000
 layout: post
 slug: dangerous-stories-ii
 title: Dangerous Stories II

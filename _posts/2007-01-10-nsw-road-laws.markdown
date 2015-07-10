@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-10 04:11:50+00:00
+date: 2007-01-10 04:11:50+00:00 +1000
 layout: post
 slug: nsw-road-laws
 title: NSW Road Laws

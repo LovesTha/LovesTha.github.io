@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-03-28 02:14:00+00:00
+date: 2006-03-28 02:14:00+00:00 +1000
 layout: post
 slug: windows-live-messenger-invites
 title: Windows Live Messenger Invites

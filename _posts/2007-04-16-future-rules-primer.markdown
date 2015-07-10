@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-16 23:48:01+00:00
+date: 2007-04-16 23:48:01+00:00 +1000
 layout: post
 slug: future-rules-primer
 title: Future Rules Primer

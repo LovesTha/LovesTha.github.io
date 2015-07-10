@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-07-12 00:25:25+00:00
+date: 2007-07-12 00:25:25+00:00 +1000
 layout: post
 slug: you-think-this-is-bad
 title: You Think This is Bad

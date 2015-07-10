@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-01-24 07:00:00+00:00
+date: 2006-01-24 07:00:00+00:00 +1000
 layout: post
 slug: gruul-themed-decks-are-easy-to-build
 title: Gruul Themed Decks Are Easy To Build

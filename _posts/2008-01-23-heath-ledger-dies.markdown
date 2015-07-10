@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-01-23 05:12:27+00:00
+date: 2008-01-23 05:12:27+00:00 +1000
 layout: post
 slug: heath-ledger-dies
 title: Heath Ledger Dies

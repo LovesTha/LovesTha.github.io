@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-07-13 06:01:29+00:00
+date: 2007-07-13 06:01:29+00:00 +1000
 layout: post
 slug: power-saving
 title: Power Saving

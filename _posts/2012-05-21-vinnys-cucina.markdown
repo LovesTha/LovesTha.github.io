@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2012-05-21 05:03:44+00:00
+date: 2012-05-21 05:03:44+00:00 +1000
 layout: post
 slug: vinnys-cucina
 title: Vinny's Cucina

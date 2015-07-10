@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-26 05:05:14+00:00
+date: 2007-06-26 05:05:14+00:00 +1000
 layout: post
 slug: programming-tip-1
 title: 'Programming Tip #1'

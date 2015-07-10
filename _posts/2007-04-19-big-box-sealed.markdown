@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-19 02:22:38+00:00
+date: 2007-04-19 02:22:38+00:00 +1000
 layout: post
 slug: big-box-sealed
 title: Big Box Sealed

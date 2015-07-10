@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-06-03 23:54:09+00:00
+date: 2008-06-03 23:54:09+00:00 +1000
 layout: post
 slug: new-adventures-of-stupid-judge
 title: New Adventures of Stupid Judge

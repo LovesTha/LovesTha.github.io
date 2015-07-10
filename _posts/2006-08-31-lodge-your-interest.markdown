@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: false
-date: 2006-08-31 00:43:53+00:00
+date: 2006-08-31 00:43:53+00:00 +1000
 layout: post
 slug: lodge-your-interest
 title: Lodge Your Interest

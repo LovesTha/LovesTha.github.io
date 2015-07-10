@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-18 04:47:44+00:00
+date: 2007-09-18 04:47:44+00:00 +1000
 layout: post
 slug: robert-jordan-dies
 title: Robert Jordan Dies

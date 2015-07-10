@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-09-14 23:16:33+00:00
+date: 2006-09-14 23:16:33+00:00 +1000
 layout: post
 slug: two-headed-giant-draft
 title: Two Headed Giant Draft

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-27 02:33:53+00:00
+date: 2007-06-27 02:33:53+00:00 +1000
 layout: post
 slug: oh-noes
 title: Oh Noes

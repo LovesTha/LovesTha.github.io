@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-14 05:23:53+00:00
+date: 2007-03-14 05:23:53+00:00 +1000
 layout: post
 slug: a-knight-with-shining-gps
 title: A Knight With Shining GPS

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-17 01:33:39+00:00
+date: 2006-07-17 01:33:39+00:00 +1000
 layout: post
 slug: how-to-nearly-win-a-dvd-player
 title: How to Nearly Win a DVD Player

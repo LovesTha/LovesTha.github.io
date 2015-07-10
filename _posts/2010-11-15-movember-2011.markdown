@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2010-11-15 00:42:20+00:00
+date: 2010-11-15 00:42:20+00:00 +1000
 layout: post
 slug: movember-2011
 title: Movember 2011

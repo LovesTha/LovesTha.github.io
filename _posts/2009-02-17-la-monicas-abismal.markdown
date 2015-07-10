@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-02-17 05:10:17+00:00
+date: 2009-02-17 05:10:17+00:00 +1000
 layout: post
 slug: la-monicas-abismal
 title: La Monicas - Abismal

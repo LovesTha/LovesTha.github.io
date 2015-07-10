@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-09-21 23:26:00+00:00
+date: 2005-09-21 23:26:00+00:00 +1000
 layout: post
 slug: prerelease-this-weekend
 title: Prerelease This Weekend

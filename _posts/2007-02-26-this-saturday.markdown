@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-02-26 00:40:59+00:00
+date: 2007-02-26 00:40:59+00:00 +1000
 layout: post
 slug: this-saturday
 title: This Saturday

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-03-13 21:11:43+00:00
+date: 2008-03-13 21:11:43+00:00 +1000
 layout: post
 slug: photo-hosting
 title: Photo hosting

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-07-27 01:37:58+00:00
+date: 2007-07-27 01:37:58+00:00 +1000
 layout: post
 slug: lexicon-judgling
 title: Lexicon - Judgling

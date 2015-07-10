@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-07-06 10:53:00+00:00
+date: 2005-07-06 10:53:00+00:00 +1000
 layout: post
 slug: opps-regionals
 title: Opps Regionals

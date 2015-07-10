@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-04-02 22:16:35+00:00
+date: 2009-04-02 22:16:35+00:00 +1000
 layout: post
 slug: interesting-stats
 title: Interesting Stats
