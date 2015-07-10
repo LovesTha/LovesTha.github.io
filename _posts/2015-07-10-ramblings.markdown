@@ -2,7 +2,7 @@
 layout: post
 title:  "Ramblings or The State of Gareth"
 date:   2015-07-10 8:43:10
-categories: Thoughts
+tags: state-of-gareth
 ---
 
 So I'm going to post some rambling thoughts today. I'm not expecting there to be anything much of 
