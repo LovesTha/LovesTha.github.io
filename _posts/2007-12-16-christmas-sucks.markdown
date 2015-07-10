@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-12-16 05:49:20+00:00
+date: 2007-12-16 05:49:20+00:00 +1000
 layout: post
 slug: christmas-sucks
 title: Christmas Sucks

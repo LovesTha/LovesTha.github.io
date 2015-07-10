@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-04-20 03:17:35+00:00
+date: 2006-04-20 03:17:35+00:00 +1000
 layout: post
 slug: dissension
 title: Dissension Spoiler

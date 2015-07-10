@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-10-20 06:16:12+00:00
+date: 2006-10-20 06:16:12+00:00 +1000
 layout: post
 slug: my-take-on-money-theologies
 title: My take on Money Theologies

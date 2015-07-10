@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-06-07 06:39:55+00:00
+date: 2006-06-07 06:39:55+00:00 +1000
 layout: post
 slug: luck-sack-2006
 title: Luck Sack 2006

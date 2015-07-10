@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-12-29 05:28:17+00:00
+date: 2008-12-29 05:28:17+00:00 +1000
 layout: post
 slug: iga-the-clean-up-begins
 title: IGA, the clean up begins.

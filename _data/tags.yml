@@ -1,0 +1,33 @@
+- slug: food
+  name: Food
+
+- slug: restaurants
+  name: Restaurants
+
+- slug: other
+  name: Other
+
+- slug: movember
+  name: Movember
+
+- slug: geeky
+  name: Geek Matters
+
+- slug: rant
+  name: Rant
+
+- slug: travel
+  name: Travel
+
+- slug: dinner-party
+  name: Dinner Party
+
+- slug: duck
+  name: Duck
+
+- slug: books
+  name: Books
+
+- slug: comic
+  name: Comics
+

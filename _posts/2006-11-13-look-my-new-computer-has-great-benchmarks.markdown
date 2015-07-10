@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-13 02:45:20+00:00
+date: 2006-11-13 02:45:20+00:00 +1000
 layout: post
 slug: look-my-new-computer-has-great-benchmarks
 title: Look, My New Computer Has Great Benchmarks!?

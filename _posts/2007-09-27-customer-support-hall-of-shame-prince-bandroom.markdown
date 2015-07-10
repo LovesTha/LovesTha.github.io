@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-27 00:31:55+00:00
+date: 2007-09-27 00:31:55+00:00 +1000
 layout: post
 slug: customer-support-hall-of-shame-prince-bandroom
 title: 'Customer Support Hall of Shame: Prince Bandroom'

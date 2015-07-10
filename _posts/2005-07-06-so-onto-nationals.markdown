@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-07-06 13:29:00+00:00
+date: 2005-07-06 13:29:00+00:00 +1000
 layout: post
 slug: so-onto-nationals
 title: So Onto Nationals

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-12-25 21:58:02+00:00
+date: 2006-12-25 21:58:02+00:00 +1000
 layout: post
 slug: merry-christmas
 title: Merry Christmas

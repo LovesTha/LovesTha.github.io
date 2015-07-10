@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-09-04 06:56:18+00:00
+date: 2006-09-04 06:56:18+00:00 +1000
 layout: post
 slug: northen-magic-championship-06-happened
 title: Northen Magic Championship '06 Happened

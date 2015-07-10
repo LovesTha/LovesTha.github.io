@@ -1,19 +1,14 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-10-06 07:37:27+00:00
+date: 2008-10-06 07:37:27+00:00 +1000
 layout: post
 slug: bill-hensen-not-evil
 title: 'Bill Hensen: Not Evil'
 wordpress_id: 393
 categories:
 - Rant
-tags:
-- Art
-- Bill Henson
-- Coburg
-- Porn
-- Rant
+tags: [Art, Bill Henson, Coburg, Porn, rant]
 ---
 
 Bill Henson has managed to make the lead story on news services again. We haven't been told details that would make it easier to determine if what he, or the principal, did was wrong though.

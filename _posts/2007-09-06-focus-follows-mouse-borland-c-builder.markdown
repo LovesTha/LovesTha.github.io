@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-06 01:38:08+00:00
+date: 2007-09-06 01:38:08+00:00 +1000
 layout: post
 slug: focus-follows-mouse-borland-c-builder
 title: Focus Follows Mouse & Borland C++ Builder

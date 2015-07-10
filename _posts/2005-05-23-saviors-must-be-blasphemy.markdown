@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-05-23 10:13:00+00:00
+date: 2005-05-23 10:13:00+00:00 +1000
 layout: post
 slug: saviors-must-be-blasphemy
 title: Saviors must be blasphemy

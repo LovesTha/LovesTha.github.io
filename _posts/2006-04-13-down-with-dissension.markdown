@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-04-13 07:44:29+00:00
+date: 2006-04-13 07:44:29+00:00 +1000
 layout: post
 slug: down-with-dissension
 title: Down With Dissension?

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-06 00:28:12+00:00
+date: 2006-08-06 00:28:12+00:00 +1000
 layout: post
 slug: northern-magic-championship-06
 title: Northern Magic Championship '06

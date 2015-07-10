@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-06-18 23:57:50+00:00
+date: 2006-06-18 23:57:50+00:00 +1000
 layout: post
 slug: state-youth-games
 title: State Youth Games

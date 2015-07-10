@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-05-07 12:04:57+00:00
+date: 2006-05-07 12:04:57+00:00 +1000
 layout: post
 slug: woops-anversary-missed
 title: Woops Anversary Missed

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-05-25 02:27:44+00:00
+date: 2007-05-25 02:27:44+00:00 +1000
 layout: post
 slug: gammer-glossary-infy
 title: 'Gamer Glossary: Infy'

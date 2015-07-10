@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-10-01 02:24:37+00:00
+date: 2005-10-01 02:24:37+00:00 +1000
 layout: post
 slug: friday-night-drafting-at-lurg
 title: Friday Night Drafting at LURG

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-12 00:12:15+00:00
+date: 2006-07-12 00:12:15+00:00 +1000
 layout: post
 slug: raw-dump-of-notes
 title: Raw Dump of Notes

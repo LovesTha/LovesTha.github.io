@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-06-18 23:58:39+00:00
+date: 2006-06-18 23:58:39+00:00 +1000
 layout: post
 slug: next-two-headed-giant
 title: Next Two Headed Giant

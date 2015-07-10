@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-05 01:46:48+00:00
+date: 2007-09-05 01:46:48+00:00 +1000
 layout: post
 slug: situationaly-better-counterspell
 title: Situationaly Better Counterspell?!

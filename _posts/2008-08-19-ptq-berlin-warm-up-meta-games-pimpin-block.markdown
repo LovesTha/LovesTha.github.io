@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-08-19 00:47:43+00:00
+date: 2008-08-19 00:47:43+00:00 +1000
 layout: post
 slug: ptq-berlin-warm-up-meta-games-pimpin-block
 title: PTQ Berlin Warm Up - Meta Games Pimpin' Block

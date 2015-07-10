@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-02-01 00:08:55+00:00
+date: 2007-02-01 00:08:55+00:00 +1000
 layout: post
 slug: northern-magic-two-headed-giant-14
 title: 'Northern Magic - Two Headed Giant #14'

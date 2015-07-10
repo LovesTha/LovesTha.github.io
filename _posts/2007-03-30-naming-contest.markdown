@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-30 01:16:31+00:00
+date: 2007-03-30 01:16:31+00:00 +1000
 layout: post
 slug: naming-contest
 title: Naming Contest

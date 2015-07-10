@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-09-22 00:08:00+00:00
+date: 2005-09-22 00:08:00+00:00 +1000
 layout: post
 slug: to-jitte-or-to-not
 title: To Jitte or to Not?

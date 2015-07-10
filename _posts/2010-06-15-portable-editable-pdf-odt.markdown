@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2010-06-15 04:20:08+00:00
+date: 2010-06-15 04:20:08+00:00 +1000
 layout: post
 slug: portable-editable-pdf-odt
 title: 'Portable & Editable: PDF + ODT'

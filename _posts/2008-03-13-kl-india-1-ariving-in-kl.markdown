@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-03-13 11:06:54+00:00
+date: 2008-03-13 11:06:54+00:00 +1000
 layout: post
 slug: kl-india-1-ariving-in-kl
 title: 'KL + India #1 - Ariving in KL'

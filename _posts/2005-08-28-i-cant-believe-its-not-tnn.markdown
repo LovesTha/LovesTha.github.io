@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-08-28 00:14:00+00:00
+date: 2005-08-28 00:14:00+00:00 +1000
 layout: post
 slug: i-cant-believe-its-not-tnn
 title: I can't believe it's not TnN

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-10-11 07:54:04+00:00
+date: 2006-10-11 07:54:04+00:00 +1000
 layout: post
 slug: black-stump
 title: Black Stump

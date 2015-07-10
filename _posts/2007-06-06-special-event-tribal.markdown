@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-06 01:50:50+00:00
+date: 2007-06-06 01:50:50+00:00 +1000
 layout: post
 slug: special-event-tribal
 title: Special Event - Tribal

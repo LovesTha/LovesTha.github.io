@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-08-08 02:58:31+00:00
+date: 2007-08-08 02:58:31+00:00 +1000
 layout: post
 slug: push-bikes-are-safer
 title: Push Bikes Are Safer

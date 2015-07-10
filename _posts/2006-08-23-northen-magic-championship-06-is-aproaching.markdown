@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-23 05:18:02+00:00
+date: 2006-08-23 05:18:02+00:00 +1000
 layout: post
 slug: northen-magic-championship-06-is-aproaching
 title: Northen Magic Championship '06 is Aproaching

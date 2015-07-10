@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-11-26 00:01:56+00:00
+date: 2007-11-26 00:01:56+00:00 +1000
 layout: post
 slug: good-burger-watch-movement
 title: Good Burger Watch Movement

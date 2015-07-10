@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-08 02:14:51+00:00
+date: 2006-11-08 02:14:51+00:00 +1000
 layout: post
 slug: three-somes-dont-appear-to-be-on-the-cards
 title: Three-Somes Don't Appear To Be On The Cards

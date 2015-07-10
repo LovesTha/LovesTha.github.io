@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-08 00:24:02+00:00
+date: 2007-03-08 00:24:02+00:00 +1000
 layout: post
 slug: rebel-crossing
 title: Rebel Crossing

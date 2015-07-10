@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-03-16 12:17:00+00:00
+date: 2006-03-16 12:17:00+00:00 +1000
 layout: post
 slug: free-speech-or-life
 title: Free speech or Life?

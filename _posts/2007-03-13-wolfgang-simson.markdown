@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-13 06:21:52+00:00
+date: 2007-03-13 06:21:52+00:00 +1000
 layout: post
 slug: wolfgang-simson
 title: Wolfgang Simson

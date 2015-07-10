@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-23 09:17:56+00:00
+date: 2007-03-23 09:17:56+00:00 +1000
 layout: post
 slug: hillong
 title: Hill$ong

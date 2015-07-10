@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-05-10 06:08:49+00:00
+date: 2009-05-10 06:08:49+00:00 +1000
 layout: post
 slug: new-lense-purchase-asahi-pentax-50mm-f1-2-prime
 title: New Lense Purchase - Asahi / Pentax 50mm F1.2 Prime

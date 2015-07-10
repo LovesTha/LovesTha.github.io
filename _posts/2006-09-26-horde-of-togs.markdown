@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-09-26 23:39:26+00:00
+date: 2006-09-26 23:39:26+00:00 +1000
 layout: post
 slug: horde-of-togs
 title: Horde of Togs

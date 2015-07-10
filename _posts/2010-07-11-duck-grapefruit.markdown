@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2010-07-11 23:46:00+00:00
+date: 2010-07-11 23:46:00+00:00 +1000
 layout: post
 slug: duck-grapefruit
 title: Duck, Grapefruit!

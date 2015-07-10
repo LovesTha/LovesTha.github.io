@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-08 23:47:57+00:00
+date: 2007-01-08 23:47:57+00:00 +1000
 layout: post
 slug: beating-dragonstorm
 title: Beating Dragonstorm

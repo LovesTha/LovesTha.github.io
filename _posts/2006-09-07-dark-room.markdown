@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-09-07 04:30:40+00:00
+date: 2006-09-07 04:30:40+00:00 +1000
 layout: post
 slug: dark-room
 title: Dark Room

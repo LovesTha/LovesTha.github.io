@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-02-15 23:00:13+00:00
+date: 2007-02-15 23:00:13+00:00 +1000
 layout: post
 slug: piracy-forms-a-microsoft-friendship
 title: Piracy Forms a Microsoft Friendship?

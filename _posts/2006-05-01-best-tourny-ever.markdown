@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-05-01 09:02:25+00:00
+date: 2006-05-01 09:02:25+00:00 +1000
 layout: post
 slug: best-tourny-ever
 title: Best. Tourny. Ever.

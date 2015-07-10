@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-15 05:40:02+00:00
+date: 2007-03-15 05:40:02+00:00 +1000
 layout: post
 slug: assine
 title: Assine?

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-07-17 03:19:51+00:00
+date: 2007-07-17 03:19:51+00:00 +1000
 layout: post
 slug: climate-change-misdirection
 title: Climate Change Misdirection

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-04-13 04:08:18+00:00
+date: 2006-04-13 04:08:18+00:00 +1000
 layout: post
 slug: how-to-qualify
 title: How to Qualify

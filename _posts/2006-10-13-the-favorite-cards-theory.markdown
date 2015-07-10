@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-10-13 01:31:06+00:00
+date: 2006-10-13 01:31:06+00:00 +1000
 layout: post
 slug: the-favorite-cards-theory
 title: The Favorite Cards Theory

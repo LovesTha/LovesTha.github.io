@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-08-08 03:48:00+00:00
+date: 2005-08-08 03:48:00+00:00 +1000
 layout: post
 slug: the-joys-of-a-new-format
 title: The Joys of a New Format

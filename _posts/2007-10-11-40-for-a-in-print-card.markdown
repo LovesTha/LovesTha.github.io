@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-10-11 01:02:01+00:00
+date: 2007-10-11 01:02:01+00:00 +1000
 layout: post
 slug: 40-for-a-in-print-card
 title: $40 For An In-Print Card

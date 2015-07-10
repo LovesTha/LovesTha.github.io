@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-11-07 00:42:00+00:00
+date: 2005-11-07 00:42:00+00:00 +1000
 layout: post
 slug: gp-melbourne-mini-report
 title: GP Melbourne Mini Report

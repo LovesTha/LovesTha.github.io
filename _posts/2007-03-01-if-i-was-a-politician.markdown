@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-03-01 03:28:51+00:00
+date: 2007-03-01 03:28:51+00:00 +1000
 layout: post
 slug: if-i-was-a-politician
 title: If I was a Politician

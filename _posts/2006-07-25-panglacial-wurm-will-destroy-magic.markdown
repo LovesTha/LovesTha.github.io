@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-25 05:26:20+00:00
+date: 2006-07-25 05:26:20+00:00 +1000
 layout: post
 slug: panglacial-wurm-will-destroy-magic
 title: Panglacial Wurm Will Destroy Magic

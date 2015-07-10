@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-03 23:47:44+00:00
+date: 2006-07-03 23:47:44+00:00 +1000
 layout: post
 slug: another-one-not-in-the-books
 title: Another One (Not) In The Books

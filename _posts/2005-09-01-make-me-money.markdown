@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-09-01 00:55:00+00:00
+date: 2005-09-01 00:55:00+00:00 +1000
 layout: post
 slug: make-me-money
 title: Make Me Money

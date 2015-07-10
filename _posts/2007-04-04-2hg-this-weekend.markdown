@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-04 02:16:07+00:00
+date: 2007-04-04 02:16:07+00:00 +1000
 layout: post
 slug: 2hg-this-weekend
 title: 2HG This Weekend

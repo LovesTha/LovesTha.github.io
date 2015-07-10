@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-26 23:46:15+00:00
+date: 2007-09-26 23:46:15+00:00 +1000
 layout: post
 slug: archbisop-of-mozambique-mad-or-evil
 title: Archbisop of Mozambique Mad or Evil?

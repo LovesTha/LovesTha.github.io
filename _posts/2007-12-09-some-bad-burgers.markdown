@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-12-09 02:20:06+00:00
+date: 2007-12-09 02:20:06+00:00 +1000
 layout: post
 slug: some-bad-burgers
 title: Some Bad Burgers

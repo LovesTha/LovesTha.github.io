@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-05-04 01:14:30+00:00
+date: 2006-05-04 01:14:30+00:00 +1000
 layout: post
 slug: gambling-poker-tournament-yes-magic-tournament-no
 title: 'Gambling: Poker Tournament - Yes, Magic Tournament - No?'

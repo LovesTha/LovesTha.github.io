@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-07-13 01:53:52+00:00
+date: 2007-07-13 01:53:52+00:00 +1000
 layout: post
 slug: ring-for-tickets-real-soon-now
 title: Ring For Tickets, Real Soon Now

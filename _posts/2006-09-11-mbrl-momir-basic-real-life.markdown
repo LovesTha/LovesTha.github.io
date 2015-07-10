@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-09-11 00:41:57+00:00
+date: 2006-09-11 00:41:57+00:00 +1000
 layout: post
 slug: mbrl-momir-basic-real-life
 title: MBRL - Momir Basic Real Life

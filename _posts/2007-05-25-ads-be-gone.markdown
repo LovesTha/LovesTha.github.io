@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-05-25 00:14:50+00:00
+date: 2007-05-25 00:14:50+00:00 +1000
 layout: post
 slug: ads-be-gone
 title: Ads Be Gone

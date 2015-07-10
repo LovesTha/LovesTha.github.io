@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-05-26 04:02:43+00:00
+date: 2006-05-26 04:02:43+00:00 +1000
 layout: post
 slug: to-to-or-not-to-to
 title: To T.O. Or Not To T.O.?

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-07-29 07:44:15+00:00
+date: 2009-07-29 07:44:15+00:00 +1000
 layout: post
 slug: telechoice-optus-apple-and-fraud
 title: Telechoice, Optus, Apple and Fraud

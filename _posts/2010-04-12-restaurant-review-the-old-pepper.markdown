@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2010-04-12 00:45:54+00:00
+date: 2010-04-12 00:45:54+00:00 +1000
 layout: post
 slug: restaurant-review-the-old-pepper
 title: Restaurant Review - The Old Pepper

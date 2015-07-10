@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-03-11 04:29:23+00:00
+date: 2008-03-11 04:29:23+00:00 +1000
 layout: post
 slug: words-from-the-gadds
 title: Words from the Gadds

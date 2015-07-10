@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-07 06:05:43+00:00
+date: 2006-07-07 06:05:43+00:00 +1000
 layout: post
 slug: another-decent-thursday-inimportant-news-round-up
 title: Another Decent Thursday / Unimportant News Round Up

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-02-25 04:37:02+00:00
+date: 2009-02-25 04:37:02+00:00 +1000
 layout: post
 slug: vita-vacuus-carus-days-0-2
 title: Vita Vacuus Carus - Days 0 - 2

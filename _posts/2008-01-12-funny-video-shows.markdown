@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-01-12 08:59:01+00:00
+date: 2008-01-12 08:59:01+00:00 +1000
 layout: post
 slug: funny-video-shows
 title: Funny Video Shows

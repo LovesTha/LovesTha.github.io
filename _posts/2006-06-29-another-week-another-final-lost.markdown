@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-06-29 23:05:01+00:00
+date: 2006-06-29 23:05:01+00:00 +1000
 layout: post
 slug: another-week-another-final-lost
 title: Another Week, Another Final Lost

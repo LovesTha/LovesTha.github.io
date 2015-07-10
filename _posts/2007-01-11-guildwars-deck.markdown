@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-11 08:28:14+00:00
+date: 2007-01-11 08:28:14+00:00 +1000
 layout: post
 slug: guildwars-deck
 title: Guildwars Deck

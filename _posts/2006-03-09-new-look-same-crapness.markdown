@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-03-09 23:35:00+00:00
+date: 2006-03-09 23:35:00+00:00 +1000
 layout: post
 slug: new-look-same-crapness
 title: New Look - Same Crapness

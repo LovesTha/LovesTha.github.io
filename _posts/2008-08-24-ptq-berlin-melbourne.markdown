@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-08-24 00:59:46+00:00
+date: 2008-08-24 00:59:46+00:00 +1000
 layout: post
 slug: ptq-berlin-melbourne
 title: PTQ Berlin - Melbourne

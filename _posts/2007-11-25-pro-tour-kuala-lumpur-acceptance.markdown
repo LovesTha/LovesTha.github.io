@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-11-25 23:33:41+00:00
+date: 2007-11-25 23:33:41+00:00 +1000
 layout: post
 slug: pro-tour-kuala-lumpur-acceptance
 title: Pro Tour Kuala Lumpur - Acceptance

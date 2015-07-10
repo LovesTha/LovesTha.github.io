@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-07-29 23:55:36+00:00
+date: 2008-07-29 23:55:36+00:00 +1000
 layout: post
 slug: belief-in-god-is-nature-not-nurture
 title: Belief in God is Nature, not Nurture

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-09-14 23:58:25+00:00
+date: 2009-09-14 23:58:25+00:00 +1000
 layout: post
 slug: uril-the-planestalker
 title: Uril, the Planestalker

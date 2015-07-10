@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-06 00:11:26+00:00
+date: 2006-08-06 00:11:26+00:00 +1000
 layout: post
 slug: disapointing-turn-outs
 title: Disapointing turn outs

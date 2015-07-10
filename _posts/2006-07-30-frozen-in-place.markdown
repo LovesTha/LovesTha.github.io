@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-07-30 13:48:26+00:00
+date: 2006-07-30 13:48:26+00:00 +1000
 layout: post
 slug: frozen-in-place
 title: Frozen in Place

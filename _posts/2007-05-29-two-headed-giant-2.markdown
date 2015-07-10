@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-05-29 00:01:10+00:00
+date: 2007-05-29 00:01:10+00:00 +1000
 layout: post
 slug: two-headed-giant-2
 title: Two Headed Giant

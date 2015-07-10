@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-09-22 06:43:00+00:00
+date: 2006-09-22 06:43:00+00:00 +1000
 layout: post
 slug: prerelease-just-a-few-hours-away
 title: Prerelease Just a Few Hours Away

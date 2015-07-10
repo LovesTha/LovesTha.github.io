@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-06-14 03:31:32+00:00
+date: 2006-06-14 03:31:32+00:00 +1000
 layout: post
 slug: judging-nationals
 title: Judging Nationals

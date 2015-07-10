@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2008-03-13 00:35:47+00:00
+date: 2008-03-13 00:35:47+00:00 +1000
 layout: post
 slug: firefox-3-beta-4
 title: Firefox 3 Beta 4

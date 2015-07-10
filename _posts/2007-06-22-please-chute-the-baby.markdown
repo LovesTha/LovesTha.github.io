@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-06-22 03:55:36+00:00
+date: 2007-06-22 03:55:36+00:00 +1000
 layout: post
 slug: please-chute-the-baby
 title: Please Chute the Baby

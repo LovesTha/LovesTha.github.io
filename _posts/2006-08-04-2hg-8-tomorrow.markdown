@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-08-04 05:53:40+00:00
+date: 2006-08-04 05:53:40+00:00 +1000
 layout: post
 slug: 2hg-8-tomorrow
 title: '2HG #8 Tomorrow'

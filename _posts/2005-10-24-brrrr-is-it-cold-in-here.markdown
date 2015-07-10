@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2005-10-24 12:00:00+00:00
+date: 2005-10-24 12:00:00+00:00 +1000
 layout: post
 slug: brrrr-is-it-cold-in-here
 title: Brrrr, is it Cold in Here?

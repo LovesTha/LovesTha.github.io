@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-11-13 00:31:56+00:00
+date: 2006-11-13 00:31:56+00:00 +1000
 layout: post
 slug: tromp-the-domains
 title: Tromp The Domains

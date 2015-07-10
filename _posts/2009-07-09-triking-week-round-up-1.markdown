@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2009-07-09 11:45:05+00:00
+date: 2009-07-09 11:45:05+00:00 +1000
 layout: post
 slug: triking-week-round-up-1
 title: 'Triking Week Round Up #1'

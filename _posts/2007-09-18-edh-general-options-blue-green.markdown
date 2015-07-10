@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-09-18 03:10:21+00:00
+date: 2007-09-18 03:10:21+00:00 +1000
 layout: post
 slug: edh-general-options-blue-green
 title: 'EDH: General Options - Blue / Green'

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-04-27 02:08:16+00:00
+date: 2007-04-27 02:08:16+00:00 +1000
 layout: post
 slug: policy-name-may-not-represent-policy
 title: Policy Name May Not Represent Policy

@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2006-05-04 07:13:04+00:00
+date: 2006-05-04 07:13:04+00:00 +1000
 layout: post
 slug: ug-control
 title: UG Control

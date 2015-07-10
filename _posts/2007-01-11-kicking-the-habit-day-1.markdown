@@ -1,7 +1,7 @@
 ---
 author: rockpaperdynamite
 comments: true
-date: 2007-01-11 04:26:26+00:00
+date: 2007-01-11 04:26:26+00:00 +1000
 layout: post
 slug: kicking-the-habit-day-1
 title: Kicking The Habit - Day 1
