@@ -59,6 +59,9 @@ enjoying the recent tradition of doing a Two Headed Giant event with my brother 
 the proximity of the large set release date to our wedding anniversary is probably going to put and end
 to that run at some point, but hopefully that date is far in the future.
 
+Finally two judge projects have accepted me, so I've got a bit of work to do in that area of judging as
+well. It feels good to be part of such an awesome community.
+
 ## Board Games
 
 I'm getting into board games a bit more recently. I've always enjoyed them, but in days by gone I never
@@ -86,7 +89,11 @@ It's rare that I enjoy a game mostly because of it's flavour but Smash Up is def
 pairing up really weird combinations. Who just doesn't love the idea of Pirates and Magical Ponies 
 teaming up?
 
+# Wrap Up
 
+So that was a friendly little meander through where things are up to in my life right now. There are plenty
+of things I've skipped over that I'll mention in more depth later and other things that I've not mentioned 
+at all. 
 
 
 
