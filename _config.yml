@@ -89,3 +89,5 @@ prose:
     - /img
     - /js
     
+gems:
+  - jekyll-sitemap
