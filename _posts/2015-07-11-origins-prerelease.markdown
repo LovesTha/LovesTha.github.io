@@ -8,25 +8,26 @@ tags: [magic, prerelease, set-origins]
 # Today
 
 Today I played Two-Headed Giant at [Next Level Games Ringwood][1] with my 
-brother in law Wayne. Weirdly 3 of the 4 teams we played had food based 
-names matching our entry level riff on our surnames (it doesn't take much
-when you start with Pye).
+brother-in-law Wayne. Weirdly three of the four teams we played had food 
+based names matching our entry level riff on our surnames (it doesn't take 
+much when you start with Pye).
 
 # The Event
 
 It was my first time doing a Prerelease at NLRG, I was surprised with how 
 quiet the event was. I think the store was a little disappointed with the 
-numbers but we all had a lots of fun and it is nice when there is enough 
-room to spread your elbows out and leave a bag on a table. I wonder how much
-of the average turn out was due to people not grokking that this wasn't a 
-core set. There are lots of people that aren't that well connected to the
-major sources of news and also people who skip, or do less flights at, 
-core set prereleases and the intersection of those two groups can account
-for many of the people missing this weekend.
+numbers but we all had a lots of fun and it is nice to have enough room to 
+spread your elbows out and leave a bag on a table. 
+
+I wonder how much of the average turn out was due to people not grokking 
+that this wasn't a core set. There are lots of people that aren't that well 
+connected to the major sources of news and also people who skip, or do less 
+flights at, core set prereleases and the intersection of those two groups 
+can account for many of the people missing this weekend.
 
 Or people who don't believe Wizards of the Coast when they inform us of how
 awesome their new product is. It's a pretty reasonable type of skepticism.
-It is a skepticism that helps us filter out all of the overly optimistic
+This skepticism helps us filter out much of the overly optimistic
 marketing we are bombarded with. Personally I think that WotC have done 
 pretty well at being honest with us players, at least when their lawyers 
 aren't tying their hands but that is a topic for another longer more in
@@ -35,7 +36,7 @@ around 6 months time).
 
 # Our Performance
 
-Onto our actual cards, we picked Green and Blue for our prerelease packs
+Onto our actual cards. We picked Green and Blue for our prerelease packs
 (which is a rabbit hole I'm not really interested in discussing). Green
 because Wayne loves him some nature loving fatties and Blue because it 
 wasn't very popular and I didn't really care. Wayne's pack had the new 
@@ -56,16 +57,16 @@ playing on their own but were really good with some equipment to strap on.
 
 Wayne's deck was BG as he wanted to play elves, but during construction we 
 realised he just didn't have enough of the good tribal elves to force the 
-idea so he ended up on generic BG with some ramp and lots of good creatures.
-His combat tricks were also really good.
+theme so he ended up on generic BG with some ramp and lots of good creatures.
+His combat tricks were also really pivotal to our successes.
 
 One of my favourite interactions in the matches was having my Iroas's 
 Champion chump blocked by goblin tokens for 5 turns in a row as they were 
-scared of a surprise [Titan's Strength][6] blowing them out. The irony was
-that there were three of them in my sideboard that I just couldn't find room 
-for. Yes I know they are great, but the rest of the deck felt really solid 
-without them and three equipment is already a lot of creature pump without 
-going to ones that increase the chances of enemies removal blowing us out.
+scared of a surprise [Titan's Strength][6] blowing them out. Ironically there 
+were three of them in my sideboard that I just couldn't find room for. Yes I 
+know they are great, but the rest of the deck felt really solid without them 
+and three equipment is already a lot of creature pump without going to ones 
+that increase the chances of enemies removal blowing us out.
 
 Another MVP for us was [Wild Instincts][7], it even combined with a black 
 creature with death touch to kill [Gaea's Revenge][8]. It took our opponents 
@@ -78,9 +79,9 @@ strongly. I suspect this was because we weren't doing anything to
 intentionally engage in the flavour, which is pretty common in a competitive
 environment. Having so many different stories going on and on so many 
 different worlds makes it pretty hard for the set to have enough of a theme
-to slap a tournament player in the Vorthosian organ so they notice.
+to slap a tournament player in the Vorthosian organ so we notice.
 
-But onto the cards themselves, they were a lot of fun to play with. The deck
+Onto the cards themselves, they were a lot of fun to play with. The deck
 building felt complex with plenty of themes to pick from and enough powerful
 cards to make good decks. That bodes pretty well for drafting the set, it
 wont be as boring as many core sets have been to draft. It still suspect it'll 
