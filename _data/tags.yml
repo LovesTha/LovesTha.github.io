@@ -1,5 +1,20 @@
+- slug: limited
+  name: Limited (Draft or Sealed)
+
+- slug: standard
+  name: Standard Constructed
+
+- slug: edh
+  name: Commander (formerly EDH)
+
+- slug: highlander
+  name: Australian 7 Point Highlander
+
 - slug: magic
   name: Magic the Gathering
+
+- slug: meta
+  name: Site News
 
 - slug: prerelease
   name: MtG Prereleases

@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome Back To RPD"
 date:   2015-07-09 20:58:15 +1000
-categories: meta
+tags: meta
 ---
 
 Long time no posts my friends. I checked and my last post was shortly before I proposed to my 

@@ -6,8 +6,7 @@ layout: post
 slug: theres-been-a-short-delay
 title: There's Been a Short Delay
 wordpress_id: 532
-categories:
-- Magic The Gathering
+tags: meta
 ---
 
 Sorry for the long time between posts, I suspect this might have gotten me off a few peoples RSS feed lists. I know that shorter silences have made me delete blogs before :)

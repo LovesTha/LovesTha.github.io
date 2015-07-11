@@ -6,8 +6,7 @@ layout: post
 slug: why-should-bunnies-play-with-dynamite-anywhere
 title: Why Should Bunnies Play With Dynamite Anywhere?
 wordpress_id: 173
-categories:
-- Meta-Site Discussion
+tags: meta
 ---
 
 Quite often I notice that people find my blog when searching for "where bunnys shouldnt play with dynamite". This causes me two huge issues:

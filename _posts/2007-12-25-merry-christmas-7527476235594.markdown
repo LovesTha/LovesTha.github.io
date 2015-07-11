@@ -6,8 +6,7 @@ layout: post
 slug: merry-christmas-7527476235594
 title: 'Merry Christmas #7,527,476,235,594'
 wordpress_id: 327
-categories:
-- Meta-Site Discussion
+tags: meta
 ---
 
 So yes this is Christmas

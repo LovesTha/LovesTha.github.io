@@ -6,10 +6,7 @@ layout: post
 slug: iga-the-clean-up-begins
 title: IGA, the clean up begins.
 wordpress_id: 411
-categories:
-- Rant
-tags:
-- Random
+tags: [rant, meta]
 ---
 
 Not sure how we got onto it but a friend I was chatting with yesterday mentioned that the IGAs (Independent Grocers Association) were increasing the requirements and standards on keeping membership with them. So what do I see today when I walk into what I always think of as the worst IGA ever?
