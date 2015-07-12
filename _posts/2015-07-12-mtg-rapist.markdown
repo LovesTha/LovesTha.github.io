@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "MTG Rapist"
+title:  "MTG Rapist?!?!?"
 date:   2015-07-12 18:30 +1000
 tags: [magic, rape]
 ---
