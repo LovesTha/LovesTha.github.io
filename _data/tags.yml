@@ -1,63 +1,63 @@
-- slug: rape
+rape:
   name: Rape
 
-- slug: limited
+limited:
   name: Limited (Draft or Sealed)
 
-- slug: standard
+standard:
   name: Standard Constructed
 
-- slug: edh
+edh:
   name: Commander (formerly EDH)
 
-- slug: highlander
+highlander:
   name: Australian 7 Point Highlander
 
-- slug: magic
+magic:
   name: Magic the Gathering
 
-- slug: meta
+meta:
   name: Site News
 
-- slug: prerelease
+prerelease:
   name: MtG Prereleases
 
-- slug: set-origins
+set-origins:
   name: Magic Origins (July 2015)
 
-- slug: food
+food:
   name: Food
 
-- slug: restaurants
+restaurants:
   name: Restaurants
 
-- slug: other
+other:
   name: Other
 
-- slug: movember
+movember:
   name: Movember
 
-- slug: geeky
+geeky:
   name: Geek Matters
 
-- slug: rant
+rant:
   name: Rant
 
-- slug: travel
+travel:
   name: Travel
 
-- slug: dinner-party
+dinner-party:
   name: Dinner Party
 
-- slug: duck
+duck:
   name: Duck
 
-- slug: books
+books:
   name: Books
 
-- slug: comic
+comic:
   name: Comics
 
-- slug: state-of-gareth
+state-of-gareth:
   name: The State of Gareth
 
