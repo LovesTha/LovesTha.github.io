@@ -17,7 +17,7 @@ Played in the Two Headed Giant event at our (Melbourne) prerelease yesterday. It
 
 
 
-In the first game we won though their occurred a situation where it could be aledged that I was a bit of an asshole. Our opponent made a move to react to our declaration of attacker, so I stopped them and asked were they doing this during the declare blockers step, they replied "Yes" and proceeded to cast Flash Conscription and try and block with the creature they stole. When I informed them that it was too late to block they were quiet indigent. I was right it was too late to block:
+In the first game we won though their occurred a situation where it could be alleged that I was a bit of an asshole. Our opponent made a move to react to our declaration of attacker, so I stopped them and asked were they doing this during the declare blockers step, they replied "Yes" and proceeded to cast Flash Conscription and try and block with the creature they stole. When I informed them that it was too late to block they were quiet indigent. I was right it was too late to block:
 
 	309.1. As the declare blockers step begins, the defending player declares blockers
 

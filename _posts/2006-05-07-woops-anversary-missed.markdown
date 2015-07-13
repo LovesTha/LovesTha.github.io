@@ -10,4 +10,4 @@ categories:
 - Magic The Gathering
 ---
 
-Last Wensday this web site celebrated its first birthday. Sure I've changed who the blog is with once, but its still a first birthday.
+Last Wednesday this web site celebrated its first birthday. Sure I've changed who the blog is with once, but its still a first birthday.

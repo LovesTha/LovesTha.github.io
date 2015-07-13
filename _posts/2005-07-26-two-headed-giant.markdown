@@ -11,9 +11,9 @@ tags:
 - nm
 ---
 
-Check it out, I'm running a Two Headed Giant tournament at my church, come along if you happen to be in the .5% of the world thats close enough to Preston Victoria to bother coming :)
+Check it out, I'm running a Two Headed Giant tournament at my church, come along if you happen to be in the .5% of the world that's close enough to Preston Victoria to bother coming :)
 
 9.30am Saturday October 15
 Northern Community Church of Christ
 81 High Street Preston
-$25 per person (includes product to build decks from + garanteed prizes)
+$25 per person (includes product to build decks from + guaranteed prizes)

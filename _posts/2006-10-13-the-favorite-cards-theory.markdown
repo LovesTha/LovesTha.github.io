@@ -18,7 +18,7 @@ Stormbind
 Mystic Enforcer
 Magus of the Scroll<!-- more -->
 
-Ok so that looks like a good collection of powerful cards that can have some internal synergy. Its obvious this deck will be 3 colours: Red, Green and White. Now we need to add a few controlling elements, I suggest:
+Okay so that looks like a good collection of powerful cards that can have some internal synergy. Its obvious this deck will be 3 colours: Red, Green and White. Now we need to add a few controlling elements, I suggest:
 
 Lightning Helix
 Char

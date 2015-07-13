@@ -18,7 +18,7 @@ Just a collection of thoughts about the nations capital:
 
   * Just because a judge is head judging a nationals side event doesn't mean they understand the rules
 
-  * Vintage players should have to call a judge over in the first place to work out how much Yawgmoth's Will (or an Ornithopter) costs to play under Sphere of Resistance and Trinisphere (its 3 you bosos).
+  * Vintage players should have to call a judge over in the first place to work out how much Yawgmoth's Will (or an Ornithopter) costs to play under Sphere of Resistance and Trinisphere (its 3 you bozos).
 
 Whoops there I go diverting into a rant, tsk tsk.
 

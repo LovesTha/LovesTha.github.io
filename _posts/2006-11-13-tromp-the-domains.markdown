@@ -12,7 +12,7 @@ categories:
 - Tournament Report
 ---
 
-I sat down at a draft yesterday (while I should have been at a family engagement party, is this a sign of addiction?) hoping to draft what I suspect will be my favorite deck for the rest of triple TimeSpiral draft: RG - One Big Turn. OBT wants to run lots of turn 1 and 2 suspend dudes to accelerate into a good sized Empty the Warrens for a nice quick game. While I might want to post up a rough  pick order for the deck sometime, I do know one thing about the pick order for the deck:
+I sat down at a draft yesterday (while I should have been at a family engagement party, is this a sign of addiction?) hoping to draft what I suspect will be my favourite deck for the rest of triple TimeSpiral draft: RG - One Big Turn. OBT wants to run lots of turn 1 and 2 suspend dudes to accelerate into a good sized Empty the Warrens for a nice quick game. While I might want to post up a rough  pick order for the deck sometime, I do know one thing about the pick order for the deck:
 
 
 
@@ -23,7 +23,7 @@ I sat down at a draft yesterday (while I should have been at a family engagement
   2. *
 
 
-Yes, I do know about such all star cards as Firemaw Kavu and Jaya Ballard. They aren't as good for this deck as Tromp the Domains. With TtD its possible to deal around 50 odd damage on turn 6. That's pretty good. For that matter, heres the top of my pick order for TSP, first pick, first pack:
+Yes, I do know about such all star cards as Firemaw Kavu and Jaya Ballard. They aren't as good for this deck as Tromp the Domains. With TtD its possible to deal around 50 odd damage on turn 6. That's pretty good. For that matter, here's the top of my pick order for TSP, first pick, first pack:
 
 	
   1. Akroma

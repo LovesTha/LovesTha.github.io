@@ -12,7 +12,7 @@ tags:
 - prerelease
 ---
 
-FYI: Ravnica: City of Guilds is realy fun!
+FYI: Ravnica: City of Guilds is really fun!
 
 
 

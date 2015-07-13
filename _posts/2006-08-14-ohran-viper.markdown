@@ -81,7 +81,7 @@ The other side of the problem is that green always has lots of really good 3 dro
   21. Yavimaya Enchantress
 
 
-Ok so none of them are playable, what about that cost 1GG:
+Okay so none of them are playable, what about that cost 1GG:
 
 	
   1. Budoka Pupil

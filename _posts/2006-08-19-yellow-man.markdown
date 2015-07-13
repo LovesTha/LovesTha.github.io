@@ -57,8 +57,8 @@ The first thing I want to do is remove the red, I really don't think its needed 
 
 Secondly I know I want to remove the graveyard hate, I'm going to rely on my graveyard too much. As I know that extended is very graveyard centric I will add a full compliment of Withered Wretches between the main deck and sideboard.
 
-Lastly I love the tutor engine of this deck, Shred Memory is a useful card in many matchups and is a very powerful tutor, I feel I want to add one or two Dimir House Gaurds to allow for other relevant tutors as well, tutoring for Heirach or Wrath is very important at times. Giving the deck more of an opportunity for turn 3 Wrath can be vital.
+Lastly I love the tutor engine of this deck, Shred Memory is a useful card in many matchups and is a very powerful tutor, I feel I want to add one or two Dimir House Gaurds to allow for other relevant tutors as well, tutoring for Hierarch or Wrath is very important at times. Giving the deck more of an opportunity for turn 3 Wrath can be vital.
 
 The issue of a tutor engine is quite difficult though, should I max out on just one of the two searchers or on both? Searching for wrath is important at times, but then sometime finding Cruel Edict is enough. Should I go further and include a single copy of Grim Harvest to give the deck another method of recurring its threats/tutors. I think that's a very good idea, but should it be a singleton or a play set. It seams strange to include singletons of that you want to cast several times but to include a play set of something that just helps the recursion, but I think the deck will rarely be able to afford to waste the tutor on the engine piece.
 
-Anyway, I'll play with the deck abit more and post about it after the random Extended tournament tomorrow.
+Anyway, I'll play with the deck a bit more and post about it after the random Extended tournament tomorrow.

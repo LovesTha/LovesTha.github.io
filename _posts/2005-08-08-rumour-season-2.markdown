@@ -13,7 +13,7 @@ tags:
 
 Is everyone else getting excited about Ravnica: City of Guilds?
 
-The sheer number of good cards seams to be stagering, and rumour that it will contain the second best ever dual lands (behind the original duals) is amazing.  Thats in adition to the filter artifacts:
+The sheer number of good cards seams to be staggering, and rumour that it will contain the second best ever dual lands (behind the original duals) is amazing.  That's in addition to the filter artifacts:
 
 Boros Signet   2  
 

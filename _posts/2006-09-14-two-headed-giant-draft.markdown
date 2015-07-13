@@ -18,7 +18,7 @@ In brief, 4 teams of 2 players sit down at a table with 6 boosters in front of t
 
 My other half for the draft was Andrew Varga, one of the better players in Melbourne and the best who is interested in Two Headed Giant. Luckily for me his usual second head wasn't around last night :). When we were passed a Glimpse the Unthinkable in pack 1 we knew what one of the decks was. The draft then  progressed fairly normally except we didn't draft many green cards. I was fairly worried about getting no Enigma Eidolons in the first Dissension pack, but we picked up 4 in the second.<!-- more -->
 
-My most noteable cards were:
+My most notable cards were:
 1x Glimpse the Unthinkable
 2x Izzet Chronarchs
 4x Enigma Eidolons

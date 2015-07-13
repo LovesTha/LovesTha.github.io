@@ -11,7 +11,7 @@ tags:
 - magic
 ---
 
-If a copy of a ESG gets returned to hand and then you are asked to pay mana, you will be given an oportunity to play mana abilities, so you can then remove the copy from the game and generate mana.  This works as long as the oportunity to produce mana is inside the same resolving effect that has returned the ESG to hand.
+If a copy of a ESG gets returned to hand and then you are asked to pay mana, you will be given an opportunity to play mana abilities, so you can then remove the copy from the game and generate mana.  This works as long as the opportunity to produce mana is inside the same resolving effect that has returned the ESG to hand.
 
 
 
