@@ -6,8 +6,9 @@ layout: post
 slug: tnt
 title: TnT
 wordpress_id: 51
-categories:
-- Constructed
+tags:
+- constructed
+- magic
 ---
 
 I have to say that playing with this deck is an awful amount of fun, it has so much sheer power. I'm pretty sure that I would have gone better with it if I had of played it a little bit more aggresivly.

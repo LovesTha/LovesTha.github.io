@@ -6,9 +6,9 @@ layout: post
 slug: victorian-states
 title: Victorian States
 wordpress_id: 45
-categories:
-- Constructed
-- Tournament Report
+tags:
+- constructed
+- magic
 ---
 
 Firstly the customary deck list:

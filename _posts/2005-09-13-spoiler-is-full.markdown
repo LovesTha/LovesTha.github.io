@@ -6,9 +6,9 @@ layout: post
 slug: spoiler-is-full
 title: Spoiler is Full
 wordpress_id: 34
-categories:
-- Magic The Gathering
-- Up Coming Releases
+tags:
+- magic
+- set-rav
 ---
 
 /me does happy dance

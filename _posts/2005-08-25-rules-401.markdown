@@ -6,15 +6,12 @@ layout: post
 slug: rules-401
 title: Rules 401
 wordpress_id: 22
-categories:
-- Judging
-- Magic The Gathering
+tags:
+- judging
+- magic
 ---
 
 Ok, occasionaly I'm going to post the occasional odd rules situation that I've come across that interest me.
-
-
-
 
 Is it possible to remove from the game a copy of an Elvish Spirit Guide to generate mana?
 

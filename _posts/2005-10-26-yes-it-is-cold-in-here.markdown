@@ -6,8 +6,9 @@ layout: post
 slug: yes-it-is-cold-in-here
 title: Yes it is cold in here
 wordpress_id: 47
-categories:
-- Up Coming Releases
+tags:
+- set-csp
+- magic
 ---
 
 Today Wizards announced the full detail of what is happening with Coldsnap. It's going to be long lost third set to Iceage block. Its going to get the full curent treatment, fatpack, theme decks etc.

@@ -6,8 +6,8 @@ layout: post
 slug: mmmm-leather
 title: Mmmm Leather
 wordpress_id: 6
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 Just brought my self a nice new keyboard and mouse combo. A lovely MS wireless ergonomic setup. With lovely leather palm rest on the keyboard. I do like the feeling of leather. Its by far the nicest keyboard and mouse I've ever used, although the 2D mouse wheel feels rather funny and Linux doesn't seam to play nice with the second wheel axis.

@@ -7,19 +7,13 @@ slug: brrrr-is-it-cold-in-here
 title: Brrrr, is it Cold in Here?
 wordpress_id: 46
 categories:
-- Up Coming Releases
+- set-csp
+- magic
 ---
 
-<table >
-<tr >
+	**July 2006:**
+	**Coldsnap**
 
-<td >**July 2006:**
-</td>
-
-<td >**Coldsnap**
-</td>
-</tr>
-</table>
 From the frozen vaults deep below Wizards of the Coast, Coldsnap, the legendary Lost Third Set of the Ice Age Block is coming out at last. It's not part of Ravnica Block, it's not part of the block after that. But -- get this -- it will be tournament-legal!
 
 Intrigued? Tune back in on Wednesday, when Randy Buehler will explain all.

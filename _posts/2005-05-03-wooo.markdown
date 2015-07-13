@@ -6,8 +6,8 @@ layout: post
 slug: wooo
 title: Wooo
 wordpress_id: 3
-categories:
-- Meta-Site Discussion
+tags:
+- meta
 ---
 
 This is my brand spanking new blog, I'll detail here my experiences trying to find the next piece of dynamite for Magic.  I by no means try to think of my self as being any good, this is just being setup to make me feel more important
