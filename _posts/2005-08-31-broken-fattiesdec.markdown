@@ -6,9 +6,9 @@ layout: post
 slug: broken-fattiesdec
 title: Broken Fatties.dec
 wordpress_id: 29
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 I'm sort of sure its a good idea to put several large fat creatures into a deck, when they cost 5 or less mana and you have several good efficient ways of getting around there drawbacks available.

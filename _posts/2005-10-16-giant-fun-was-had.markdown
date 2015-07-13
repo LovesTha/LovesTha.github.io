@@ -6,10 +6,9 @@ layout: post
 slug: giant-fun-was-had
 title: Giant Fun Was Had
 wordpress_id: 44
-categories:
-- Judging
-- Northern Magic Event
-- Tournament Report
+tags:
+- judging
+- nm
 ---
 
 The event went off yesterday with about as little hassle as could be imagined.  10 teams ended up playing in the event, when 10.00 rolled past 2 teams were unaccounted for out of the 11 pre-registrations, with some of the teams having people get word to me that they weren't going to turn up, but with those slots easily filled by people who just turned up. The 10th team turned up 10 minutes into deck construction, which was no issue.

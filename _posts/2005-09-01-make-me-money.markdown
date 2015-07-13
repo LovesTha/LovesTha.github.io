@@ -6,8 +6,8 @@ layout: post
 slug: make-me-money
 title: Make Me Money
 wordpress_id: 30
-categories:
-- Geeky
+tags:
+- meta
 ---
 
 Just added some adds to this site, now I have a non-zero chance of making some money out of all this time I waste writing these messages to no one.

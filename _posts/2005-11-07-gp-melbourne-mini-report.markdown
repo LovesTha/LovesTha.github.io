@@ -6,8 +6,9 @@ layout: post
 slug: gp-melbourne-mini-report
 title: GP Melbourne Mini Report
 wordpress_id: 48
-categories:
-- Constructed
+tags:
+- constructed
+- magic
 ---
 
 Friday:

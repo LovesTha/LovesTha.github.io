@@ -6,9 +6,9 @@ layout: post
 slug: bu-lock
 title: Bu Lock?
 wordpress_id: 8
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 Ok here's the list:  
@@ -67,7 +67,7 @@ Turn 4: Vial counters - 3 & bounce Ravenous Rats, Swamp, Ravenous Rats, Activate
 
 
 
-opponent only ever sees 11 cards and we win on the back of damage from Stabwhisker the Odious (don't flip him in response to their draw step, only flip him when they fail to discard, making them discard the top card of their library makes them see a 12th card)
+Opponent only ever sees 11 cards and we win on the back of damage from Stabwhisker the Odious (don't flip him in response to their draw step, only flip him when they fail to discard, making them discard the top card of their library makes them see a 12th card)
 
 
 

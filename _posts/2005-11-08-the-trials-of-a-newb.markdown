@@ -6,9 +6,9 @@ layout: post
 slug: the-trials-of-a-newb
 title: The Trials of a Newb
 wordpress_id: 50
-categories:
-- Constructed
-- Tournament Report
+tags:
+- constructed
+- magic
 ---
 
 After speaking to some lecturers at uni about their homosexual tendencies (they need me to comeback over summer to do 1 more subject before I graduate), I dropped past some random building in the city to pick up some Deeds and an Overgrown Tomb to finish of my deck, which looked somewhat like this:

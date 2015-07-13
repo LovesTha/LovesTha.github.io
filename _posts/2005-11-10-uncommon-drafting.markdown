@@ -6,8 +6,9 @@ layout: post
 slug: uncommon-drafting
 title: Uncommon Drafting
 wordpress_id: 52
-categories:
-- Limited
+tags:
+- limited
+- magic
 ---
 
 The other day I was doing a draft with ~10 people (if my recollection holds) and managed to draft one of the best piles of uncommons I've ever managed. I opened a Moldervine Cloak and Putrefy in Packs 1 and 2. A Darkblask also came past pretty early and by the end of the draft I had in my pile:

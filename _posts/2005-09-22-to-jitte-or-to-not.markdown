@@ -6,10 +6,10 @@ layout: post
 slug: to-jitte-or-to-not
 title: To Jitte or to Not?
 wordpress_id: 36
-categories:
-- Constructed
-- Magic The Gathering
-- Meta-Site Discussion
+tags:
+- constructed
+- magic 
+- meta
 ---
 
 Jitte (Umezawa's naturally) is one of the defining cards of block constructed and looks likely to rule Standard for the next year. Its ubiquitous status in most decks makes all creature based decks run it, and most of them then find its important to run Manriki-Gusari to try and gain Jitte advantage. Jitte advantage has been named as the sole reason that some decks run Godo, so other than the deck warping effect that Jitte is having (which is usually reason enough to ban it) how does one get ahead in the Jitte race?  

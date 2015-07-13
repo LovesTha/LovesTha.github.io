@@ -6,8 +6,8 @@ layout: post
 slug: mulliganing-with-strategy
 title: Mulliganing with Strategy?
 wordpress_id: 49
-categories:
-- Play Skills
+tags:
+- magic
 ---
 
 I've never been very good at mulliganing, pretty much all I have ever done is:
