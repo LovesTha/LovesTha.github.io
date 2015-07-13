@@ -6,13 +6,9 @@ layout: post
 slug: duck-grapefruit
 title: Duck, Grapefruit!
 wordpress_id: 554
-categories:
-- Food
 tags:
-- Dinner Party
-- Duck
-- Grapefruit
-- Pumpkin Soup
+ - dinner-party
+ - food
 ---
 
 Last night I hosted my first successful dinner party. After the essential failure of Mothers Day last year where I didn't notice that the oven had turned off till much too late some people were suspecting I was incapable of cooking.

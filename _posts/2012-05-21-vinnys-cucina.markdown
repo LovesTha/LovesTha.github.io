@@ -6,8 +6,9 @@ layout: post
 slug: vinnys-cucina
 title: Vinny's Cucina
 wordpress_id: 596
-categories:
-- Magic The Gathering
+tags:
+ - food
+ - restaurants
 ---
 
 A couple of months ago I visited a great little random restaurant in Ivanhoe (which is soon to become my new suburb of residence, but I doubt any one who is reading this and cares doesn't know that already) and I loved it. When trying to find some info on it today I couldn't find anything of substance. The most information was on UrbanSpoon, but that merely had 9 votes and not much data.

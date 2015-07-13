@@ -6,12 +6,14 @@ layout: post
 slug: rooms-for-rent
 title: Rooms for Rent
 wordpress_id: 572
-categories:
-- Other
+tags:
+- sale
 ---
 
 Looking for 1 person to move in ASAP and another 1 person/couple in mid may.
-[![](http://rockpaperdynamite.files.wordpress.com/2011/03/gcp_3160-for-web1.jpg?w=300)](http://rockpaperdynamite.files.wordpress.com/2011/03/gcp_3160-for-web1.jpg)
+
+![](/img/gcp_3160-for-web1.jpg?w=300)
+
 House is:
 4 Bed Room
 2 Story
@@ -24,7 +26,7 @@ Current room vacancy is a reasonable sized bedroom with built in wardrobe.
 Room available in Mid May is master bed room with en-suite and walk in 'robe.
 Double Garrage, 1 space available to applicant.
 
-[caption id="attachment_574" align="aligncenter" width="300" caption="The Lounge Room"][![](http://rockpaperdynamite.files.wordpress.com/2011/03/gcp_3134-for-web.jpg?w=300)](http://rockpaperdynamite.files.wordpress.com/2011/03/gcp_3134-for-web.jpg)[/caption]
+![](/img/gcp_3134-for-web.jpg?w=300)
 
 Location:
 Quiet street

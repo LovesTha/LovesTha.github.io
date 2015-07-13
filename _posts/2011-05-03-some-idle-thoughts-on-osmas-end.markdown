@@ -6,8 +6,9 @@ layout: post
 slug: some-idle-thoughts-on-osmas-end
 title: Some Idle Thoughts On Osma's End
 wordpress_id: 591
-categories:
-- Magic The Gathering
+tags:
+ - news
+ - terrorism
 ---
 
 While I believe that the US's response to September 11 was completely wrong, I don't have too many issues with how they handled this particular tiny facet of it.

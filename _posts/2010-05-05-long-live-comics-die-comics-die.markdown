@@ -6,9 +6,8 @@ layout: post
 slug: long-live-comics-die-comics-die
 title: Long Live Comics / Die Comics Die!!!!
 wordpress_id: 546
-categories:
-- Books
-- Comic
+tags:
+- comic
 ---
 
 I've started reading comics, for a long time now I've been reading quite a few web comics. There are 24 web comics on my iGoogle page. Not all of the actually update, but most of them do and I really enjoy them. Recently, due to a [blogging god](http://kingfatty.blogspot.com/) of mine giving a [list of real comics he thinks are worth reading](http://kingfatty.blogspot.com/2010/02/miracleman-and-other-comics.html). So I'm most of the way through Miracle Man and have The Watchmen lying around waiting to be read.
