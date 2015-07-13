@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "MTG Rapist"
+title:  "MTG Rapist?!?!?"
 date:   2015-07-12 18:30 +1000
 tags: [magic, rape]
 ---
 
-Okay I am working on a more well thought out post that may never reach the day 
-of light but to research the post even vaguely well I needed to do a Google 
+Okay I am working on a more well thought out post that may never reach the light 
+of day but to research the post even vaguely well I needed to do a Google 
 search for "mtg rapist". 
 
 I was quite sad to find a link to a deck-list on [TappedOut][1] that has the 
