@@ -1,60 +1,84 @@
-- slug: limited
-  name: Limited (Draft or Sealed)
+technology:
+  name: Technology & Gadgets
 
-- slug: standard
-  name: Standard Constructed
-
-- slug: edh
-  name: Commander (formerly EDH)
-
-- slug: highlander
-  name: Australian 7 Point Highlander
-
-- slug: magic
-  name: Magic the Gathering
-
-- slug: meta
-  name: Site News
-
-- slug: prerelease
-  name: MtG Prereleases
-
-- slug: set-origins
-  name: Magic Origins (July 2015)
-
-- slug: food
-  name: Food
-
-- slug: restaurants
-  name: Restaurants
-
-- slug: other
-  name: Other
-
-- slug: movember
+movember:
   name: Movember
 
-- slug: geeky
+sale:
+  name: Items For Sale
+
+news:
+  name: News & Current Affairs
+
+terrorism:
+  name: Terrorism & Other People We Don't Like
+
+cycling:
+  name: Cycling
+
+rain:
+  name: Weather - Rain
+
+rape:
+  name: Rape
+
+limited:
+  name: Limited (Draft Or Sealed)
+
+standard:
+  name: Standard Constructed
+
+edh:
+  name: Commander (Formerly EDH)
+
+highlander:
+  name: Australian 7 Point Highlander
+
+magic:
+  name: Magic the Gathering
+
+meta:
+  name: Site News
+
+prerelease:
+  name: MtG Prereleases
+
+set-origins:
+  name: Magic Origins (July 2015)
+
+food:
+  name: Food
+
+restaurants:
+  name: Restaurants
+
+other:
+  name: Other
+
+movember:
+  name: Movember
+
+geeky:
   name: Geek Matters
 
-- slug: rant
+rant:
   name: Rant
 
-- slug: travel
+travel:
   name: Travel
 
-- slug: dinner-party
+dinner-party:
   name: Dinner Party
 
-- slug: duck
+duck:
   name: Duck
 
-- slug: books
+books:
   name: Books
 
-- slug: comic
+comic:
   name: Comics
 
-- slug: state-of-gareth
-  name: The State of Gareth
+state-of-gareth:
+  name: The State Of Gareth
 

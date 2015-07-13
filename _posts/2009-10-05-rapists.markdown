@@ -6,8 +6,9 @@ layout: post
 slug: rapists
 title: Rapists
 wordpress_id: 525
-categories:
-- Rant
+tags:
+ - rape
+ - news
 ---
 
 I can't get over the media and people in general. The last few weeks the media has been full of some Australian community that was up in arms about a released paedophile being allowed to live in their community.
