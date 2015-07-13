@@ -29,7 +29,7 @@ GP Melbourne Round 7: Lost against JikiKiki.dec because I'm a F@#$%^& newb.
 Sunday:
 PTQ Honolulu Round 1: Lost to Rbg Goblins
 PTQ Honolulu Round 2: Lost to ICan'tRemember.dec
-PTQ Honolulu Round 3: Beat Septer Cant
+PTQ Honolulu Round 3: Beat Sceptre Cant
 PTQ Honolulu Round 4: Beat Affinity (piloted by: I'll keep dropping artifact land with a Deed on the table)
 PTQ Honolulu Round 5: Lost to Madness (after stealing a win by having Brawn to trample over a (very) Arrogant Wurm with a Jitte+2)
 
