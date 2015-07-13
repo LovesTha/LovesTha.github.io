@@ -6,13 +6,8 @@ layout: post
 slug: portable-editable-pdf-odt
 title: 'Portable & Editable: PDF + ODT'
 wordpress_id: 551
-categories:
-- Geeky
 tags:
-- Adobe
-- ODT
-- OOo
-- PDF
+- technology
 ---
 
 This is a little tidbit of information that I've recently come across that I think is really cool. I'm sharing it because I want to see more people use it.

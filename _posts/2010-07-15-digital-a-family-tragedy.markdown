@@ -6,10 +6,9 @@ layout: post
 slug: digital-a-family-tragedy
 title: 'Digital: A Family Tragedy'
 wordpress_id: 559
-categories:
-- Geeky
-- Rant
-- Travel
+tags: 
+ - news
+ - technology
 ---
 
 <blockquote>"In the transition to digital many of them stopped printing their images. And that's a family tragedy because although it's a business, we're looking after people's memories,"  - [Paul Curtis, Photo Imaging Council of Australia](http://www.abc.net.au/news/stories/2010/07/15/2954304.htm)</blockquote>

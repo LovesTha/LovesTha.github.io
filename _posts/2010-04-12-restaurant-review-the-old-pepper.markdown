@@ -6,14 +6,9 @@ layout: post
 slug: restaurant-review-the-old-pepper
 title: Restaurant Review - The Old Pepper
 wordpress_id: 537
-categories:
-- Restaraunt Review
 tags:
-- Chapel Street
-- Pasta
-- Pizza
-- Restaraunt
-- Review
+- restaraunt
+- food
 ---
 
 Long time no post eh? This ones for you Dad, your one of two people who mentions to me that I don't update this place often enough. It's not quiet for you Scott as its not a burger review :)
@@ -29,11 +24,17 @@ We both order pasta dishes and in what feels like 10 seconds our meals are broug
 As is the theme of this review my expectation was wrong, the meal was great. There was not a single thing wrong with the experience.
 
 Scores:
+
 Menu: 4/5
+
 Food: 4/5
+
 Service: 5/5
+
 Cost: 4/5
+
 Value: 5/5
+
 Overall Experience: 5/5 (this is not an average)
 
 I highly recommend this place. I know I'll be back in the future.

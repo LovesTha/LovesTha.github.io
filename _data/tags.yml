@@ -1,3 +1,18 @@
+technology:
+  name: Technology & Gadgets
+
+movember:
+  name: Movember
+
+sale:
+  name: Items For Sale
+
+news:
+  name: News & Current Affairs
+
+terrorism:
+  name: Terrorism & Other People We Don't Like
+
 cycling:
   name: Cycling
 
@@ -8,13 +23,13 @@ rape:
   name: Rape
 
 limited:
-  name: Limited (Draft or Sealed)
+  name: Limited (Draft Or Sealed)
 
 standard:
   name: Standard Constructed
 
 edh:
-  name: Commander (formerly EDH)
+  name: Commander (Formerly EDH)
 
 highlander:
   name: Australian 7 Point Highlander
@@ -65,5 +80,5 @@ comic:
   name: Comics
 
 state-of-gareth:
-  name: The State of Gareth
+  name: The State Of Gareth
 
