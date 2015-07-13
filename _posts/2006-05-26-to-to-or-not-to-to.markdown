@@ -12,9 +12,9 @@ categories:
 - Theology
 ---
 
-Ok, firstly I'm pretty happy with that title, its silly enough and accurate enough to be at least slightly humorous. Also its a 13 character title with only 2 characters that aren't 't' or 'o'.
+Okay, firstly I'm pretty happy with that title, its silly enough and accurate enough to be at least slightly humorous. Also its a 13 character title with only 2 characters that aren't 't' or 'o'.
 
-So, back on topic, or back to things that aren't about the phrazing of the topic it self, should I be running events. I'm talking about running tournaments where I invite lots of people along not the type where I get a group of people to meet together regularly. I'm sure that what I'm trying to do with involve plenty of the later.
+So, back on topic, or back to things that aren't about the phrasing of the topic it self, should I be running events. I'm talking about running tournaments where I invite lots of people along not the type where I get a group of people to meet together regularly. I'm sure that what I'm trying to do with involve plenty of the later.
 
 I was talking with Stephen the other day and he mentioned that an old fashioned pros and cons list would be helpful here, so:
 
