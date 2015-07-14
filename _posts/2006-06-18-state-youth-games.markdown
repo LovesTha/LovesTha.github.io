@@ -6,9 +6,8 @@ layout: post
 slug: state-youth-games
 title: State Youth Games
 wordpress_id: 85
-categories:
-- Other
-- Theology
+tags:
+- church
 ---
 
 I know this doesn't relate to the main topics of my blog, but I think that's the point its _my_ blog :)

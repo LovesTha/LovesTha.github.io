@@ -6,8 +6,8 @@ layout: post
 slug: two-buttons-or-a-green-one
 title: Two Buttons or a Green One
 wordpress_id: 181
-categories:
-- Other
+tags:
+- technology
 ---
 
 I won't buy a MacBook because they don't come with 2 mouse buttons (I don't like to plug in mice, and I use Linux >90% of the time), but some people want you to not buy them because they aren't green.

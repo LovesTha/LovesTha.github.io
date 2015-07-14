@@ -6,8 +6,8 @@ layout: post
 slug: look-my-new-computer-has-great-benchmarks
 title: Look, My New Computer Has Great Benchmarks!?
 wordpress_id: 165
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 Was just reading a review of the recent Intel Core2 Extreame Quad Core chip. It closed with the comment of "And, for that matter, benchmark apps better able to cope with more than two cores."

@@ -6,8 +6,9 @@ layout: post
 slug: what-should-the-rock-look-like
 title: What Should the Rock Look Like?
 wordpress_id: 60
-categories:
-- Deck Building
+tags:
+- constructed
+- magic
 ---
 
 There are so many options for a good rock deck these days. If your looking at an agressive version these are what I'd consider auto includes:

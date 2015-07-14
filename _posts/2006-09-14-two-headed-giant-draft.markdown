@@ -6,10 +6,9 @@ layout: post
 slug: two-headed-giant-draft
 title: Two Headed Giant Draft
 wordpress_id: 134
-categories:
-- Limited
-- Magic The Gathering
-- Tournament Report
+tags:
+- limited
+- magic
 ---
 
 In a couple of recent articles on [MagicTheGathering.com](MagicTheGathering.com) by [Brian David Marshall](http://www.wizards.com/default.asp?x=mtgcom/daily/bd243) and [Noah Well](http://www.wizards.com/default.asp?x=mtgcom/daily/nw20) have discussed what is going to be the format of the Two Headed Giant Pro Tour event next year.

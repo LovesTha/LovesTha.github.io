@@ -6,13 +6,10 @@ layout: post
 slug: three-somes-dont-appear-to-be-on-the-cards
 title: Three-Somes Don't Appear To Be On The Cards
 wordpress_id: 161
-categories:
-- Limited
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Tournament Report
-- Two Headed Giant
+tags:
+- limited
+- magic
+- nm
 ---
 
 The Northern Magic Two Headed Giant #11 was run this past weekend as a 4 team event, but wasn't sanctioned due to the need for me to play to make up the 8th player. There seams to be something stopping us getting the event sanctioned regularly.

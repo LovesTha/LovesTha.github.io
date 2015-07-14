@@ -6,10 +6,9 @@ layout: post
 slug: moving-zen
 title: Moving Zen
 wordpress_id: 172
-categories:
-- Limited
-- Magic The Gathering
-- Play Skills
+tags:
+- limited
+- magic
 ---
 
 On Monday night at The Cave, one of the players at the draft suggested that we do something different to try and teach the lesser players how to draft better. The whole concept seams a bit alien to me as I haven't been playing for all that long (just starting my 4th block) and my limited rating isn't all that hot (at time of writing: 1694, all time high: ~1720). The Monday night group I play with though are very much on the casual side of things, few of them have played in any sanctioned matches beyond Prereleases.

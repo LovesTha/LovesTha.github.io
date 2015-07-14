@@ -6,53 +6,52 @@ layout: post
 slug: the-adventures-of-orange-man
 title: The Adventures of Orange Man
 wordpress_id: 121
-categories:
-- Constructed
-- Deck Building
-- Magic The Gathering
-- Tournament Report
+tags:
+- constructed
+- magic
 ---
 
 Ok the deck list I played with:
 
-Creatures:
-4x Bird of Paradise
-4x Eternal Witness
-4x Sakura Tribe Elder
-3x Carven Caryatid
-1x Nezumi Graverobber
-1x True Believer
-1x Viridian Zealot<!-- more -->
+Creatures:  
+4x Bird of Paradise  
+4x Eternal Witness  
+4x Sakura Tribe Elder  
+3x Carven Caryatid  
+1x Nezumi Graverobber  
+1x True Believer  
+1x Viridian Zealot
 
-Spells:
-4x Wrath of God
-3x Astral Slide
-3x Life from Loam
-4x Shred Memory
-1x Chainer's Edict
-1x Shining Shoal
+Spells:  
+4x Wrath of God  
+3x Astral Slide  
+3x Life from Loam  
+4x Shred Memory  
+1x Chainer's Edict  
+1x Shining Shoal  
 1x Dark Heart of the Wood
 
-Land:
-4x Windswept Heath
-2x Temple Garden
-4x Overgrown Tomb
-2x Godless Shrine
-4x Tranquil Thicket
-3x Barren Moor
-2x Secluded Steppe
-2x Forest
-1x Plains
+Land:  
+4x Windswept Heath  
+2x Temple Garden  
+4x Overgrown Tomb  
+2x Godless Shrine  
+4x Tranquil Thicket  
+3x Barren Moor  
+2x Secluded Steppe  
+2x Forest  
+1x Plains  
 1x Swamp
-Sideboard:
-4x Cranial Extraction
-1x Hide // Seek
-1x Darkblast
-1x Auriok Champion
-1x Silver Knight
-1x Kami of Ancient Law
-1x Gift of Estates
-1x Disenchant
+
+Sideboard:  
+4x Cranial Extraction  
+1x Hide // Seek  
+1x Darkblast  
+1x Auriok Champion  
+1x Silver Knight  
+1x Kami of Ancient Law  
+1x Gift of Estates  
+1x Disenchant  
 1x Suppression Field
 
 Few things, firstly yes that is only 12 cards in the sideboard, the 3 Carven Caryatid should be in the sideboard not the main deck but lets go over the differences I should have had if my deck building was optimal.

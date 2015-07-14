@@ -6,8 +6,8 @@ layout: post
 slug: now-less-sucky
 title: Now Less Sucky
 wordpress_id: 68
-categories:
-- Meta-Site Discussion
+tags:
+- meta
 ---
 
 Here we are now in our new WordPress site, doesn't it look good.

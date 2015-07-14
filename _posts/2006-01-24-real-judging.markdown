@@ -6,8 +6,9 @@ layout: post
 slug: real-judging
 title: Real Judging
 wordpress_id: 59
-categories:
-- Judging
+tags:
+- judging
+- magic
 ---
 
 I helped judge the Melbourne Prerelease this weekend just gone. It was lots of fun, I turned up later than requested on the Saturday morning due to the train I was meant to catch being canceled. Maybe not actually checking which venue we were using also excabated my tardiness but I was still there only 20 minutes late.

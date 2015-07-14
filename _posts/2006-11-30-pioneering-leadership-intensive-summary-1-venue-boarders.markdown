@@ -6,9 +6,9 @@ layout: post
 slug: pioneering-leadership-intensive-summary-1-venue-boarders
 title: 'Pioneering Leadership Intensive Summary #1 - Venue & Boarders'
 wordpress_id: 177
-categories:
-- Philosophy &amp; Politics
-- Theology
+tags:
+- news
+- church
 ---
 
 The final forge intensive for my internship was on this past weekend. It was held at my home church: Northern Community {Church of Christ}. Its such a great venue, fairly comfortable seats, decently sound proofed auditorium with rather loud acoustics, one presenter even complained of reverb while they weren't being amplified. For the Monday and Tuesday of the Intensive we moved the large black couches out of the hospitality area into the auditorium so we were even more comfortable.

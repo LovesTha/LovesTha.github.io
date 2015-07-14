@@ -7,8 +7,8 @@ slug: mbrl-momir-basic-real-life
 title: MBRL - Momir Basic Real Life
 wordpress_id: 131
 categories:
-- Constructed
-- Magic The Gathering
+- constructed
+- magic
 ---
 
 I'm sick of hearing about MTGO only formats like Momir Basic. So here is my attempt at bringing the format to real life.

@@ -6,8 +6,8 @@ layout: post
 slug: zacchaeus-selfless-convert-or-still-sly
 title: Zacchaeus - Selfless Convert or Still Sly
 wordpress_id: 125
-categories:
-- Theology
+tags:
+- church
 ---
 
 We were looking at Luke 19:1-10 last night at Tangent (our Tuesday night congregation that meets at a beer cafe (aka pub)) and one of the verses in the translation we were using stood out to me:

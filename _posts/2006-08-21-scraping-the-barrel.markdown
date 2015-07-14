@@ -6,10 +6,9 @@ layout: post
 slug: scraping-the-barrel
 title: Scraping the Barrel
 wordpress_id: 122
-categories:
-- Constructed
-- Deck Building
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 One of the guys who comes along to my Two Headed Giant tournaments (need I remind you that the next one will have a DCI foil Vampiric Tutor up to be won) asked me for my thoughts on how to create a reanimation deck. So naturally I'm posting my answer on my blog :) Talk about killing two birds with one stone.<!-- more -->

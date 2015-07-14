@@ -6,16 +6,14 @@ layout: post
 slug: gambling-poker-tournament-yes-magic-tournament-no
 title: 'Gambling: Poker Tournament - Yes, Magic Tournament - No?'
 wordpress_id: 76
-categories:
-- Magic The Gathering
-- Theology
+tags:
+- magic
+- church
 ---
 
 I was reminded last night of an interesting discussion I once read on a message board somewhere. The main thrust was why is it acceptable for a minor to enter a large magic tournament but not a poker tournament.
 
 Naturaly the disscusion delved into the definitions of gambling, with different people arguing that Magic was gambling and that poker tournaments aren't. Most people seamed to agree that the division in eligability seams unjust but there was disagreement over if it should be allowed or not. Most people seamed to fall on the minors should be allowed, probably due to most of the forum members being people who had entered a Magic tournament as a minor at least once.
-
-<!-- more -->
 
 Dictionary.com tells me that gambling is:
 

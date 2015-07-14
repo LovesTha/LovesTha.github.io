@@ -6,8 +6,8 @@ layout: post
 slug: leaves-and-arrows
 title: Leaves and Arrows
 wordpress_id: 171
-categories:
-- Philosophy &amp; Politics
+tags:
+- news
 ---
 
 When I compare my self to other people I tend to think of my self as a leaf and other people as arrows. An arrow know where it is heading (the target) and its going to get there real soon now (its flying in a nice straight line). This is contrasted against the leaf, leaves know that they are going to end up on the ground. On the way though they are going to flutter around and see lots of interesting sites. Also most of the time they know they are going to reach the ground but wether its the pieces of ground directly beneath them or some way over there, who knows.<!-- more -->

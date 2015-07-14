@@ -6,9 +6,8 @@ layout: post
 slug: a-comedy-of-errors
 title: A Comedy of Errors
 wordpress_id: 184
-categories:
-- Geeky
-- Other
+tags:
+- technology
 ---
 
 Isn't it strange how 'A Comedy of Errors' isn't usually all that funny?  Anyway, this is the tale of my fantastic Friday.

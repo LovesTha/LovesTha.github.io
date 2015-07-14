@@ -6,8 +6,9 @@ layout: post
 slug: panglacial-wurm-will-destroy-magic
 title: Panglacial Wurm Will Destroy Magic
 wordpress_id: 106
-categories:
-- Magic The Gathering
+tags:
+- magic
+- judging
 ---
 
 Dredge + Chromatic Spheres + Pangalatic Gargleblaster is such a nutty combo I just have to build a deck around it now.

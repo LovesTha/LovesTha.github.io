@@ -6,8 +6,9 @@ layout: post
 slug: roboguy
 title: RoboGuy
 wordpress_id: 102
-categories:
-- Geeky
+tags:
+- technology
+- movies
 ---
 
 Some of the guys at my church are producing a silly little series called Robo_Guy_, its a great little mystery/comedy about a guy who's, wait for it, a guy. Its very funny and well put together, even if they're personally staring in it and using quite cheap equipment.

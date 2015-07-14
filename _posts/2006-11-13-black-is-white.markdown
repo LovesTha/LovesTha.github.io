@@ -6,9 +6,8 @@ layout: post
 slug: black-is-white
 title: Black is White
 wordpress_id: 168
-categories:
-- Geeky
-- Other
+tags:
+- church
 ---
 
 Random Tip #1:

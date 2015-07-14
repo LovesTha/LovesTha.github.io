@@ -6,10 +6,9 @@ layout: post
 slug: tromp-the-domains
 title: Tromp The Domains
 wordpress_id: 164
-categories:
-- Limited
-- Magic The Gathering
-- Tournament Report
+tags:
+- limited
+- magic
 ---
 
 I sat down at a draft yesterday (while I should have been at a family engagement party, is this a sign of addiction?) hoping to draft what I suspect will be my favorite deck for the rest of triple TimeSpiral draft: RG - One Big Turn. OBT wants to run lots of turn 1 and 2 suspend dudes to accelerate into a good sized Empty the Warrens for a nice quick game. While I might want to post up a rough  pick order for the deck sometime, I do know one thing about the pick order for the deck:
