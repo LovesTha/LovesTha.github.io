@@ -6,8 +6,8 @@ layout: post
 slug: what-am-i-trying-to-do
 title: What am I trying to do?
 wordpress_id: 63
-categories:
-- Northern Magic
+tags:
+- nm
 ---
 
 I've been trying to wrestle with the question of how I'm going to create my faith community around Magic.  This has been missing the point somewhat though: What am I going to create?  For that matter am I going to create anything or just shape something?

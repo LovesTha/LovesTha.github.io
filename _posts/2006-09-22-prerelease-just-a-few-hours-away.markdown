@@ -6,9 +6,9 @@ layout: post
 slug: prerelease-just-a-few-hours-away
 title: Prerelease Just a Few Hours Away
 wordpress_id: 137
-categories:
-- Magic The Gathering
-- Up Coming Releases
+tags:
+- magic
+- set-tsp
 ---
 
 Currently the MTGSalvation spoiler is sitting at just 16 cards away from completed. The set looks very interesting, it seams to have less dud cards than the usual set, which seams like a good thing.

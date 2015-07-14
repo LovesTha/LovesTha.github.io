@@ -6,8 +6,9 @@ layout: post
 slug: gruul-themed-decks-are-easy-to-build
 title: Gruul Themed Decks Are Easy To Build
 wordpress_id: 58
-categories:
-- Deck Building
+tags:
+- constructed
+- magic
 ---
 
 Building Gruul themed decks is easy, take this list that i'm making up on the spot:

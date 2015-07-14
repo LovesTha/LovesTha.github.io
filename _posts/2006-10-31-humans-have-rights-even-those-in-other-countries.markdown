@@ -6,8 +6,8 @@ layout: post
 slug: humans-have-rights-even-those-in-other-countries
 title: Humans Have Rights (Even Those In Other Countries)
 wordpress_id: 156
-categories:
-- Politics
+tags:
+- news
 ---
 
 While reading an article about the way the Pentagon is trying to restructure its communications areas I stumbled on this snippet of 'acceptable' US policy:

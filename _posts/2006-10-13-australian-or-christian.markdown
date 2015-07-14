@@ -6,8 +6,8 @@ layout: post
 slug: australian-or-christian
 title: Australian or Christian?
 wordpress_id: 143
-categories:
-- Theology
+tags:
+- church
 ---
 
 

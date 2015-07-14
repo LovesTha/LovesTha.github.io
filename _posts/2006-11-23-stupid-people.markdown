@@ -6,8 +6,6 @@ layout: post
 slug: stupid-people
 title: Stupid People
 wordpress_id: 175
-categories:
-- Other
 ---
 
 I saw this quote on IRC today:

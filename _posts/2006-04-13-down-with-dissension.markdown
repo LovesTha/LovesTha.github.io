@@ -6,9 +6,9 @@ layout: post
 slug: down-with-dissension
 title: Down With Dissension?
 wordpress_id: 71
-categories:
-- Constructed
-- Up Coming Releases
+tags:
+- constructed
+- set-dis
 ---
 
 Oh yeah!
@@ -26,8 +26,6 @@ R: ~ gets +1/+0 until end of turn.
 _Hellbent_ - ~ has double strike as long as you have no cards in hand.
 
 3/3
-
-<!-- more -->
 
 This dude is obviously such a powerhouse. Its definitely got the ability to define the block season, except that's not a season that actually going to happen. He is going to give such huge headaches to anyone who isn't prepared for him. He ends games very quickly especially in the late game, he only requires 9 red mana to deal 20 damage in the air. Mono red decks will get very scary, turn 4 cast him, turn 5 and 6 attack for 10 in the air, without making your 5th land drop. 
 

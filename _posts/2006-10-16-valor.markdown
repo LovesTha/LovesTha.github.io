@@ -6,8 +6,9 @@ layout: post
 slug: valor
 title: Valor
 wordpress_id: 145
-categories:
-- Magic The Gathering
+tags:
+- magic
+- limited
 ---
 
 I was just skimming the limited set review on SCG Premium and was disturbed by the comment in it on Valor: Don't draft it, don't play it. That seams pretty harsh.

@@ -6,9 +6,9 @@ layout: post
 slug: the-favorite-cards-theory
 title: The Favorite Cards Theory
 wordpress_id: 142
-categories:
-- Deck Building
-- Magic The Gathering
+tags:
+- magic
+- constructed
 ---
 
 I'm suggesting a new theory to describe the current Standard meta game. Most players I contend are just picking their few favourite cards and building a deck with them all in it. The only surprising bit is that it is working. For example lets look at my favourite T2 legal cards currently:
