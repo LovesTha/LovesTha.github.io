@@ -1,0 +1,19 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2006-12-13 05:18:13+00:00 +1000
+layout: post
+slug: spamm
+title: Spamm++
+wordpress_id: 182
+categories:
+- Geeky
+---
+
+I've been reading lots about how spamm is on the increase, and my personal experience shows that their has been a significant increase in the last few weeks.
+
+Several months ago I celebrated that my Gmail account had finally more email threads than spamm messages (which are deleted every 30 days). The crossing point was somewhere around 900 spamm/threads.
+
+Currently I have <strike>1955</strike> 1956 spamm and 2116 email threads.
+
+That's 65 spamm every day (averaged over the last month), when will this end?

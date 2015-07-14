@@ -1,0 +1,17 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2006-10-16 06:28:24+00:00 +1000
+layout: post
+slug: valor
+title: Valor
+wordpress_id: 145
+categories:
+- Magic The Gathering
+---
+
+I was just skimming the limited set review on SCG Premium and was disturbed by the comment in it on Valor: Don't draft it, don't play it. That seams pretty harsh.
+
+I know that he is a 4 cost 2/2, but he at least has first strike while hes in play, but I fail to see the games where he is irrelevant. If your on the offensive, he is very hard to block as you really don't want him to be killed. If your loosing (aka blocking) then hes a good chumper as you ideally want him in your graveyard anyway.
+
+Also I hear that there are plenty of ways to discard him in most colours, so he seams a decent and relevant splash card. Need a way to make your Syphon Mages better at blocking: Block, then before proceeding to the combat damage step, slurp up 2 life and give your dudes first strike. Seams hot to me.

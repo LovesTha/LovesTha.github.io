@@ -1,0 +1,22 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2005-09-02 02:27:00+00:00 +1000
+layout: post
+slug: tini-tiny
+title: Tini Tiny
+wordpress_id: 31
+tags:
+- technology
+- magic
+---
+
+Why does Wizards of the Coast insist on only realising their desktop images in 1280*960? Don't they realise that their target audience (computer using geeks who play magic) show that many of their users are likely to want images at greater resolutions?
+
+So okay, maybe huge images might take up too much of WotC's bandwidth, so why not use some peer to peer serving of it? BitTorrent clients are not all that hard to understand and the BitTorrent model of file distribution works very well when dealing with relatively small images (people are likely to seed the file for several times how long it took them to download it, mainly as it will take nearly no time to download). Even if WotC ran the BT tracker and seeder on the server(s) that they current web serve from I'm sure it would use up less bandwidth than the desktops currently consume even if they started only providing the 800*600 image via http and only put up a 2048*1536 png image (commonly ~4meg) on BT. Then everyone (well the 0.001% of people who have screens that can display resolutions greater than 2048*1536 in a meaningful way, will still complain, but they'll be better off than they are now) will be able to get the image in a timely manner and at much higher quality than before (a png image at that resolution contains much much more data than a jpeg at 1280*960).
+
+Please please give me some of this fantastic art that is now being produced for magic cards at meaningful resolutions!
+
+
+
+

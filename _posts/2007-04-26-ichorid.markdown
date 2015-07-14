@@ -1,0 +1,76 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2007-04-26 05:01:10+00:00 +1000
+layout: post
+slug: ichorid
+title: Ichorid
+wordpress_id: 254
+categories:
+- Deck Building
+- Magic The Gathering
+---
+
+I read Stephen Mandarin's (sorry cant spell or pronounce his surname) article on the vintage playable cards in Future Sight. He goes as far as to say "I predict that Future Sight will proportionately produce more playables in Vintage, Magic's oldest and most broken format, than Mirrodin." The concept is quiet distressing to some vintage players
+
+Thankfully the deck I most want to play is helped out the most by the set. Ichorid is just given gifts left right and center. Its not impossible to see Ichorid pull off a turn 1 win now, turn 2 is going to be common. So what does it gain? Let me show you
+
+![](http://www.wizards.com/global/images/magic/general/bridge_from_below.jpg)  ![](http://www.wizards.com/global/images/magic/general/narcomoeba.jpg) ![](http://www.wizards.com/global/images/magic/general/street_wraith.jpg)<!-- more -->
+
+Street Wraith is going to allow for substantial dredging to happen on turn 1. Meaning that Nether Spirits will be coming into play on turn 2 along with Ichorids. This dredging on turn 1 will also allow Narcomoebas to be coming into play on turn 1. Bridge from Below lets those turn 1 Narcomoebas to flash back Cabal Therapies and get a 2/2 out of the deal.
+
+The biggest problem is going to be working out how to build the deck. This is Stephens pre Future Sight deck list:
+
+**Maindeck:**
+
+_Artifacts_
+1 [Black Lotus](http://sales.starcitygames.com/cardsearch.php?singlesearch=Black+Lotus)
+4 [Chalice Of The Void](http://sales.starcitygames.com/cardsearch.php?singlesearch=Chalice+Of+The+Void)
+4 [Serum Powder](http://sales.starcitygames.com/cardsearch.php?singlesearch=Serum+Powder)
+
+_Artifact Creatures_
+1 [Sundering Titan](http://sales.starcitygames.com/cardsearch.php?singlesearch=Sundering+Titan)
+
+_Creatures_
+4 [Golgari Grave-troll](http://sales.starcitygames.com/cardsearch.php?singlesearch=Golgari+Grave-troll)
+4 [Golgari Thug](http://sales.starcitygames.com/cardsearch.php?singlesearch=Golgari+Thug)
+4 [Ichorid](http://sales.starcitygames.com/cardsearch.php?singlesearch=Ichorid)
+4 [Nether Shadow](http://sales.starcitygames.com/cardsearch.php?singlesearch=Nether+Shadow)
+3 [Shambling Shell](http://sales.starcitygames.com/cardsearch.php?singlesearch=Shambling+Shell)
+4 [Stinkweed Imp](http://sales.starcitygames.com/cardsearch.php?singlesearch=Stinkweed+Imp)
+2 [Sutured Ghoul](http://sales.starcitygames.com/cardsearch.php?singlesearch=Sutured+Ghoul)
+
+_Enchantments_
+2 [Dragon Breath](http://sales.starcitygames.com/cardsearch.php?singlesearch=Dragon+Breath)
+
+_Sorceries_
+4 [Cabal Therapy](http://sales.starcitygames.com/cardsearch.php?singlesearch=Cabal+Therapy)
+2 [Dread Return](http://sales.starcitygames.com/cardsearch.php?singlesearch=Dread+Return)
+4 [Unmask](http://sales.starcitygames.com/cardsearch.php?singlesearch=Unmask)
+
+_Lands_
+4 [Bazaar Of Baghdad](http://sales.starcitygames.com/cardsearch.php?singlesearch=Bazaar+Of+Baghdad)
+4 [Mishra's Factory](http://sales.starcitygames.com/cardsearch.php?singlesearch=Mishra%27s+Factory)
+4 [Petrified Field](http://sales.starcitygames.com/cardsearch.php?singlesearch=Petrified+Field)
+1 [Strip Mine](http://sales.starcitygames.com/cardsearch.php?singlesearch=Strip+Mine)
+
+**Sideboard:**
+
+4 [Pithing Needle](http://sales.starcitygames.com/cardsearch.php?singlesearch=Pithing+Needle)
+4 [Chain Of Vapor](http://sales.starcitygames.com/cardsearch.php?singlesearch=Chain+Of+Vapor)
+3 [Underground River](http://sales.starcitygames.com/cardsearch.php?singlesearch=Underground+River)
+4 [Underground Sea](http://sales.starcitygames.com/cardsearch.php?singlesearch=Underground+Sea)
+
+What can be cut from that list? All 3 of the new cards want be played as a full play set. I believe the deck is probably going to have to cut some of its disruption. There is less need for disruption if we aren't going to be giving the opponent as many turns to execute their game plan. Also I feel that the Petrified Fields and Strip Mine aren't pulling their weight, does the deck in its new incarnation need a second Bazaar ever? Does that also mean that Mishra's Factory is a slot up for grabs?
+
+I think I'll build:
+
+-4 Petrified Field
+-4 Mishra's Factory
+-3 Shambling Shell
+-1 Strip Mine
++4 Bridge from Below
++4 Narcomoeba
++4 Street Wraith
+
+and see how it does in testing. My guess is very very well.

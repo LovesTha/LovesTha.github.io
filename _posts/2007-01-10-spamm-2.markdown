@@ -1,0 +1,13 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2007-01-10 04:15:24+00:00 +1000
+layout: post
+slug: spamm-2
+title: Spamm--
+wordpress_id: 197
+categories:
+- Magic The Gathering
+---
+
+Seams that the spamm levels are returning to a less obnoxious level, my past months spamm is only 1502. That is a much more tolerable 48 spamm per day.

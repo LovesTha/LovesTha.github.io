@@ -1,0 +1,19 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2007-08-07 02:39:51+00:00 +1000
+layout: post
+slug: pop-quiz
+title: Pop Quiz
+wordpress_id: 290
+categories:
+- Geeky
+---
+
+What is wrong/confusing with this answer, the question was "what is the coordinate system you are using":
+
+x east
+z south
+y up
+
+NB: there are 2 major things.

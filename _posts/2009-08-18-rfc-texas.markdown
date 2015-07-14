@@ -1,0 +1,20 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2009-08-18 00:27:12+00:00 +1000
+layout: post
+slug: rfc-texas
+title: RFC - Texas
+wordpress_id: 504
+categories:
+- Travel
+tags:
+- NASA
+- PT Austin
+- Texas
+- Travel
+---
+
+So I'm going to be flying to Texas in October for PT:Austin. This will be my first US trip, but I will be going back to the US next year with friends and doing other interesting bits of the US so I'm going to focus on just Texas this time.
+
+All I currently have on my list of things to see is "NASA stuff" so I need some help from the interwebs, hence the Request For Comment. (Not that RFC was intended to refer to the comments field of a blog, it does appear appropriate)

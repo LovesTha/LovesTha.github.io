@@ -1,0 +1,102 @@
+judging:
+  name: Judging
+
+set-rav:
+  name: "Ravnica: City Of Guilds"
+
+nm:
+  name: Northern Magic
+
+set-9th:
+  name: 9th Edition
+
+set-scp:
+  name: Cold Snap
+
+set-sok:
+  name: Saviours Of Kamigawa
+
+technology:
+  name: Technology & Gadgets
+
+movember:
+  name: Movember
+
+sale:
+  name: Items For Sale
+
+news:
+  name: News & Current Affairs
+
+terrorism:
+  name: Terrorism & Other People We Don't Like
+
+cycling:
+  name: Cycling
+
+rain:
+  name: Weather - Rain
+
+rape:
+  name: Rape
+
+limited:
+  name: Limited (Draft Or Sealed)
+
+standard:
+  name: Standard Constructed
+
+edh:
+  name: Commander (Formerly EDH)
+
+highlander:
+  name: Australian 7 Point Highlander
+
+magic:
+  name: Magic the Gathering
+
+meta:
+  name: Site News
+
+prerelease:
+  name: MtG Prereleases
+
+set-origins:
+  name: Magic Origins (July 2015)
+
+food:
+  name: Food
+
+restaurants:
+  name: Restaurants
+
+other:
+  name: Other
+
+movember:
+  name: Movember
+
+geeky:
+  name: Geek Matters
+
+rant:
+  name: Rant
+
+travel:
+  name: Travel
+
+dinner-party:
+  name: Dinner Party
+
+duck:
+  name: Duck
+
+books:
+  name: Books
+
+comic:
+  name: Comics
+
+state-of-gareth:
+  name: The State Of Gareth
+

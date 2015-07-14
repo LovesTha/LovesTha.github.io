@@ -1,0 +1,40 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2009-06-28 08:45:44+00:00 +1000
+layout: post
+slug: trike-trip-1
+title: 'Trike Trip #1'
+wordpress_id: 463
+tags: cycling
+---
+
+So last week I went down to Cycle Science to buy my self a Whiz Wheels Cruiser. 
+Unfortunately I had to wait till the following Friday night to pick it up with 
+the options I wanted on it (one of those options being both rear seat 
+supports). So I picked it up and rode it to the train station and from the 
+station to home.
+
+This was my first attempted real trip, I wasn't expecting much, as my fitness 
+level was, well abysmal. All I planed was a quick ride over to my parents, 
+Google maps tells me that it was a 4.2km round trip that I intended to do. It 
+also tells me that I only managed 1.8km.
+
+Due to an error with using the Garmin Edge 205 I brought I only recorded the 
+last 1443m of the ride, but this is what the Distance-Elevation plot for it 
+looks like:
+
+![2009 06 28 
+Elevation](http://rockpaperdynamite.files.wordpress.com/2009/07/2009-06-28-eleva
+tion.png)
+
+Which I guess was more of a hill than I was ready for.
+
+Trip Distance: 1.8km
+Avg Speed: 8km/h
+Max Speed: 35km/h
+Rise-Fall: 44 - 55m
+Time: 11+ minutes
+
+PS: This post is post dated to the date of the ride. This whole category will 
+be done that way.

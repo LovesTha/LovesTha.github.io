@@ -1,0 +1,30 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2006-11-06 03:57:10+00:00 +1000
+layout: post
+slug: foiled
+title: Foiled?
+wordpress_id: 157
+categories:
+- Magic The Gathering
+---
+
+There has started to be a bit of a culture of foil detection in Magic circles. There are a few properties of foils that can be detected:
+
+
+
+	
+  * Foils are more slippery
+
+	
+  * Foils are stiffer
+
+
+If you attempt to slide the possibly foil card against the other cards in the pack you should be able to notice the difference between the foils and other cards. The other option is to try and detect them by bending the cards slightly to notice the difference in the stiffness of the foil.<!-- more -->
+
+I have heard rumours of people who use scales to find them, but I doubt that works the weight of the foiling just can't be enough to notice.
+
+You may ask why people would want to try and detect the foil packs. I like to know so I can buy a box, open the foils, then use the rest of the packs to enter into drafts at card stores. Now I know that all sounds rather dishonest, but plenty of other people are doing it (sif that's a good reason to do something, but if you don't also do it your getting shortchanged on the number of foils in the draft) and its good value to buy cheap boosters and use them for drafting.
+
+May all your cracks be foils.

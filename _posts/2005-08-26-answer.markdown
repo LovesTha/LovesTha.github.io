@@ -1,0 +1,18 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2005-08-26 00:35:00+00:00 +1000
+layout: post
+slug: answer
+title: Answer
+wordpress_id: 23
+tags:
+- judging
+- magic
+---
+
+If a copy of a ESG gets returned to hand and then you are asked to pay mana, you will be given an opportunity to play mana abilities, so you can then remove the copy from the game and generate mana.  This works as long as the opportunity to produce mana is inside the same resolving effect that has returned the ESG to hand.
+
+
+
+

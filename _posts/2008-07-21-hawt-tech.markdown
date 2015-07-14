@@ -1,0 +1,18 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2008-07-21 23:47:30+00:00 +1000
+layout: post
+slug: hawt-tech
+title: Hawt Tech
+wordpress_id: 371
+categories:
+- Magic The Gathering
+tags:
+- Arcane Denial
+- Demigod of Revenge
+---
+
+Arcane Denial your own Demigod of Revenge.
+
+Think about it.

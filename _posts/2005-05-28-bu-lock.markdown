@@ -1,0 +1,79 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2005-05-28 00:50:00+00:00 +1000
+layout: post
+slug: bu-lock
+title: Bu Lock?
+wordpress_id: 8
+tags:
+- constructed
+- magic
+---
+
+Okay here's the list:  
+
+4x Skull Collector  
+
+2x Crystal Shard  
+
+4x Aether Vial  
+
+3x Fabricate  
+
+4x Chittering Rats  
+
+4x Ravenous Rats  
+
+4x Distress  
+
+4x Nezumi Shortfang  
+
+3x Kiku's Whisper
+
+
+
+
+4x Tendo's Icebridge  
+
+4x Salt Marsh  
+
+4x Island  
+
+1x Minamo, School at Water's Edge  
+
+1x Shizo, Death's Storehouse  
+
+10x Swamp
+
+
+
+
+SB?
+
+
+
+
+Perfect Combo Opening:  
+
+Turn 1: Swamp, Eather Vial  
+
+Turn 2: Vial counters = 1, Swamp, Nezumi Shortfang  
+
+Turn 3: Vial counters = 2, Swamp, Skull Collector, Vial in Ravenous Rats  
+
+Turn 4: Vial counters - 3 & bounce Ravenous Rats, Swamp, Ravenous Rats, Activate Shortfang, Vial in Chittering Rats, at appropriate time (ours or their turn)
+
+
+
+
+Opponent only ever sees 11 cards and we win on the back of damage from Stabwhisker the Odious (don't flip him in response to their draw step, only flip him when they fail to discard, making them discard the top card of their library makes them see a 12th card)
+
+
+
+
+So is this any good? I have no idea, haven't even played it on MWS yet and it is a 3 card combo, but it does run at least 6 and as many as 8 copies of each combo piece. Common give me your thourghts, I know no-one is reading but I'll keep pretending someone's out there.
+
+
+
+

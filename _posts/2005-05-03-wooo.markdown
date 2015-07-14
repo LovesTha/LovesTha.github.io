@@ -1,0 +1,17 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2005-05-03 06:16:00+00:00 +1000
+layout: post
+slug: wooo
+title: Wooo
+wordpress_id: 3
+tags:
+- meta
+---
+
+This is my brand spanking new blog, I'll detail here my experiences trying to find the next piece of dynamite for Magic.  I by no means try to think of my self as being any good, this is just being setup to make me feel more important
+
+
+
+

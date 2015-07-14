@@ -1,0 +1,18 @@
+---
+author: rockpaperdynamite
+comments: true
+date: 2005-10-03 04:13:00+00:00 +1000
+layout: post
+slug: 15-land
+title: 15 Land?
+wordpress_id: 41
+tags:
+- limited
+- magic
+---
+
+Over on StarCityGames.com I was just reading about a 4 colour deck (two splash colours) that ran only 15 land and was contemplating only 14 [(link).](http://www.starcitygames.com/php/news/article/10524.html)  On Sunday at the Games Village Sneak Peak I ran a 3 colour deck (all three colours in equal numbers) and only ran 15 land in it and never had a single problem with only 3 extra mana producers.  So just how low will land counts go?
+
+
+
+
