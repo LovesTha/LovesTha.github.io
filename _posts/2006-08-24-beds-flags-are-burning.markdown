@@ -6,8 +6,8 @@ layout: post
 slug: beds-flags-are-burning
 title: Beds Flags are Burning
 wordpress_id: 124
-categories:
-- Other
+tags:
+- news
 ---
 
 I just had a very interesting argument discussion with one of the guys around the office about appropriateness of burning flags as a valid form of protest. Personally I have no issue with it, but I can see why people don't like it. This doesn't mean I think it should be illegal or that people shouldn't do it, nearly the opposite: We need forms of protest that people get upset about, particularly ones that don't physically harm people. People are always going to find ways of offending people, lets not find ways to force them to either get sent to prison or to cause real damage.

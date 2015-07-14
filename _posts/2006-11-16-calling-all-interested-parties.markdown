@@ -6,8 +6,8 @@ layout: post
 slug: calling-all-interested-parties
 title: Calling All Interested Parties
 wordpress_id: 169
-categories:
-- Northern Magic
+tags:
+- nm
 ---
 
 I'm looking for any comments people have about the Two Headed Giant events. Not that I think there is anything wrong with them, just that I know that its not perfect. Mainly because nothing is perfect.

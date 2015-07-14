@@ -6,8 +6,8 @@ layout: post
 slug: man-of-steal
 title: Man of Steal
 wordpress_id: 170
-categories:
-- Politics
+tags:
+- news
 ---
 
 A great quote from of Prime Man today:

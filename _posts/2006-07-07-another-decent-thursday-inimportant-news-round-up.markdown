@@ -6,10 +6,9 @@ layout: post
 slug: another-decent-thursday-inimportant-news-round-up
 title: Another Decent Thursday / Unimportant News Round Up
 wordpress_id: 95
-categories:
-- Limited
-- Magic The Gathering
-- Tournament Report
+tags:
+- limited
+- magic 
 ---
 
 I lost in the final of another Card Heaven draft yesterday. This time it was a crushing defeat at the hands of a very powerful deck piloted by a skilled local talent, Liam Shiels.

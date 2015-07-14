@@ -6,8 +6,9 @@ layout: post
 slug: crappy-cards-suck
 title: Crappy Cards Suck
 wordpress_id: 61
-categories:
-- Magic The Gathering
+tags:
+- magic
+- constructed
 ---
 
 Couldn't find all the cards I needed for the white version of the rock above, so I had to:

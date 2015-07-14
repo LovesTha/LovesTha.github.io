@@ -6,8 +6,8 @@ layout: post
 slug: wolfmother
 title: Wolfmother
 wordpress_id: 101
-categories:
-- Magic The Gathering
+tags:
+- music
 ---
 
 Awesome.
