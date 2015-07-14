@@ -1,0 +1,153 @@
+---
+layout: post
+title: New IPG - Changes to Drawing Extra Cards
+date:   2015-07-14 19:30 +1000
+tags: [judging, mtg]
+---
+
+There are new policy documents today, the [Policy Blog][1] has 
+all the details and official lines. I'm going to discuss a few
+of the reactions I've seen to the announcement.
+
+Amongst all the other small clean up, this update really has 
+quiet a lot of that but most of it is just deleting things that
+shouldn't have been there, is a monumental change to how we 
+handle _Drawing Extra Cards_. 
+
+For as long as I can remember, and I suspect forever, it has 
+been a game loss. It is also one of the most common reasons we 
+give out game losses at competitive events, the others being 
+deck list issues. No matter what some corners of the player 
+community believes we judges really don't enjoy giving out
+game losses. It really feels bad to hand out a game loss for
+something that is an easy innocent mistake.
+
+Until now we've balanced the imperative to discourage drawing 
+extra cards as a viable cheating vector by giving out the harsh
+penalty of a game loss. What has changed that we feel happy to 
+give out a lesser penalty now? Judges have decided that we are
+no longer scared of the hint of in game fixes.
+
+Forever we have wanted to avoid in game fixes as they are:
+
+* Lacking in impartiality
+
+* Inconsistent
+
+# Impartiality
+
+The first is something we are very reluctant to deviate from.
+As judges we need to be seen to be fair and impartial, it is
+something we have to continually strive to do as we routinely 
+adjudicate for friends. Even when at the highest level because 
+the players and judges keep travelling to the same places there
+becomes a level of friendship created between judges and 
+players. Plenty of judges would stop working large events if 
+they had to avoid socialising with players in the restaurants
+and bars after the event.
+
+Our greatest tool for giving the appearance and enforcing 
+impartiality is by sticking to the _Infraction Penalty 
+Guidelines_ at all times. Because consistent rulings are by 
+definition impartial ones.
+
+# Consistency
+
+Consistency is one of the great ideals of competitive judging.
+While the _IPG_ has been steadily shrinking the last few years
+it has been with the intent of making judge's rulings more 
+consistent. It is hard to be consistent when the document is
+overly complex and long. 
+
+One of the few trends towards more complexity recently has been
+the much unsettling _Missed Trigger_ policy. The difficult to 
+understand and apply concept of generally beneficial and 
+generally detrimental was a great source of inconsistency. With 
+the most recent policy that is much simpler as the in game 
+effect is determined by the opponent so the inconsistency of a
+complex concept is limited to weather or not we give a warning
+and not 'does the trigger happen'.
+
+# New Concepts
+
+The _Missed Trigger_ policy uses the new technology of asking the
+opponent what to do to allow for an inconsistent in game result
+without laying any of the inconsistency to the judge, thus 
+avoiding any belief that the judge is being biased to a player.
+
+So applying that technology to _Drawing Extra Cards_ allows us 
+the novel solution of asking the opponent which cards should be
+shuffled back into the library. Yes it relies on the opponent
+picking the right card to shuffle back in, which means the 
+penalty will be greater against skilled opponents than others,
+but that is something I can live with.
+
+# Complaints
+
+These are a few of the issues people have raised with this policy
+
+## I Chose Badly And Didn't Win
+
+Just because we used to give you a free win when you opponent 
+made this mistake doesn't mean you deserve a free win. Now we are
+giving you a free \Thoughseize\, isn't that enough. If getting a
+free spell like that isn't enough to let you win the game you 
+really don't deserve a free win.
+
+You know why you don't deserve a free win? I can think of many:
+
+* Everyone else in the event had to work for this win this round,
+just how privileged can you get?
+
+* Free wins leave an empty feeling in your stomach.
+
+* Free wins rob you of having fun twice. You don't get the 
+enjoyment of trying to win this round and next round you have to
+play someone who worked to get there.
+
+* One day it'll be you drawing an extra card, do you really want
+that small dexterity or concentration error to cost you the game?
+
+## The Feel Bad Is On The Wrong Foot
+
+Previously when you drew an extra card you felt pretty bad 
+because your simple error just cost you the game. 
+
+Now when your opponent draws an extra card you can feel *really* 
+bad when you lose because you lost despite you getting to remove 
+their best card from the game.
+
+Not only does this change the potential for \feel bads\ to the
+player who did nothing wrong but people are arguing that the
+emotion is much stronger for the player who did nothing wrong.
+They haven't spent time thinking about how to pick cards out of
+their opponents hand, it's not something their deck can do. Maybe
+they intentionally chose a deck that can't do that as they know
+they are bad at those decisions.
+
+This argument holds some weight with me, but I just don't feel it
+is that important. Competitive events aren't for everyone, they 
+are competitive and that is the point of them. Unless you are 
+talking about very small communities there is always the option of
+playing in a _Regular REL_ event instead of the _Competitive REL_
+one. 
+
+This policy will reward the good players, it will also emphasise
+players owning their actions and test their abilities to analyse
+and think on the spot. 
+
+# Wrap Up
+
+The net benefit of letting players relax a little bit around how
+and when they draw cards will let many players enjoy every game 
+more. If the cost of that is a few players feeling more stressed 
+when they have had their opponent draw an extra card that feels
+okay to me.
+
+The continual and substantial improvement that the _Infraction 
+Penalty Guidelines_ keeps having continues to impress and amaze
+me. It looks so close to perfect with each new revision.
+
+
+
+[1]: http://blogs.magicjudges.org/telliott/2015/07/13/magic-origins-policy-changes

@@ -6,11 +6,9 @@ layout: post
 slug: disapointing-turn-outs
 title: Disapointing turn outs
 wordpress_id: 112
-categories:
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Tournament Report
+tags:
+- magic
+- nm
 ---
 
 Had just 3 teams worth of players turn up yesterday for the tournament :( Some people still wanted to play some limited so we played a 5 player draft, which was a lot of fun, but is never good as it really is too few players and you get very weird pairings and final standings.

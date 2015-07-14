@@ -6,7 +6,7 @@ layout: post
 slug: when-will-people-learn
 title: When Will People Learn
 wordpress_id: 155
-categories:
+tags:
 - Other
 ---
 

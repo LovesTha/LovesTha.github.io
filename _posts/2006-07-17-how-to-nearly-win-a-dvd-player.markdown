@@ -6,10 +6,10 @@ layout: post
 slug: how-to-nearly-win-a-dvd-player
 title: How to Nearly Win a DVD Player
 wordpress_id: 99
-categories:
-- Limited
-- Magic The Gathering
-- Tournament Report
+tags:
+- limited
+- magic
+- set-csp
 ---
 
 Played in 2 Coldsnap event this weekend at [The Games Village](http://thegamesvillage.com.au/). The one I Friday night I messed up by adding a small splash (4 cards) into the deck. This was a mistake, colour consistency is too important, and I was already running 2 [Mouths of Ronom](http://ww2.wizards.com/gatherer/CardDetails.aspx?&id=121234) so it gave me 4 off colour lands, which is much too inconsistent.

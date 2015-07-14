@@ -6,8 +6,8 @@ layout: post
 slug: that-dirty-c-word
 title: That Dirty C Word
 wordpress_id: 96
-categories:
-- Other
+tags:
+- church
 ---
 
 Not the one that rimes with 'punt'. Or any other word that you don't say in front of your mother.

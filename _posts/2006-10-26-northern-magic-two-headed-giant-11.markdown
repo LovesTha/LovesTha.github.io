@@ -6,10 +6,9 @@ layout: post
 slug: northern-magic-two-headed-giant-11
 title: 'Northern Magic Two Headed Giant #11'
 wordpress_id: 148
-categories:
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
+tags:
+- magic
+- nm
 ---
 
 Just reminding everyone nice and early that its not too long till our next event and I'm hoping for something of a [hat-trick](http://en.wikipedia.org/wiki/Hat_trick) by having 3 of my events to run in a row :)

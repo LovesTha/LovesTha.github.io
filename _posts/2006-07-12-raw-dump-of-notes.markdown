@@ -6,11 +6,11 @@ layout: post
 slug: raw-dump-of-notes
 title: Raw Dump of Notes
 wordpress_id: 97
-categories:
-- Theology
+tags:
+- church
 ---
 
-Here is the raw dump of my notes from the Forge Intensive this weekend:<!-- more -->
+Here is the raw dump of my notes from the Forge Intensive this weekend:
 
 Sun Alan:
 memes

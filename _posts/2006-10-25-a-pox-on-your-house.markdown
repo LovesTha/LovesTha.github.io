@@ -6,9 +6,9 @@ layout: post
 slug: a-pox-on-your-house
 title: A Pox On Your House
 wordpress_id: 147
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 Been reading about some decks for States this weekend, not that I should be as I'm judging. The current best deck appears to me to be Solar Pox as seen at SCG this last weekend. Mainly I love it as it has my favourite card currently in standard: Haakon. The thing I'm most indignant about is that someone else worked out the best combo in standard with it: Court Hussar.

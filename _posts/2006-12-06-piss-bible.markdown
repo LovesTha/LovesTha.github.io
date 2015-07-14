@@ -6,10 +6,9 @@ layout: post
 slug: piss-bible
 title: Piss Bible
 wordpress_id: 179
-categories:
-- Current News
 tags:
-- Grammar
+- news
+- grammar
 ---
 
 I wish I'd been able to study grammar at high school. I love the topic, I love picking people up on grammar, pity I know so little about it.

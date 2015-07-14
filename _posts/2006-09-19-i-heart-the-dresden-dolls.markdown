@@ -6,8 +6,8 @@ layout: post
 slug: i-heart-the-dresden-dolls
 title: I {heart} The Dresden Dolls
 wordpress_id: 135
-categories:
-- Music
+tags:
+- music
 ---
 
 I <3 The Dresden Dolls. The Red Paintings also don't suck.

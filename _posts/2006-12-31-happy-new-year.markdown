@@ -6,8 +6,8 @@ layout: post
 slug: happy-new-year
 title: Happy New Year
 wordpress_id: 189
-categories:
-- Other
+tags:
+- meta
 ---
 
 Following with the pointless festive post, I hope you all are having a great new years.

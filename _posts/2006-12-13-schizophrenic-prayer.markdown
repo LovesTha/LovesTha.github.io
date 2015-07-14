@@ -6,10 +6,10 @@ layout: post
 slug: schizophrenic-prayer
 title: Schizophrenic Prayer
 wordpress_id: 183
-categories:
-- Magic The Gathering
-- Philosophy &amp; Politics
-- Theology
+tags:
+- magic
+- news
+- church
 ---
 
 Big Dude, help me:

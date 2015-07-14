@@ -6,12 +6,9 @@ layout: post
 slug: next-two-headed-giant
 title: Next Two Headed Giant
 wordpress_id: 86
-categories:
-- Judging
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Up Coming Releases
+tags:
+- magic
+- nm
 ---
 
 Hi just reminding you all that the next 2HG is coming up on the 1st of July, hope to see you all there

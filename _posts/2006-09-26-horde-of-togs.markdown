@@ -6,8 +6,9 @@ layout: post
 slug: horde-of-togs
 title: Horde of Togs
 wordpress_id: 139
-categories:
-- Magic The Gathering
+tags:
+- magic
+- limited
 ---
 
 I played at The Cave on Monday night, and the bunch of guys are nice enough that I think I will try and do it again, along with play in a few of their casual tournaments. Unfortunately I'll be in Sydney for their next one but I can't help but want to put together a deck for it.

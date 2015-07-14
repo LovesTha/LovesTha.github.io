@@ -6,9 +6,9 @@ layout: post
 slug: judging-nationals
 title: Judging Nationals
 wordpress_id: 84
-categories:
-- Judging
-- Magic The Gathering
+tags:
+- judging
+- magic
 ---
 
 On Friday (just after I left for the long weekend away), [](http://forum.mtgmelb.com/profile.aspx?f=4&p=7)Dale Aitken posted the list of judges accepted for judging Australian Nationals. This excites me a lot. The opportunity to judge at such an significant event excites me in a way that is hard to describe.
