@@ -1,6 +1,6 @@
 ---
 layout: post
-title: X Reasons Your Local Store Sucks And How To Fix
+title: X Reasons Your Local Store Sucks And How To Fix Them
 slug: your-lgs-sucks
 date:   2015-07-15 21:30 +1000
 tags: [mtg]
@@ -39,9 +39,35 @@ tick this box to satisfy Wizards of the Coast then I recommend really looking
 at how to do improve it. Reach out to local communities that are likely to 
 have lots of potential players. Hire a stall at a gaming or pop culture event.
 
-# 2 - Not Enough Diversity
+# 2 - Facilities
 
-Lets do a quick survey, think of all the minorities you can. Now think back to
-the last event you were at and try to think if at least 50% of the players were
-part of at least one of those minorities. If your minorities aren't in 
-combination 
+Is the bathroom nicer than an average shopping center public bathroom? Or at 
+least on par with with the ones at the nicer shopping centers. How does the 
+carpet look? Have the tablecloths been washed this month? Year? People do
+have a lot more enjoyment in a nice comfortable place.
+
+As a player this one is pretty simple, but I'm going to sound like you mother.
+Push you chair in. Throw out your rubbish. Don't make a mess with your food.
+Use the toilet responsibly and flush. Don't lean back on the chairs. Make your
+mother proud.
+
+As a store some of the options are expensive but there are important cheap 
+options. Yes you can spend a dragon's horde on refurbishing, well everything.
+And if you have been earning really good money go ahead and make your store
+into a palace to gaming, your players will love it.
+
+Back to the world of normal stores that are stuggling to pay the wages of their 
+few staff, pay the bills and hope to have enough left over for the owner to
+eat. Here the best thing is to ensure the bathrooms are clean, the tablecloths
+have been washed and the floor mopped/vacuumed. Doing this wont make everything
+magically as good as a full renovation but people wont have a bad experience
+visiting the store. 
+
+It can be good to think about cleaning the bathrooms in the middle of a busy
+day. This is doubly true if the toilet is mixed gender.
+
+# 3 - Player Friendlyness
+
+Nothing sours the experience of playing at a store more than having to deal with
+an abrasive person. There will always be conflicts of personality in any large
+group but the more serious 
