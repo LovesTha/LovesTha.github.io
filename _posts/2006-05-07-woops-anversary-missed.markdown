@@ -6,8 +6,8 @@ layout: post
 slug: woops-anversary-missed
 title: Woops Anversary Missed
 wordpress_id: 80
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 Last Wednesday this web site celebrated its first birthday. Sure I've changed who the blog is with once, but its still a first birthday.

@@ -6,8 +6,8 @@ layout: post
 slug: foiled
 title: Foiled?
 wordpress_id: 157
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 There has started to be a bit of a culture of foil detection in Magic circles. There are a few properties of foils that can be detected:

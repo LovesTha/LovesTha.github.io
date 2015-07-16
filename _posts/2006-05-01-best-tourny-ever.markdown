@@ -6,10 +6,10 @@ layout: post
 slug: best-tourny-ever
 title: Best. Tourny. Ever.
 wordpress_id: 75
-categories:
-- Limited
-- Magic The Gathering
-- Tournament Report
+tags:
+- limited
+- set-diss
+- magic
 ---
 
 Lets put it like this, the only way my sneak peek experience could have been better is if it was a PTQ.

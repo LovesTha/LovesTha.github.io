@@ -6,12 +6,10 @@ layout: post
 slug: two-headed-giant-12
 title: 'Two Headed Giant #12'
 wordpress_id: 174
-categories:
-- Limited
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Two Headed Giant
+tags:
+- limited
+- magic
+- nm
 ---
 
 Just reminding everyone nice and early that its not too long till our last tournament for the year.

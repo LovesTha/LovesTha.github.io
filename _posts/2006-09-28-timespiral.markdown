@@ -6,11 +6,10 @@ layout: post
 slug: timespiral
 title: TimeSpiral
 wordpress_id: 138
-categories:
-- Judging
-- Magic The Gathering
-- Tournament Report
-- Up Coming Releases
+tags:
+- judging
+- magic
+- prerelease
 ---
 
 Damn, that was an exhausting weekend. Not that I did more than I have at previous prereleases, but I think I'm less fit now and a bit sick :(

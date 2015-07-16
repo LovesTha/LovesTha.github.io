@@ -6,10 +6,10 @@ layout: post
 slug: to-to-or-not-to-to
 title: To T.O. Or Not To T.O.?
 wordpress_id: 82
-categories:
-- Magic The Gathering
-- Northern Magic
-- Theology
+tags:
+- magic
+- nm
+- church
 ---
 
 Okay, firstly I'm pretty happy with that title, its silly enough and accurate enough to be at least slightly humorous. Also its a 13 character title with only 2 characters that aren't 't' or 'o'.

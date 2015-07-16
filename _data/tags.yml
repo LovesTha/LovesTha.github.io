@@ -1,3 +1,30 @@
+grammar:
+  name: Grammar
+
+sport:
+  name: Sports
+
+set-tsp:
+  name: Timespiral
+
+burger:
+  name: Burgers
+
+dreamblade:
+  name: DreamBlade
+
+church:
+  name: Christian Ideas and Practice
+
+music:
+  name: Music, Festivals and Concerts
+
+set-diss:
+  name: Dissension
+
+movies:
+  name: Movies
+
 judging:
   name: Judging
 
@@ -10,7 +37,7 @@ nm:
 set-9th:
   name: 9th Edition
 
-set-scp:
+set-csp:
   name: Cold Snap
 
 set-sok:

@@ -6,9 +6,8 @@ layout: post
 slug: awb-committed-to-single-desk-says-chairman
 title: AWB committed to single desk, says chairman
 wordpress_id: 176
-categories:
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
 ---
 
 In other news, MGM fan of region encoding of DVD's.

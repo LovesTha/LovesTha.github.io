@@ -2,6 +2,9 @@
 layout: default
 ---
 
+  <div class="row">
+    <div class="col-lg-8 col-md-10 ">
+
 <div class="home">
 
   <h1 class="page-heading">Posts</h1>
@@ -14,6 +17,7 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+	{{ post.excerpt }}
       </li>
     {% endfor %}
   </ul>
@@ -21,3 +25,8 @@ layout: default
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+    </div>
+    <div class="col-lg-4 col-md-2 ">
+        {% include sidebar.html %}
+    </div>
+

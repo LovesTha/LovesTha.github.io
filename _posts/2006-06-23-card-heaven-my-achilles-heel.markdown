@@ -6,10 +6,9 @@ layout: post
 slug: card-heaven-my-achilles-heel
 title: Card Heaven - My Achilles Heel
 wordpress_id: 88
-categories:
-- Limited
-- Magic The Gathering
-- Tournament Report
+tags:
+- limited
+- magic
 ---
 
 Played in my usual Thursday night draft at Card Heaven last night. It might have been only my second draft in around 2 months at CH, but it still feels like home.

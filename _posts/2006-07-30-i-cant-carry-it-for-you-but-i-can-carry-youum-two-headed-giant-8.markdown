@@ -4,14 +4,12 @@ comments: true
 date: 2006-07-30 14:01:11+00:00 +1000
 layout: post
 slug: i-cant-carry-it-for-you-but-i-can-carry-youum-two-headed-giant-8
-title: 'I Can''t Carry It For You, But I Can Carry You .... Um ... Two Headed Giant
-  #8'
+title: 'I Can''t Carry It For You, But I Can Carry You .... Um ... Two Headed Giant  #8'
 wordpress_id: 109
-categories:
-- Judging
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
+tags:
+- judging
+- magic
+- nm
 ---
 
 Just reminding everyone that my next 2HG is going to be on the 6th of August, with all the normal details:

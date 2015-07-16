@@ -32,9 +32,12 @@ layout: default
 
 <article>
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="col-lg-8 col-md-10 ">
 	  {{ content }}
-	</div>
+    </div>
+    <div class="col-lg-4 col-md-2 ">
+        {% include sidebar.html %}
+    </div>
   </div>
 </article>
 
@@ -55,6 +58,18 @@ layout: default
     </ul>
   </div>
 </div>
+
+<!-- nuffnang -->
+<script type="text/javascript">
+        nuffnang_bid = "68d77b48481394368dba6ddecdca7373";
+        document.write( "<div id='nuffnang_lr'></div>" );
+        (function() {	
+                var nn = document.createElement('script'); nn.type = 'text/javascript';    
+                nn.src = 'http://synad3.nuffnang.com.au/lr.js';    
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nn, s.nextSibling);
+        })();
+</script>
+<!-- nuffnang-->
 
 {% if page.comments %}
 <div class="row disqus-comments">
