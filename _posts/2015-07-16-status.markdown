@@ -9,11 +9,11 @@ tags:
 - meta
 ---
 
-# Update
-
 So this post will be my 8th in 8 days. It has been 5 years since I've done two 
 posts in the same month and another year on that for more than two in a month. 
 I hope y'all are enjoying the new content.
+
+# Update
 
 I restarted the blog as a way to play with the [Jekyll][1] platform, but I'd 
 also been getting into listening to podcasts recently and had been thinking
