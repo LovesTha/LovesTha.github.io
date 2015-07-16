@@ -4,7 +4,7 @@ title: About
 permalink: /aboutme/
 ---
 
-Please join me on a journey to …
+Please join me on a journey of …
 
 ## Building A Better Gareth
 

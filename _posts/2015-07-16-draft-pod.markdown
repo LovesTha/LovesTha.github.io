@@ -1,0 +1,39 @@
+---
+author: Gareth Pye
+comments: true
+date: 2015-07-16 12:52:00+00:00 +1000
+layout: post
+slug: draft-pod
+title: How To Run A Draft Pod By Hand
+tags:
+- magic
+- limited
+- judging
+---
+
+
+Someone just posted to [#mtgjudge][1] an amazing simple way to run a draft pod 
+without software. While it could be really handy if you are running one when WER is 
+down, it is probably best for how to do it in a pub or other fun location. Firstly 
+find a deck of playing cards and pull out the following cards:
+
+![AS 2H 3C 4D 5S 6H 7C 8D](/img/Draft Pod Cards.png)
+
+Shuffle them and hand one to each of the players. The players then sit in a circle in
+the order of the numbers (Ace, 2, 3, etc).
+
+Their round one pairing is the player with the same suit as them.
+
+Their second round pairing is the player with the same colour who doesn't have the same
+suit and had the same result in round one.
+
+Their final round is against a player with the same record and a differently coloured 
+card.
+
+Very simple and easy for players to remember and adjudicate them selves. All they need
+to do is hold onto their playing card. Oh never mind, it'll never work. Maybe ask them
+to take a photo of their playing card…
+
+
+
+[1]: http://chat.magicjudges.org/mtgjudge/

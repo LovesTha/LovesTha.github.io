@@ -6,7 +6,7 @@ tags: state-of-gareth
 ---
 
 So I'm going to post some rambling thoughts today. I'm not expecting there to be anything much of 
-interest in here, but I'll try and summarize my current status and outlook.
+interest in here, but I'll try and summarise my current status and outlook.
 
 # Personal
 
