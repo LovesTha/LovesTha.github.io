@@ -6,8 +6,8 @@ layout: post
 slug: spamm
 title: Spamm++
 wordpress_id: 182
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 I've been reading lots about how spamm is on the increase, and my personal experience shows that their has been a significant increase in the last few weeks.

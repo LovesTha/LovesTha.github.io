@@ -6,8 +6,8 @@ layout: post
 slug: ubuntu-i-hate-you
 title: Ubuntu I hate you
 wordpress_id: 87
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 Ubuntu killed my computer

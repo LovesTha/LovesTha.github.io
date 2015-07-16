@@ -6,8 +6,9 @@ layout: post
 slug: two-headed-giant-5
 title: 'Two Headed Giant #5'
 wordpress_id: 74
-categories:
-- Northern Magic Event
+tags:
+- nm
+- magic
 ---
 
 May the 13th will be the next Two Headed Giant.

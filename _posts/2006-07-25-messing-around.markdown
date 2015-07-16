@@ -6,8 +6,9 @@ layout: post
 slug: messing-around
 title: Messing Around
 wordpress_id: 105
-categories:
-- Meta-Site Discussion
+tags:
+- meta
+- judging
 ---
 
 Look, I just had a play with the WordPress tool for generating the headers for pages. I think I'm quite happy with what I have now so I'll stop.

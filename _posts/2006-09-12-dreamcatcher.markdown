@@ -6,8 +6,8 @@ layout: post
 slug: dreamcatcher
 title: DreamCatcher
 wordpress_id: 132
-categories:
-- DreamBlade
+tags:
+- dreamblade
 ---
 
 Wizards has gotten around to putting a Miniature database up on the web at [http://dreamcatcher.wizards.com/](http://dreamcatcher.wizards.com/)

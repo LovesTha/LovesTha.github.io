@@ -6,11 +6,9 @@ layout: post
 slug: the-cave
 title: The Cave
 wordpress_id: 119
-categories:
-- Magic The Gathering
-- Meta-Site Discussion
-tags:
-- Stores
+tagss:
+- magic
+- meta
 ---
 
 <cue batman theme music>

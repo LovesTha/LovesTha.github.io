@@ -6,8 +6,8 @@ layout: post
 slug: '1226'
 title: 12/26
 wordpress_id: 136
-categories:
-- Music
+tags:
+- music
 ---
 
 I've been listening to a fair bit of Kimya Dawson of late. The majority of her songs have a political message, and as I agree with her political opinion that's a good thing :)

@@ -6,9 +6,9 @@ layout: post
 slug: church-shopping
 title: Church Shopping
 wordpress_id: 187
-categories:
-- Philosophy &amp; Politics
-- Theology
+tags:
+- news
+- church
 ---
 
 At the 'recent' Forge Intensive someone, I forget who, mentioned that the concept of church shopping is one of the proofs of how consumeristic we all have become. Then he went on to mention that the concept of church shopping horrifies him (my words).

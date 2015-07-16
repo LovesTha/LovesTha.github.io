@@ -6,8 +6,9 @@ layout: post
 slug: free-speech-or-life
 title: Free speech or Life?
 wordpress_id: 66
-categories:
-- Theology
+tags:
+- church
+- movies
 ---
 
 Just watching Hotel Rwanda at the moment.

@@ -6,10 +6,9 @@ layout: post
 slug: 2hg-8-tomorrow
 title: '2HG #8 Tomorrow'
 wordpress_id: 111
-categories:
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
+tags:
+- magic
+- nm
 ---
 
 Just giving everyone a final heads up that the 2HG is tomorrow

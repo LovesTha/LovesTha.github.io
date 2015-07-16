@@ -6,9 +6,9 @@ layout: post
 slug: penalty-guidelines
 title: Penalty Guidelines
 wordpress_id: 100
-categories:
-- Judging
-- Magic The Gathering
+tags:
+- judging
+- magic
 ---
 
 I'm starting to notice a bit of a trend on the DCI Judge mailing list. Every question that relates to the Penalty Guidelines that doesn't have a nice clear and cut answer seams to get finally answered with a comment of 'heres an excerpt from the upcoming new PG'

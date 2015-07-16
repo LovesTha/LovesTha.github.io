@@ -6,9 +6,8 @@ layout: post
 slug: xkcd
 title: xkcd
 wordpress_id: 180
-categories:
-- Geeky
-- Other
+tags:
+- technology
 ---
 
 This is my new favourite comic series, very very intelligent.  I fell in love with it for this comic:

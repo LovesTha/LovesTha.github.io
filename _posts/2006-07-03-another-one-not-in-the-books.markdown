@@ -6,8 +6,9 @@ layout: post
 slug: another-one-not-in-the-books
 title: Another One (Not) In The Books
 wordpress_id: 94
-categories:
-- Magic The Gathering
+tags:
+- magic
+- nm
 ---
 
 Had a better than recent but worse than expected turn out to my Two Headed Giant on Saturday. A grand total of 7 people turned up, so I teamed up with the 7th player and unsanctioned the event. This sort of ended up ok as we then went onto to win the whole thing convincingly.

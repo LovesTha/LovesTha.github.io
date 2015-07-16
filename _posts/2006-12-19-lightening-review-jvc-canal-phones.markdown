@@ -6,8 +6,9 @@ layout: post
 slug: lightening-review-jvc-canal-phones
 title: Lightening Review - JVC Canal Phones
 wordpress_id: 186
-categories:
-- Magic The Gathering
+tags:
+- technology
+- music
 ---
 
 My Koss R/200's died a few weeks ago, the right hand cup broke off. So I've been without headphones at work for a while. Its sort of been ok as a failure to pay power bills (apparently we never have received a bill and no company would let us pay them, sounds a bit pathetic to me) in the second office caused me to move to the other office I just stayed there for a while with a small set of speakers.

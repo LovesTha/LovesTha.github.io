@@ -6,8 +6,8 @@ layout: post
 slug: 2007-pro-tour-schedule-released
 title: 2007 Pro Tour Schedule Released
 wordpress_id: 116
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 ### Pro Tour-Geneva

@@ -6,9 +6,9 @@ layout: post
 slug: two-headed-giant-4
 title: 'Two Headed Giant #4'
 wordpress_id: 69
-categories:
-- Northern Magic Event
-- Tournament Report
+tags:
+- nm
+- magic
 ---
 
 Well its in the books now, sort of. Firstly it not really in the books as we failed to actually run it, only 3 teams turned up and the minimum number of teams for a teams tournament in 4. And secondly its not in the books in that the DCI site doesn't seam to want to let me cancel the event now.

@@ -6,8 +6,9 @@ layout: post
 slug: azorious-deck
 title: Azorious Deck
 wordpress_id: 65
-categories:
-- Deck Building
+tags:
+- constructed
+- magic
 ---
 
 I've been thinking about this Azorious based deck for a while now, all I really needs is some dual lands, but I'm sure Dissension will have some other goodies for it.

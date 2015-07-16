@@ -6,9 +6,9 @@ layout: post
 slug: black-stump
 title: Black Stump
 wordpress_id: 141
-categories:
-- Music
-- Theology
+tags:
+- music
+- church
 ---
 
 Weekend before last I went up to Black Stump an alternative christian music festival held near Sydney (from the perspective of a Melbournite). The festival is held at a large scout camping site (Cataract Park, Appin), and >5,000 people go along to it (I have no idea how many people go along but they quote the capacity of the big top at 5,000 and it was packed for the Sunday night thingy).
