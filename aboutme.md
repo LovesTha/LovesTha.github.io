@@ -13,7 +13,7 @@ This blog is about making me a better person.
 If you want to be a better person read along. 
 
 Or help out by commenting. Comments about things you think I'm wrong 
-about or areas to look into deeper are expecially welcome.
+about or areas to look into deeper are especially welcome.
 
 The best comments are about ways you've tackled something similar 
 successfully in your own life.
@@ -36,7 +36,7 @@ In no particular order:
 
 * Male
 
-* Hetroxesual & Cis
+* Heterosexual & Cis
 
 * Anglo Saxon
 
@@ -46,9 +46,9 @@ In no particular order:
 
 * Married
 
-* College Education & Employeed
+* College Education & Employed
 
-Gareth gets to tick all of the good privledge boxes. The closest to a 
+Gareth gets to tick all of the good privilege boxes. The closest to a 
 minority I get is \gamer\ and even that is entering the mainstream of 
-privledge now
+privilege now
 
