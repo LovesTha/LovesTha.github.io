@@ -7,7 +7,7 @@ slug: belief-in-god-is-nature-not-nurture
 title: Belief in God is Nature, not Nurture
 wordpress_id: 376
 tags:
-- Theology
+- church
 tags:
 - Belief
 - God

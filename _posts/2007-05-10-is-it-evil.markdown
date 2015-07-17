@@ -8,7 +8,7 @@ title: Is it evil?
 wordpress_id: 260
 tags:
 - Philosophy &amp; Politics
-- Theology
+- church
 ---
 
 Sorry if this is incomprehensible, but I need to write it.

@@ -9,7 +9,7 @@ wordpress_id: 315
 tags:
 - First Tuesday Cards
 - Northern
-- Theology
+- church
 ---
 
 We had the first card night this week and it was a good night. Numbers were fine, but it feels like our advertising was a miss. The only people from outside Northern who turned up were a couple with a young boy who were interested in checking out who we were as a church.

@@ -9,7 +9,7 @@ wordpress_id: 310
 tags:
 - Geeky
 - Philosophy &amp; Politics
-- Theology
+- church
 tags:
 - errored
 - Mailing list

@@ -9,7 +9,7 @@ wordpress_id: 370
 tags:
 - Other
 - Rant
-- Theology
+- church
 tags:
 - Cardinal George Pell
 - Catholic

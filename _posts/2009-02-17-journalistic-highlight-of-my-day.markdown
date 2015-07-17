@@ -9,7 +9,7 @@ wordpress_id: 420
 tags:
 - magic
 - Rant
-- Theology
+- church
 tags:
 - Demonic
 - Journalism
