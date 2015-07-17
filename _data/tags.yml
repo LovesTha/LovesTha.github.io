@@ -1,6 +1,9 @@
 grammar:
   name: Grammar
 
+set-pcs:
+  name: Planar Chaos
+
 sport:
   name: Sports
 

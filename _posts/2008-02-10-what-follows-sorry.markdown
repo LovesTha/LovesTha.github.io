@@ -6,8 +6,8 @@ layout: post
 slug: what-follows-sorry
 title: What follows 'Sorry'?
 wordpress_id: 348
-categories:
-- Politics
+tags:
+- news
 - Rant
 tags:
 - Aboriginal

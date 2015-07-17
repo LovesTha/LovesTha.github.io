@@ -6,11 +6,11 @@ layout: post
 slug: end-of-an-era
 title: End of an Era
 wordpress_id: 271
-categories:
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Two Headed Giant
+tags:
+- magic
+- nm
+- limited
+- magic
 ---
 
 I'm sad to announce that Northern Magic will stop running its monthly Two Headed Giant events. This is due to two factors, both of them with equal weight:

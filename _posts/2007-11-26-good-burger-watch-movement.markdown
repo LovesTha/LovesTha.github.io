@@ -6,7 +6,7 @@ layout: post
 slug: good-burger-watch-movement
 title: Good Burger Watch Movement
 wordpress_id: 319
-categories:
+tags:
 - Burgers
 tags:
 - bacon

@@ -6,7 +6,7 @@ layout: post
 slug: push-bikes-are-safer
 title: Push Bikes Are Safer
 wordpress_id: 291
-categories:
+tags:
 - Current News
 ---
 

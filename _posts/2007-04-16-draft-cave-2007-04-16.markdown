@@ -6,9 +6,9 @@ layout: post
 slug: draft-cave-2007-04-16
 title: Draft @ Cave 2007 04 16
 wordpress_id: 245
-categories:
-- Limited
-- Magic The Gathering
+tags:
+- limited
+- magic
 ---
 
 People at the Cave have been whining that I don't blog about my drafts there frequently enough. So here is my summery of the draft last night:

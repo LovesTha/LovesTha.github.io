@@ -6,8 +6,8 @@ layout: post
 slug: kl-accommodation
 title: KL Accommodation
 wordpress_id: 329
-categories:
-- Magic The Gathering
+tags:
+- magic
 tags:
 - accommodation
 - PT KL

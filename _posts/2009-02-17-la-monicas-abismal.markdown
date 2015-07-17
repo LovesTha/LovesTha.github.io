@@ -6,7 +6,7 @@ layout: post
 slug: la-monicas-abismal
 title: La Monicas - Abismal
 wordpress_id: 423
-categories:
+tags:
 - Burgers
 tags:
 - bacon

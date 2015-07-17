@@ -6,8 +6,8 @@ layout: post
 slug: a-knight-with-shining-gps
 title: A Knight With Shining GPS
 wordpress_id: 228
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 I smell a rat.

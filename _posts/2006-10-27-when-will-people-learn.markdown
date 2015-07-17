@@ -7,7 +7,7 @@ slug: when-will-people-learn
 title: When Will People Learn
 wordpress_id: 155
 tags:
-- Other
+
 ---
 
 Putting your arms up isn't going to make it hurt less. On the other hand, running away may not work, but it is much more likely to work.

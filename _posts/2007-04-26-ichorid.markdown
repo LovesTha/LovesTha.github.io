@@ -6,9 +6,9 @@ layout: post
 slug: ichorid
 title: Ichorid
 wordpress_id: 254
-categories:
-- Deck Building
-- Magic The Gathering
+tags:
+- magic The Gathering
+- constructed
 ---
 
 I read Stephen Mandarin's (sorry cant spell or pronounce his surname) article on the vintage playable cards in Future Sight. He goes as far as to say "I predict that Future Sight will proportionately produce more playables in Vintage, Magic's oldest and most broken format, than Mirrodin." The concept is quiet distressing to some vintage players

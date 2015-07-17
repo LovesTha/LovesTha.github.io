@@ -6,7 +6,7 @@ layout: post
 slug: first-tuesday-cards
 title: First Tuesday Cards
 wordpress_id: 314
-categories:
+tags:
 - Tanget
 tags:
 - Cafe

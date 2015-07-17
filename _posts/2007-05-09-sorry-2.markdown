@@ -6,8 +6,8 @@ layout: post
 slug: sorry-2
 title: Sorry
 wordpress_id: 258
-categories:
-- Meta-Site Discussion
+tags:
+- meta
 ---
 
 Sorry for not posting much this past week, I've been busy with bits and pieces and suffering from a significant cold that has kept me home from work 3 days.

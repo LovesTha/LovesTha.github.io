@@ -6,11 +6,10 @@ layout: post
 slug: two-headed-giant-2
 title: Two Headed Giant
 wordpress_id: 264
-categories:
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Two Headed Giant
+tags:
+- magic
+- nm
+- limited
 ---
 
 Its coming again, this Saturday is the first Saturday of the month, so I guess its not that surprising. Usual details repeated for convienance.

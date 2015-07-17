@@ -6,18 +6,14 @@ layout: post
 slug: extended-practice-tournament
 title: Extended Practice Tournament
 wordpress_id: 206
-categories:
-- Constructed
-- Magic The Gathering
-- Tournament Report
+tags:
+- constructed
+- magic 
 ---
 
 I went along to Card Heaven last night expecting to draft but there was an extended tournament to start at 7.00, $10 entry. The only question was which deck to play, of all the extended decks with me, Affinity had the fewest proxies in the main deck, so I found 2 Arcbound Ravagers to borrow and attempted to create a sideboard.
 
 I believe it eventually looked like this:
-
-
-
 	
   * 4 Cabal Therapy
 

@@ -6,8 +6,8 @@ layout: post
 slug: epic-fail
 title: Epic Fail
 wordpress_id: 373
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 78%

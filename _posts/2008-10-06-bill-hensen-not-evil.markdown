@@ -6,7 +6,7 @@ layout: post
 slug: bill-hensen-not-evil
 title: 'Bill Hensen: Not Evil'
 wordpress_id: 393
-categories:
+tags:
 - Rant
 tags: [Art, Bill Henson, Coburg, Porn, rant]
 ---

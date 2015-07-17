@@ -6,8 +6,8 @@ layout: post
 slug: 64bit-ubuntu
 title: 64Bit Ubuntu
 wordpress_id: 192
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 I brought my self a laptop this week, a [Acer Aspire 5630](http://www.byo.acer.com.au/ecprod/AcerConfigurator/Configurator.html?viewmode=3&id=8082). Got it from Office Works for a nice price of $1899. I'm pretty happy with it, it has all the specs I want in a pc.

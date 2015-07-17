@@ -6,7 +6,7 @@ layout: post
 slug: ignss
 title: IGNSS
 wordpress_id: 321
-categories:
+tags:
 - Work
 tags:
 - Coogee

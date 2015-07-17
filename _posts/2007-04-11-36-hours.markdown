@@ -6,8 +6,8 @@ layout: post
 slug: 36-hours
 title: 36 Hours
 wordpress_id: 242
-categories:
-- Comic
+tags:
+- comic
 ---
 
 Just letting you all know that you have barely 36 hours to place your entries in the [Name A Comic Contest](http://rockpaperdynamite.wordpress.com/2007/03/30/naming-contest/). So you'd better all get your entries in ASAP.

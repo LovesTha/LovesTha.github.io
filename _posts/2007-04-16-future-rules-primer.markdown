@@ -6,11 +6,10 @@ layout: post
 slug: future-rules-primer
 title: Future Rules Primer
 wordpress_id: 246
-categories:
-- Comic
-- Limited
-- Magic The Gathering
-- Up Coming Releases
+tags:
+- comic
+- limited
+- magic
 ---
 
 For a look into the future of rules get primed by this [document](http://www.wizards.com/dci/downloads/MTGFUT%20primer%20032507.doc).
