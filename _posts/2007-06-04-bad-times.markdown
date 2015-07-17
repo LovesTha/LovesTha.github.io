@@ -6,9 +6,9 @@ layout: post
 slug: bad-times
 title: Bad Times
 wordpress_id: 269
-categories:
+tags:
 - Constructed
-- Magic The Gathering
+- magic
 - Northern Magic
 - Northern Magic Event
 - Other

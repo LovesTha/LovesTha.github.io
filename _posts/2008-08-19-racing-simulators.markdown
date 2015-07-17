@@ -6,7 +6,7 @@ layout: post
 slug: racing-simulators
 title: Racing 'Simulators'
 wordpress_id: 383
-categories:
+tags:
 - Computer Games
 - Geeky
 - Rant

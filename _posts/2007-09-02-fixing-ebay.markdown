@@ -6,7 +6,7 @@ layout: post
 slug: fixing-ebay
 title: Fixing eBay
 wordpress_id: 289
-categories:
+tags:
 - Geeky
 ---
 

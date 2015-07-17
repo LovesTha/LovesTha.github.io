@@ -6,7 +6,7 @@ layout: post
 slug: no-im-not-stupid
 title: No I'm Not Stupid
 wordpress_id: 331
-categories:
+tags:
 - Geeky
 - GPS
 tags:

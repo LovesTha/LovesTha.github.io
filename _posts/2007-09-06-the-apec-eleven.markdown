@@ -6,7 +6,7 @@ layout: post
 slug: the-apec-eleven
 title: The APEC Eleven
 wordpress_id: 298
-categories:
+tags:
 - Other
 - Philosophy &amp; Politics
 - Politics

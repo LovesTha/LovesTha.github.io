@@ -6,7 +6,7 @@ layout: post
 slug: robert-jordan-dies
 title: Robert Jordan Dies
 wordpress_id: 303
-categories:
+tags:
 - Current News
 ---
 

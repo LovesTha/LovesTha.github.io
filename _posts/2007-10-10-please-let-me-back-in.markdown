@@ -6,7 +6,7 @@ layout: post
 slug: please-let-me-back-in
 title: Please let me back in!
 wordpress_id: 310
-categories:
+tags:
 - Geeky
 - Philosophy &amp; Politics
 - Theology

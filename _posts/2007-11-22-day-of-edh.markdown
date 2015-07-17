@@ -6,9 +6,9 @@ layout: post
 slug: day-of-edh
 title: Day of EDH
 wordpress_id: 317
-categories:
+tags:
 - EDH
-- Magic The Gathering
+- magic
 - Northern Magic Event
 tags:
 - EDH

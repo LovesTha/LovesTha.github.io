@@ -6,7 +6,7 @@ layout: post
 slug: is-it-evil
 title: Is it evil?
 wordpress_id: 260
-categories:
+tags:
 - Philosophy &amp; Politics
 - Theology
 ---

@@ -6,7 +6,7 @@ layout: post
 slug: heath-ledger-dies
 title: Heath Ledger Dies
 wordpress_id: 334
-categories:
+tags:
 - Other
 - Rant
 tags:

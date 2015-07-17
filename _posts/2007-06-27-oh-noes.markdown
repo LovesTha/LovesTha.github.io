@@ -6,7 +6,7 @@ layout: post
 slug: oh-noes
 title: Oh Noes
 wordpress_id: 278
-categories:
+tags:
 - Philosophy &amp; Politics
 - Politics
 - Theology

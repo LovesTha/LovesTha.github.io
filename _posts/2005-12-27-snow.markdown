@@ -6,7 +6,7 @@ layout: post
 slug: snow
 title: Snow
 wordpress_id: 56
-categories:
+tags:
 - Geeky
 ---
 

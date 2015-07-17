@@ -6,7 +6,7 @@ layout: post
 slug: nice-guys-finish-last
 title: Nice Guys Finish Last
 wordpress_id: 38
-categories:
+tags:
 - limited
 - magic
 - prerelease

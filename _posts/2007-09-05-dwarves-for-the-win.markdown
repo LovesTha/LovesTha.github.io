@@ -6,7 +6,7 @@ layout: post
 slug: dwarves-for-the-win
 title: Dwarves for the Win
 wordpress_id: 296
-categories:
+tags:
 - Geeky
 ---
 

@@ -6,7 +6,7 @@ layout: post
 slug: ring-for-tickets-real-soon-now
 title: Ring For Tickets, Real Soon Now
 wordpress_id: 281
-categories:
+tags:
 - Music
 ---
 

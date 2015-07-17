@@ -6,7 +6,7 @@ layout: post
 slug: selling-my-car-300zx
 title: Selling My Car - 300zx
 wordpress_id: 398
-categories:
+tags:
 - Other
 tags:
 - '1990'

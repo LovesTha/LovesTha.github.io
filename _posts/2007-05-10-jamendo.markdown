@@ -6,7 +6,7 @@ layout: post
 slug: jamendo
 title: Jamendo
 wordpress_id: 259
-categories:
+tags:
 - Music
 ---
 

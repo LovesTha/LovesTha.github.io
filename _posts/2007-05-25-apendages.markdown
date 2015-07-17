@@ -6,7 +6,7 @@ layout: post
 slug: apendages
 title: Appendages
 wordpress_id: 263
-categories:
+tags:
 - Philosophy &amp; Politics
 - Politics
 ---

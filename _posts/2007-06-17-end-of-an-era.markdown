@@ -6,8 +6,8 @@ layout: post
 slug: end-of-an-era
 title: End of an Era
 wordpress_id: 271
-categories:
-- Magic The Gathering
+tags:
+- magic
 - Northern Magic
 - Northern Magic Event
 - Two Headed Giant

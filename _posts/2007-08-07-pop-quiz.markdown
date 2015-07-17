@@ -6,7 +6,7 @@ layout: post
 slug: pop-quiz
 title: Pop Quiz
 wordpress_id: 290
-categories:
+tags:
 - Geeky
 ---
 

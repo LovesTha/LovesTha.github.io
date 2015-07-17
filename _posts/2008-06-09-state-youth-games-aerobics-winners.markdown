@@ -6,7 +6,7 @@ layout: post
 slug: state-youth-games-aerobics-winners
 title: State Youth Games Aerobics Winners!
 wordpress_id: 367
-categories:
+tags:
 - Northern
 - Other
 tags:

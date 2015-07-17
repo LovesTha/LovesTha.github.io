@@ -6,7 +6,7 @@ layout: post
 slug: ebooks-au
 title: Ebooks.au
 wordpress_id: 475
-categories:
+tags:
 - Geeky
 ---
 

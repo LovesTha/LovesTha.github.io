@@ -6,7 +6,7 @@ layout: post
 slug: limericks-r-us
 title: Limericks-R-Us
 wordpress_id: 351
-categories:
+tags:
 - Geeky
 ---
 

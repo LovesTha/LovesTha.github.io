@@ -6,10 +6,10 @@ layout: post
 slug: a-bomb-highlander-revel-in-the-ark
 title: A-Bomb Highlander - Revel in the Ark
 wordpress_id: 358
-categories:
+tags:
 - Constructed
 - Deck Building
-- Magic The Gathering
+- magic
 tags:
 - A-Bomb
 - Flash

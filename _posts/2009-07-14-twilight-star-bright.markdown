@@ -6,7 +6,7 @@ layout: post
 slug: twilight-star-bright
 title: Twilight, Star Bright
 wordpress_id: 488
-categories:
+tags:
 - Books
 - Rant
 ---

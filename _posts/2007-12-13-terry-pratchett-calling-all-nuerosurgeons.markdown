@@ -6,7 +6,7 @@ layout: post
 slug: terry-pratchett-calling-all-nuerosurgeons
 title: 'Terry Pratchett: Calling All Nuerosurgeons'
 wordpress_id: 325
-categories:
+tags:
 - Geeky
 tags:
 - Alzheimer's

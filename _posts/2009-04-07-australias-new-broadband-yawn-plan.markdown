@@ -6,7 +6,7 @@ layout: post
 slug: australias-new-broadband-yawn-plan
 title: Australia's New Broadband, Yawn, Plan
 wordpress_id: 455
-categories:
+tags:
 - Geeky
 tags:
 - Broadband

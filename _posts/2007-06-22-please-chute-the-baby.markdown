@@ -6,7 +6,7 @@ layout: post
 slug: please-chute-the-baby
 title: Please Chute the Baby
 wordpress_id: 272
-categories:
+tags:
 - Philosophy &amp; Politics
 ---
 

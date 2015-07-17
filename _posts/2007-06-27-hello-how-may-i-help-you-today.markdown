@@ -6,7 +6,7 @@ layout: post
 slug: hello-how-may-i-help-you-today
 title: Hello, How May I Help You Today
 wordpress_id: 277
-categories:
+tags:
 - Other
 ---
 

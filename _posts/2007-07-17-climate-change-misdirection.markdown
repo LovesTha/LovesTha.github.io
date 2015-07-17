@@ -6,7 +6,7 @@ layout: post
 slug: climate-change-misdirection
 title: Climate Change Misdirection
 wordpress_id: 283
-categories:
+tags:
 - Philosophy &amp; Politics
 - Politics
 ---

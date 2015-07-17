@@ -6,11 +6,11 @@ layout: post
 slug: edh-general-options-flippers
 title: 'EDH: General Options - Flippers'
 wordpress_id: 300
-categories:
+tags:
 - Constructed
 - Deck Building
 - EDH
-- Magic The Gathering
+- magic
 ---
 
 A quick search for Legendary Creatures with 'flip' in their text (I like to use datatog on IRC for my searches) reveals 20 options for building decks around. Although many of them require your play group to allow for generals that are only legendary after some condition is met, I don't think I'll have too much issue there.

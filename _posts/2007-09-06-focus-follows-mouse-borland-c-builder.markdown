@@ -6,7 +6,7 @@ layout: post
 slug: focus-follows-mouse-borland-c-builder
 title: Focus Follows Mouse & Borland C++ Builder
 wordpress_id: 297
-categories:
+tags:
 - Geeky
 ---
 

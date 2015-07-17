@@ -6,8 +6,8 @@ layout: post
 slug: gammer-glossary-infy
 title: 'Gamer Glossary: Infy'
 wordpress_id: 250
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 Origin: When a combo goes infinite it wins the game

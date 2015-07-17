@@ -6,7 +6,7 @@ layout: post
 slug: photo-hosting
 title: Photo hosting
 wordpress_id: 356
-categories:
+tags:
 - Geeky
 ---
 

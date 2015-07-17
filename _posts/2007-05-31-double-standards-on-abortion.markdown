@@ -6,7 +6,7 @@ layout: post
 slug: double-standards-on-abortion
 title: Double Standards on Abortion
 wordpress_id: 267
-categories:
+tags:
 - Philosophy &amp; Politics
 ---
 

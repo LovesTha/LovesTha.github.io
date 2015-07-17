@@ -6,7 +6,7 @@ layout: post
 slug: facebook-party
 title: Facebook Party
 wordpress_id: 415
-categories:
+tags:
 - Other
 ---
 

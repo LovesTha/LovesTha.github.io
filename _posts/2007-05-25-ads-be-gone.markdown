@@ -6,7 +6,7 @@ layout: post
 slug: ads-be-gone
 title: Ads Be Gone
 wordpress_id: 261
-categories:
+tags:
 - Geeky
 - Theology
 ---

@@ -7,10 +7,10 @@ published: false
 slug: kl-india-2-sights-of-kl
 title: 'KL + India #2 - Sights of KL'
 wordpress_id: 360
-categories:
+tags:
 - India
 - Judging
-- Magic The Gathering
+- magic
 tags:
 - India
 - Judging

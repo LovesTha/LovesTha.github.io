@@ -6,8 +6,8 @@ layout: post
 slug: hawt-tech
 title: Hawt Tech
 wordpress_id: 371
-categories:
-- Magic The Gathering
+tags:
+- magic
 tags:
 - Arcane Denial
 - Demigod of Revenge

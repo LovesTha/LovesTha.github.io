@@ -6,11 +6,11 @@ layout: post
 slug: edh-general-options-blue-green
 title: 'EDH: General Options - Blue / Green'
 wordpress_id: 302
-categories:
+tags:
 - Constructed
 - Deck Building
 - EDH
-- Magic The Gathering
+- magic
 ---
 
 Ok, this list of enemy generals isn't going to be very complex, as there aren't all that many :(

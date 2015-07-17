@@ -6,7 +6,7 @@ layout: post
 slug: power-saving
 title: Power Saving
 wordpress_id: 282
-categories:
+tags:
 - Geeky
 ---
 

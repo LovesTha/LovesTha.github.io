@@ -6,7 +6,7 @@ layout: post
 slug: ninjais
 title: Ninjai's?
 wordpress_id: 293
-categories:
+tags:
 - Geeky
 ---
 

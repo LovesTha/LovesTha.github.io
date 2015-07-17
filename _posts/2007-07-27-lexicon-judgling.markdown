@@ -6,9 +6,9 @@ layout: post
 slug: lexicon-judgling
 title: Lexicon - Judgling
 wordpress_id: 286
-categories:
+tags:
 - Judging
-- Magic The Gathering
+- magic
 ---
 
 A term used to talk about a judge who hasn't passed their level 1 test yet. The person has probably judge 1 or 2 events and is going to take their level 1 test in the near future.

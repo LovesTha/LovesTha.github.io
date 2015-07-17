@@ -6,7 +6,7 @@ layout: post
 slug: we-three-kings
 title: We Three Kings
 wordpress_id: 350
-categories:
+tags:
 - Comic
 ---
 

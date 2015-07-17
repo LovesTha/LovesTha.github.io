@@ -6,7 +6,7 @@ layout: post
 slug: interesting-stats
 title: Interesting Stats
 wordpress_id: 453
-categories:
+tags:
 - Theology
 ---
 

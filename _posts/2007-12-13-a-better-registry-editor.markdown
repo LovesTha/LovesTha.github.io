@@ -6,7 +6,7 @@ layout: post
 slug: a-better-registry-editor
 title: A Better Registry Editor
 wordpress_id: 324
-categories:
+tags:
 - Geeky
 tags:
 - coding

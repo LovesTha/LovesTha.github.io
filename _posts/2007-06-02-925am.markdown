@@ -6,7 +6,7 @@ layout: post
 slug: 925am
 title: 9.25am
 wordpress_id: 268
-categories:
+tags:
 - Northern Magic
 - Northern Magic Event
 ---

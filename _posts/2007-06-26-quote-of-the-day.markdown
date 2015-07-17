@@ -6,7 +6,7 @@ layout: post
 slug: quote-of-the-day
 title: Quote of the Day
 wordpress_id: 274
-categories:
+tags:
 - Politics
 ---
 

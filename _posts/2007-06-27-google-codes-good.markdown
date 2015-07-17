@@ -6,7 +6,7 @@ layout: post
 slug: google-codes-good
 title: Google Codes Good
 wordpress_id: 276
-categories:
+tags:
 - Geeky
 ---
 

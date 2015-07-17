@@ -6,10 +6,10 @@ layout: post
 slug: lovestha-drafting-mana-bases
 title: 'LovesTha Drafting: Mana Bases'
 wordpress_id: 368
-categories:
+tags:
 - Deck Building
 - Limited
-- Magic The Gathering
+- magic
 ---
 
 I had an interesting deck last night, it had to radically different mana bases I couldn't choose between. The cards in the deck can be summarised as:

@@ -6,7 +6,7 @@ layout: post
 slug: first-first-tuesday-cards-report
 title: First First Tuesday Cards Report
 wordpress_id: 315
-categories:
+tags:
 - First Tuesday Cards
 - Northern
 - Theology
