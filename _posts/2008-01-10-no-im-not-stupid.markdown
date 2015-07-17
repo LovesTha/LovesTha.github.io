@@ -7,7 +7,7 @@ slug: no-im-not-stupid
 title: No I'm Not Stupid
 wordpress_id: 331
 tags:
-- Geeky
+- technology
 - GPS
 tags:
 - Antenna

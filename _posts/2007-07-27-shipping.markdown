@@ -7,7 +7,7 @@ slug: shipping
 title: Shipping
 wordpress_id: 284
 tags:
-- Geeky
+- technology
 tags:
 - Rant
 ---

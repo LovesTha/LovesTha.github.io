@@ -7,7 +7,7 @@ slug: ebay-paypal-and-currency-conversion
 title: eBay / PayPal and Currency Conversion
 wordpress_id: 365
 tags:
-- Geeky
+- technology
 - Rant
 tags:
 - ebay

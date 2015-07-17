@@ -7,7 +7,7 @@ slug: firefox-3-beta-4
 title: Firefox 3 Beta 4
 wordpress_id: 354
 tags:
-- Geeky
+- technology
 tags:
 - beta
 - bugs

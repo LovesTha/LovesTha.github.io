@@ -7,7 +7,7 @@ slug: funny-video-shows
 title: Funny Video Shows
 wordpress_id: 333
 tags:
-- Geeky
+- technology
 - Rant
 tags:
 - Copyright

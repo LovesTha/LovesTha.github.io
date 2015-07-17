@@ -7,7 +7,7 @@ slug: power-saving
 title: Power Saving
 wordpress_id: 282
 tags:
-- Geeky
+- technology
 ---
 
 I've just stumbled upon a little tool that Intel has released, PowerTOP. Named as such as its sort of 'top' for power consumption. It tells you which applications are causing the CPU to consume the most power, when a PC is idle this is caused by applications that frequently wake the processor out of its sleep state to do something.

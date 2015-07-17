@@ -7,7 +7,7 @@ slug: ebooks-au
 title: Ebooks.au
 wordpress_id: 475
 tags:
-- Geeky
+- technology
 ---
 
 Apparently the ebook market in Australia is still pretty terrible. I'm looking at the iPhone question (I think its a yes) and being able to read ebooks on what ever I do buy seems like a plus.

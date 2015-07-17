@@ -7,7 +7,7 @@ slug: architecture-in-helsinki-bridezilla-violins
 title: Architecture in Helsinki + Bridezilla + Violins
 wordpress_id: 320
 tags:
-- Music
+- music
 tags:
 - Architecture in Helsinki
 - Bridezilla

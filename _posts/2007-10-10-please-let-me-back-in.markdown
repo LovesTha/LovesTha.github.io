@@ -7,7 +7,7 @@ slug: please-let-me-back-in
 title: Please let me back in!
 wordpress_id: 310
 tags:
-- Geeky
+- technology
 - news
 - church
 tags:

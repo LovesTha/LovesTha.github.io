@@ -7,7 +7,7 @@ slug: terry-pratchett-calling-all-nuerosurgeons
 title: 'Terry Pratchett: Calling All Nuerosurgeons'
 wordpress_id: 325
 tags:
-- Geeky
+- technology
 tags:
 - Alzheimer's
 - brain chemistry

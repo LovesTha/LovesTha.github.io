@@ -8,7 +8,7 @@ title: Racing 'Simulators'
 wordpress_id: 383
 tags:
 - Computer Games
-- Geeky
+- technology
 - Rant
 tags:
 - analogue

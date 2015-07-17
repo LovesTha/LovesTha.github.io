@@ -7,7 +7,7 @@ slug: google-codes-good
 title: Google Codes Good
 wordpress_id: 276
 tags:
-- Geeky
+- technology
 ---
 
 [![Google](http://rockpaperdynamite.files.wordpress.com/2007/06/google.thumbnail.png)](http://rockpaperdynamite.files.wordpress.com/2007/06/google.png)

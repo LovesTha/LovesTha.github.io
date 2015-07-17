@@ -7,7 +7,7 @@ slug: a-better-registry-editor
 title: A Better Registry Editor
 wordpress_id: 324
 tags:
-- Geeky
+- technology
 tags:
 - coding
 - reg ex

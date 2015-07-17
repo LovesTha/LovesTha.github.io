@@ -7,7 +7,7 @@ slug: focus-follows-mouse-borland-c-builder
 title: Focus Follows Mouse & Borland C++ Builder
 wordpress_id: 297
 tags:
-- Geeky
+- technology
 ---
 
 I just changed from a pair of 19" CRT monitors at work to a single20" wide-screen LCD. I am loving the added desktop space, but the drop in screen space is annoying. I was using 1 19" CRT and the LCD for a short while, but the terribly mismatched pixel sizes and colours pissed me off much to quickly.

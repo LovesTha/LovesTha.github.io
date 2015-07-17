@@ -7,7 +7,7 @@ slug: photo-hosting
 title: Photo hosting
 wordpress_id: 356
 tags:
-- Geeky
+- technology
 ---
 
 I'm about to start putting pictures into my posts about my holiday. Should I just be using Wordpress hosting for them or should I use a third party?

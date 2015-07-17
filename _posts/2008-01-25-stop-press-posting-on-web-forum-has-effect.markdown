@@ -8,7 +8,7 @@ title: 'STOP-PRESS: Posting On Web Forum Has Effect'
 wordpress_id: 335
 tags:
 - Comic
-- Geeky
+- technology
 - Rant
 tags:
 - forum

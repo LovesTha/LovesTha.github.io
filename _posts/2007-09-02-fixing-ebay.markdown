@@ -7,7 +7,7 @@ slug: fixing-ebay
 title: Fixing eBay
 wordpress_id: 289
 tags:
-- Geeky
+- technology
 ---
 
 eBay is broken, sellers are not getting the best value they could for their item. I don't feel I need to qualify that statement as the efficiency of snipping application is clear proof that a large portion of people bidding on eBay don't get the concept of the auction style it uses.

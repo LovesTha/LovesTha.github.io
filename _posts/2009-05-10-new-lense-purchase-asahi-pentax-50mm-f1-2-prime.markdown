@@ -7,7 +7,7 @@ slug: new-lense-purchase-asahi-pentax-50mm-f1-2-prime
 title: New Lense Purchase - Asahi / Pentax 50mm F1.2 Prime
 wordpress_id: 458
 tags:
-- Geeky
+- technology
 tags:
 - ebay
 - F1.2

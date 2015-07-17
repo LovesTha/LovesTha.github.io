@@ -7,7 +7,7 @@ slug: ads-be-gone
 title: Ads Be Gone
 wordpress_id: 261
 tags:
-- Geeky
+- technology
 - church
 ---
 
