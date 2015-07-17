@@ -7,7 +7,7 @@ slug: lovestha-drafting-mana-bases
 title: 'LovesTha Drafting: Mana Bases'
 wordpress_id: 368
 tags:
-- Deck Building
+- magic
 - Limited
 - magic
 ---

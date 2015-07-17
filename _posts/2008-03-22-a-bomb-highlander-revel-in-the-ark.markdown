@@ -8,7 +8,7 @@ title: A-Bomb Highlander - Revel in the Ark
 wordpress_id: 358
 tags:
 - constructed
-- Deck Building
+- magic
 - magic
 tags:
 - A-Bomb

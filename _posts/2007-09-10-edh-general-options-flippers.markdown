@@ -8,7 +8,7 @@ title: 'EDH: General Options - Flippers'
 wordpress_id: 300
 tags:
 - constructed
-- Deck Building
+- magic
 - EDH
 - magic
 ---

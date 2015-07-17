@@ -8,7 +8,7 @@ title: 'EDH Lifegain: A Reaction.'
 wordpress_id: 369
 tags:
 - constructed
-- Deck Building
+- magic
 - EDH
 - magic
 ---

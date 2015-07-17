@@ -7,7 +7,7 @@ slug: situationaly-better-counterspell
 title: Situationaly Better Counterspell?!
 wordpress_id: 295
 tags:
-- Deck Building
+- magic
 - magic
 - Up Coming Releases
 ---

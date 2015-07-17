@@ -8,7 +8,7 @@ title: 'EDH: A Review of My Decks'
 wordpress_id: 299
 tags:
 - constructed
-- Deck Building
+- magic
 - EDH
 - magic
 tags:
