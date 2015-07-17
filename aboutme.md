@@ -49,6 +49,6 @@ In no particular order:
 * College Education & Employed
 
 Gareth gets to tick all of the good privilege boxes. The closest to a 
-minority I get is \gamer\ and even that is entering the mainstream of 
+minority I get is _gamer_ and even that is entering the mainstream of 
 privilege now
 
