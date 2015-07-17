@@ -7,7 +7,7 @@ slug: edh-lifegain-a-reaction
 title: 'EDH Lifegain: A Reaction.'
 wordpress_id: 369
 tags:
-- Constructed
+- constructed
 - Deck Building
 - EDH
 - magic

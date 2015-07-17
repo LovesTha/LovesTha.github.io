@@ -7,7 +7,7 @@ slug: special-event-tribal
 title: Special Event - Tribal
 wordpress_id: 270
 tags:
-- Constructed
+- constructed
 - Deck Building
 - magic
 ---

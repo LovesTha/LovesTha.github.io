@@ -7,7 +7,7 @@ slug: a-bomb-highlander-revel-in-the-ark
 title: A-Bomb Highlander - Revel in the Ark
 wordpress_id: 358
 tags:
-- Constructed
+- constructed
 - Deck Building
 - magic
 tags:

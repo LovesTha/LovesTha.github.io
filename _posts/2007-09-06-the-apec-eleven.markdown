@@ -7,7 +7,7 @@ slug: the-apec-eleven
 title: The APEC Eleven
 wordpress_id: 298
 tags:
-- Other
+
 - news
 - news
 ---

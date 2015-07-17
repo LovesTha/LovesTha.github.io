@@ -7,7 +7,7 @@ slug: update
 title: Update
 wordpress_id: 359
 tags:
-- Constructed
+- constructed
 - Deck Building
 - magic
 ---

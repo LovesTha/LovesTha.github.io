@@ -7,7 +7,7 @@ slug: edh-general-options-black-white
 title: 'EDH: General Options - Black / White'
 wordpress_id: 301
 tags:
-- Constructed
+- constructed
 - Deck Building
 - EDH
 - magic

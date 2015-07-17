@@ -7,7 +7,7 @@ slug: facebook-party
 title: Facebook Party
 wordpress_id: 415
 tags:
-- Other
+
 ---
 
 So I invited everyone to my place to celebrate my 26th birthday. 'Everyone' in this case means all the people on facebook that I wouldn't feel weird about having turn up to my place, 84 people. 15 people RSVPed using the facebook application, but 6 of those people didn't turn up in the long run.

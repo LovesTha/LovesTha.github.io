@@ -7,7 +7,7 @@ slug: heath-ledger-dies
 title: Heath Ledger Dies
 wordpress_id: 334
 tags:
-- Other
+
 - Rant
 tags:
 - Celebrity

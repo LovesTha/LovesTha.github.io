@@ -7,7 +7,7 @@ slug: edh-general-options-flippers
 title: 'EDH: General Options - Flippers'
 wordpress_id: 300
 tags:
-- Constructed
+- constructed
 - Deck Building
 - EDH
 - magic

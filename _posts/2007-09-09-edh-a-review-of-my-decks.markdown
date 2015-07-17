@@ -7,7 +7,7 @@ slug: edh-a-review-of-my-decks
 title: 'EDH: A Review of My Decks'
 wordpress_id: 299
 tags:
-- Constructed
+- constructed
 - Deck Building
 - EDH
 - magic

@@ -7,7 +7,7 @@ slug: edh-general-options-blue-green
 title: 'EDH: General Options - Blue / Green'
 wordpress_id: 302
 tags:
-- Constructed
+- constructed
 - Deck Building
 - EDH
 - magic

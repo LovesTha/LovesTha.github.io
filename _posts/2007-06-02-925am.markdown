@@ -7,6 +7,7 @@ slug: 925am
 title: 9.25am
 wordpress_id: 268
 tags:
+- magic
 - nm
 - limited
 ---

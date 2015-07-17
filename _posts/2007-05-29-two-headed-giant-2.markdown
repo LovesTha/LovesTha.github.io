@@ -10,7 +10,6 @@ tags:
 - magic
 - nm
 - limited
-- Two Headed Giant
 ---
 
 Its coming again, this Saturday is the first Saturday of the month, so I guess its not that surprising. Usual details repeated for convienance.

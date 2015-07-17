@@ -7,7 +7,7 @@ slug: ptq-berlin-warm-up-meta-games-pimpin-block
 title: PTQ Berlin Warm Up - Meta Games Pimpin' Block
 wordpress_id: 381
 tags:
-- Constructed
+- constructed
 - magic
 tags:
 - Doran
