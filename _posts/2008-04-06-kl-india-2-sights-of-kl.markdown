@@ -9,11 +9,11 @@ title: 'KL + India #2 - Sights of KL'
 wordpress_id: 360
 tags:
 - India
-- Judging
+- judging
 - magic
 tags:
 - India
-- Judging
+- judging
 - KL
 ---
 

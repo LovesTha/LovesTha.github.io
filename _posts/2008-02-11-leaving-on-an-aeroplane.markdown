@@ -7,7 +7,7 @@ slug: leaving-on-an-aeroplane
 title: Leaving on an Aeroplane
 wordpress_id: 349
 tags:
-- Judging
+- judging
 - magic
 ---
 

@@ -10,7 +10,7 @@ tags:
 - magic
 - nm
 - limited
-- Two Headed Giant
+- magic
 ---
 
 I'm sad to announce that Northern Magic will stop running its monthly Two Headed Giant events. This is due to two factors, both of them with equal weight:

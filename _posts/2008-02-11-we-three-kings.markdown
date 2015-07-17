@@ -7,7 +7,7 @@ slug: we-three-kings
 title: We Three Kings
 wordpress_id: 350
 tags:
-- Comic
+- comic
 ---
 
 I love when C&H touches on religion, its so funny.

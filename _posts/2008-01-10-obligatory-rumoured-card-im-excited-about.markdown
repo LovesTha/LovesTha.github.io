@@ -8,7 +8,7 @@ title: Obligatory Rumoured Card I'm Excited about
 wordpress_id: 332
 tags:
 - EDH
-- Judging
+- judging
 - magic
 ---
 

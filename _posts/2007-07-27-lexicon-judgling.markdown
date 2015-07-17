@@ -7,7 +7,7 @@ slug: lexicon-judgling
 title: Lexicon - Judgling
 wordpress_id: 286
 tags:
-- Judging
+- judging
 - magic
 ---
 

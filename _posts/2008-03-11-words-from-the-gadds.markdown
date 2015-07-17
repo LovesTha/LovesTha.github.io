@@ -7,7 +7,7 @@ slug: words-from-the-gadds
 title: Words from the Gadds
 wordpress_id: 353
 tags:
-- Judging
+- judging
 - Limited
 - magic
 ---

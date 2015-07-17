@@ -7,7 +7,7 @@ slug: nationalsau-07-judging
 title: Nationals.au '07 - Judging
 wordpress_id: 285
 tags:
-- Judging
+- judging
 - magic
 ---
 

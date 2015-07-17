@@ -8,12 +8,12 @@ title: Pro Tour Kuala Lumpur - Acceptance
 wordpress_id: 318
 tags:
 - India
-- Judging
+- judging
 - magic
 tags:
 - DCI
 - India
-- Judging
+- judging
 - KL
 - Kuala Lumpur
 - Pro Tour

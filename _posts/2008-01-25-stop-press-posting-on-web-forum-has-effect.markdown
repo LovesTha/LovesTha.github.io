@@ -7,7 +7,7 @@ slug: stop-press-posting-on-web-forum-has-effect
 title: 'STOP-PRESS: Posting On Web Forum Has Effect'
 wordpress_id: 335
 tags:
-- Comic
+- comic
 - technology
 - Rant
 tags:

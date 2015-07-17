@@ -8,11 +8,11 @@ title: 'KL + India #1 - Ariving in KL'
 wordpress_id: 355
 tags:
 - India
-- Judging
+- judging
 - magic
 tags:
 - India
-- Judging
+- judging
 - Kuala Lumpur
 - mtg
 ---
