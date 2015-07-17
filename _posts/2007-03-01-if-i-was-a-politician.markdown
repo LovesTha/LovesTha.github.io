@@ -6,10 +6,8 @@ layout: post
 slug: if-i-was-a-politician
 title: If I was a Politician
 wordpress_id: 220
-categories:
-- Current News
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
 ---
 
 Peter Garret challenged the current government MP's to announce which of them would be happy to have a nuclear power plant in their electorates, but the [government defeated his motion](http://www.abc.net.au/news/newsitems/200703/s1860172.htm).

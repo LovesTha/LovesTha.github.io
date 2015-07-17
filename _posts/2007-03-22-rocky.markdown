@@ -6,8 +6,6 @@ layout: post
 slug: rocky
 title: Rocky
 wordpress_id: 236
-categories:
-- Other
 ---
 
 Meh, I thought this was cool, enjoy.

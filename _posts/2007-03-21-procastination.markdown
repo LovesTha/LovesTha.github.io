@@ -6,8 +6,7 @@ layout: post
 slug: procastination
 title: Procastination
 wordpress_id: 234
-categories:
-- Other
+tags:
 ---
 
 Some of you may realize that I am a word class procrastinator. My current favorite method of wasting a few seconds every hour at work is 'playing' [_Defend Your Castle_](http://xgenstudios.com/play/castle). Its a marginally fun game with endless game play.

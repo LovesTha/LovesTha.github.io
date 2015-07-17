@@ -6,9 +6,9 @@ layout: post
 slug: rebel-crossing
 title: Rebel Crossing
 wordpress_id: 223
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 Its been a while since I've built a deck in a post, but I'm starting to think about the next constructed PTQ (yes I know its a long way off but its good to start thinking early) which is block constructed (yes I know there is another set to be released before the PTQ but its good to know the formats evolution). The first deck I want to try and build is Rebels:

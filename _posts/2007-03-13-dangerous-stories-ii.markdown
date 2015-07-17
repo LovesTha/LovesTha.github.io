@@ -6,9 +6,9 @@ layout: post
 slug: dangerous-stories-ii
 title: Dangerous Stories II
 wordpress_id: 224
-categories:
-- Philosophy &amp; Politics
-- Theology
+tags:
+- news
+- church
 ---
 
 Sorry for not posting for the past few days, but I was at a conference all weekend. It was the biennial National Forge Summit. There was something in the order of 600 people there at all times during the weekend. Much was learned by many.

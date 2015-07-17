@@ -6,7 +6,7 @@ layout: post
 slug: celebratory-dance
 title: Celebratory Dance
 wordpress_id: 200
-categories:
+tags:
 - meta
 ---
 

@@ -6,8 +6,8 @@ layout: post
 slug: vote-away
 title: Vote Away
 wordpress_id: 244
-categories:
-- Comic
+tags:
+- comic
 ---
 
 Here are our top choices, please follow this [link to vote](http://www.polldaddy.com/p.asp?p=29746).

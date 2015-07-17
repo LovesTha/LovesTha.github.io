@@ -6,13 +6,11 @@ layout: post
 slug: this-saturday
 title: This Saturday
 wordpress_id: 212
-categories:
-- Constructed
-- Limited
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Two Headed Giant
+tags:
+- constructed
+- limited
+- magic
+- nm
 ---
 
 I got back from spending a few days in Darwin for work on Saturday night, I will assure everyone though that there is very little chance of me moving to Darwin. It is much to humid for me.

@@ -6,8 +6,8 @@ layout: post
 slug: winnah
 title: Winnah
 wordpress_id: 253
-categories:
-- Comic
+tags:
+- comic
 ---
 
 Without further ado, the winner of the 'Name-A-Comic' competition, after a well fought contest, was, with a well deserving submission, one, unknown to both Alex and I, named: Bill Curtis, with "Wrath of Odd".

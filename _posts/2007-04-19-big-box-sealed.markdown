@@ -6,9 +6,9 @@ layout: post
 slug: big-box-sealed
 title: Big Box Sealed
 wordpress_id: 249
-categories:
-- Limited
-- Magic The Gathering
+tags:
+- limited
+- magic
 ---
 
 Just heard about this format that has grabbed my attention: Big Box Sealed. Everyone receives a display box of boosters. Opens all 36 boosters, and builds a 40 card deck.

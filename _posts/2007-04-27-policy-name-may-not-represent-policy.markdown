@@ -6,9 +6,8 @@ layout: post
 slug: policy-name-may-not-represent-policy
 title: Policy Name May Not Represent Policy
 wordpress_id: 255
-categories:
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
 ---
 
 I was listening to Triple J's Hack program this week and hear someone, I think it was Ronin Sharkie, interviewing the Federal Minister for Aging, Christopher Pyne, who is the spokesperson for the Governments policy on drugs. The interview was in response to the announcement by the government that its Tough on Drugs campaign has had a positive effect on the drug problem in Australia.
