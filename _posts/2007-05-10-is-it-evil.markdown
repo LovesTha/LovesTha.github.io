@@ -7,7 +7,7 @@ slug: is-it-evil
 title: Is it evil?
 wordpress_id: 260
 tags:
-- Philosophy &amp; Politics
+- news
 - church
 ---
 

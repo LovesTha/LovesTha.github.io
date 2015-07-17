@@ -7,8 +7,8 @@ slug: oh-noes
 title: Oh Noes
 wordpress_id: 278
 tags:
-- Philosophy &amp; Politics
-- Politics
+- news
+- news
 - church
 ---
 

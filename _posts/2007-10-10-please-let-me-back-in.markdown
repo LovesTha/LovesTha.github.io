@@ -8,7 +8,7 @@ title: Please let me back in!
 wordpress_id: 310
 tags:
 - Geeky
-- Philosophy &amp; Politics
+- news
 - church
 tags:
 - errored
