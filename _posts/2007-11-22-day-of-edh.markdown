@@ -9,7 +9,7 @@ wordpress_id: 317
 tags:
 - EDH
 - magic
-- Northern Magic Event
+- limited
 tags:
 - EDH
 - elder dragon highlander

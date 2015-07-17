@@ -8,8 +8,8 @@ title: Two Headed Giant
 wordpress_id: 264
 tags:
 - magic
-- Northern Magic
-- Northern Magic Event
+- nm
+- limited
 - Two Headed Giant
 ---
 

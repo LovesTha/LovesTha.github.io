@@ -7,8 +7,8 @@ slug: 925am
 title: 9.25am
 wordpress_id: 268
 tags:
-- Northern Magic
-- Northern Magic Event
+- nm
+- limited
 ---
 
 Its 9.25 am as I start writing this post. If your wondering what I'm doing up at 9.26 am on a cold Saturday morning, its because I'm meant to be running a 2HG sealed event. It has a schuled start time of 9.30 am.

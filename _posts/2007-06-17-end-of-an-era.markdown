@@ -8,8 +8,8 @@ title: End of an Era
 wordpress_id: 271
 tags:
 - magic
-- Northern Magic
-- Northern Magic Event
+- nm
+- limited
 - Two Headed Giant
 ---
 
