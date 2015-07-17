@@ -50,5 +50,5 @@ In no particular order:
 
 Gareth gets to tick all of the good privilege boxes. The closest to a 
 minority I get is _gamer_ and even that is entering the mainstream of 
-privilege now
+privilege now.
 
