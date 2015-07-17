@@ -1,0 +1,53 @@
+---
+author: Gareth Pye
+comments: true
+date: 2015-07-17 16:02:00+00:00 +1000
+layout: post
+slug: league
+title: Origins & Commander Leagues at Next Level Games Ringwood
+tags:
+- magic
+- limited
+- edh
+---
+
+In my 13 years of constantly playing Magic I have never played in a League. 
+I've played in nearly every other tournament, the two biggest I can't recall 
+doing is a Rochester Draft and I haven't played on the Pro Tour. On Sunday my
+local store, [Next Level Games Ringwood][1] is starting up a [three week sealed
+league][2]. 
+
+I'm not a master of sealed but I'm wanting to play a bit more and visit the 
+store more regularly so a league is perfect. It will really help me try and
+enter the local community better, I haven't done much socialising with this
+group of players yet.
+
+
+In fact it's so perfect that I'm going to going another league in 2 weeks time: 
+[NLGR's Commander League][3]. That one will be lots of fun as well, I've got 
+quite a few decks lying around that I've played less than 2 games with each.
+
+One I did really enjoy playing the 2 times I've brought it out is my [Titania,
+Protector of Argoth deck][4]. I've put many mono green Commander decks 
+together, but this is the first that has been really fun to play. That might be
+due to it being a list I ripped from some source that I forget online, but it
+is a pretty straight forward version of the deck. It has a pretty simple plan,
+based entirely around trying to use the generals abilities to their fullest:
+
+1) Get lots of lands into play.
+
+2) Get Titania into play.
+
+3) Have lots of lands die.
+
+4) If someone wraths, repeat.
+
+It isn't a particularly complex deck and mono green has plenty of redundancy on 
+all of the effects the deck wants to it is quiet reliable. Looking at that list 
+there are a couple of obvious cards to include from Origins, but I suspect that 
+will take a couple of weeks to happen for me.
+
+[1]: http://www.nextlevelgames.com.au/ringwood/
+[2]: https://www.facebook.com/events/948802841848222/
+[3]: https://www.facebook.com/events/1024681384211140/
+[4]: http://deckbox.org/sets/960900
