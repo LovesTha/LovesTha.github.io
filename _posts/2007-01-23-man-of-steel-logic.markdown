@@ -6,9 +6,8 @@ layout: post
 slug: man-of-steel-logic
 title: Man of Steel Logic
 wordpress_id: 203
-categories:
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
 ---
 
 Follow this little logic arc with me:

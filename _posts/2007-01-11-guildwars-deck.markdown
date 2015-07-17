@@ -6,10 +6,9 @@ layout: post
 slug: guildwars-deck
 title: Guildwars Deck
 wordpress_id: 199
-categories:
-- Constructed
-- Deck Building
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 Playing in some more odd formats on Saturday, Guildwars (just a single Ravnica Block guild, in block constructed format) and Ravnica Block Two Headed Giant. So naturally I'm going to put together a deck for both formats, building two different decks seams like too much trouble.

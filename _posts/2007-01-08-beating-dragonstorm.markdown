@@ -6,10 +6,9 @@ layout: post
 slug: beating-dragonstorm
 title: Beating Dragonstorm
 wordpress_id: 193
-categories:
-- Constructed
-- Deck Building
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 I've been playing a Goblins Storm deck in standard for a little while now, and I love it. The number of decks that just fold to Blood Moon is quite scary. The biggest problem is that Dragonstorm isn't disrupted by Blood Moon and is quick enough to kill before Goblins does (combo should beat agro), and I can't think of anything that is likely to help Mono Red beat Dragonstorm.

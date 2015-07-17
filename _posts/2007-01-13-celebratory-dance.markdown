@@ -7,8 +7,7 @@ slug: celebratory-dance
 title: Celebratory Dance
 wordpress_id: 200
 categories:
-- Geeky
-- Other
+- meta
 ---
 
 This little page just past 5000 views, go me :P
