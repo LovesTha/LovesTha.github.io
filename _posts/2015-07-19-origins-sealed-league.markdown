@@ -20,7 +20,7 @@ I opened had another Nissa's Revelation. For the full details of my packs and
 what I built open up [my deck on deckbox.org].
 
 I won the first two matches quite easily but in the third I faced a reasonably
-agressive RW deck that managed to steam rolled me. 
+aggressive RW deck that managed to steam rolled me. 
 
 Is there anything that people think I should have changed in the build?
 
