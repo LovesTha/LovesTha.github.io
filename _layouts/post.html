@@ -4,7 +4,7 @@ layout: default
 
 {% assign post = page %}
 {% if post.tags.size > 0 %}
-    {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+    {% capture tags_content %}Tagged as {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
     {% for post_tag in post.tags %}
         {% assign tag = site.data.tags[post_tag] %}
         {% if tag %}
@@ -18,9 +18,9 @@ layout: default
 
 <header class="header-post">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="col-lg-12">
       <div class="post-heading">
-        <h1>{{ page.title }}</h1>
+        <h1 class="post-heading">{{ page.title }}</h1>
         {% if page.subtitle %}
         <h2 class="post-subheading">{{ page.subtitle }}</h2>
         {% endif %}
@@ -32,10 +32,11 @@ layout: default
 
 <article>
   <div class="row">
-    <div class="col-lg-8 col-md-10 ">
-	  {{ content }}
+    <div class="col-lg-8 col-md-9 ">
+      {{ content }}
+      {{ tags_content }}
     </div>
-    <div class="col-lg-4 col-md-2 ">
+    <div class="col-lg-3 col-lg-offset-1 col-md-2 col-md-offset-1">
         {% include sidebar.html %}
     </div>
   </div>
@@ -54,7 +55,6 @@ layout: default
         <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
       </li>
       {% endif %}
-<p id="post-meta">{{ tags_content }}</p>
     </ul>
   </div>
 </div>
