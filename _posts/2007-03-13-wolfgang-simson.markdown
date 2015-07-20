@@ -6,9 +6,9 @@ layout: post
 slug: wolfgang-simson
 title: Wolfgang Simson
 wordpress_id: 225
-categories:
-- Philosophy &amp; Politics
-- Theology
+tags:
+- news
+- church
 ---
 
 Sunday morning at Dangerous Stories II Wolfgang Simson gave a great plenary (fully attended or constituted by all entitled to be present - many of us had no idea what this word meant). He spoke about many different things, but they were spoilt by one of his initial comments.

@@ -6,9 +6,9 @@ layout: post
 slug: moxlicious-mox-jet-tournament-report-7th
 title: Moxalicious - Mox Jet Tournament report - 7th!!!!!
 wordpress_id: 363
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 - Tournament Report
 tags:
 - highlander

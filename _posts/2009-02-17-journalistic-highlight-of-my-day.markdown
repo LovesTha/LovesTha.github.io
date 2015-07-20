@@ -6,14 +6,14 @@ layout: post
 slug: journalistic-highlight-of-my-day
 title: Journalistic Highlight of My Day
 wordpress_id: 420
-categories:
-- Magic The Gathering
+tags:
+- magic
 - Rant
-- Theology
+- church
 tags:
 - Demonic
 - Journalism
-- Magic The Gathering
+- magic
 - mtg
 - Poker
 - Richard Garfield

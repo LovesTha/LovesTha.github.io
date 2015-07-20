@@ -6,7 +6,7 @@ layout: post
 slug: iphone-first-impressions
 title: iPhone - First Impressions
 wordpress_id: 501
-categories:
+tags:
 - iPhone
 - Rant
 ---

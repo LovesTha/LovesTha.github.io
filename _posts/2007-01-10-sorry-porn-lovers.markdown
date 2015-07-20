@@ -6,9 +6,8 @@ layout: post
 slug: sorry-porn-lovers
 title: Sorry Porn Lovers
 wordpress_id: 194
-categories:
-- Geeky
-- Other
+tags:
+- technology
 ---
 
 I am sad to inform those who are visiting this site looking for Porn, that you wont find any here.

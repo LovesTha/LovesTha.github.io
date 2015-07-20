@@ -6,7 +6,7 @@ layout: post
 slug: archbisop-of-mozambique-mad-or-evil
 title: Archbisop of Mozambique Mad or Evil?
 wordpress_id: 307
-categories:
+tags:
 - Current News
 tags:
 - Africa

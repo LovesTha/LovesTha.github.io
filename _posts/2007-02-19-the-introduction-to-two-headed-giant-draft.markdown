@@ -6,10 +6,9 @@ layout: post
 slug: the-introduction-to-two-headed-giant-draft
 title: '''The'' Introduction to Two Headed Giant Draft'
 wordpress_id: 210
-categories:
-- Limited
-- Magic The Gathering
-- Two Headed Giant
+tags:
+- limited
+- magic
 ---
 
 I read a rather reasonable article on Star City Games yesterday evening, titled "Introduction to Two Headed Giant Draft."  For those that haven't played the format before, or who have played and sucked badly I recommend reading it. It is the top8 format for the upcoming 2HG PTQ.

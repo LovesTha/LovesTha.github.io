@@ -6,8 +6,8 @@ layout: post
 slug: uril-the-planestalker
 title: Uril, the Planestalker
 wordpress_id: 512
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 So I'm heading over to Austin in just over a month to judge at the Pro Tour. So its time to start preparing for the event. So its time to build a current EDH deck. Ok that's only part of the things I need to do.

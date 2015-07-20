@@ -6,10 +6,10 @@ layout: post
 slug: special-event-tribal
 title: Special Event - Tribal
 wordpress_id: 270
-categories:
-- Constructed
-- Deck Building
-- Magic The Gathering
+tags:
+- constructed
+- magic
+- magic
 ---
 
 I've heard a rumour that a tribal event is in the air for the troglodytes, so I need to come up with a deck for it as I got goblins banned with my dirty kitty deck last time. Elves are also banned as someone managed to win with them at the previous tribal event. So the most broken tribe left is humans (actually they are much more broken than elves).

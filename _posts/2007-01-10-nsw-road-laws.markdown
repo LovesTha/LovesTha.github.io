@@ -6,21 +6,15 @@ layout: post
 slug: nsw-road-laws
 title: NSW Road Laws
 wordpress_id: 196
-categories:
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
 ---
 
 NSW seams headed for having the least trusting P-Plate laws in the country (in my opinion, acknowledging that I don't know much about different states laws, so really that statement has very little value), with plans to introduce new restrictions on 1st year drivers under 25:
-
-
-
 	
   * No mobile phone use, even with hands free etc
-
 	
   * Maximum of 1 passenger under 21 between the hours of 11pm and 5am
-
 
 On principle I don't like restricting the passengers that certain drivers can have, but the above restriction does appear to be logically thought out and only inhibiting of the most dangerous driving.
 

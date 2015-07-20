@@ -6,8 +6,8 @@ layout: post
 slug: you-think-this-is-bad
 title: You Think This is Bad
 wordpress_id: 280
-categories:
-- Comic
+tags:
+- comic
 ---
 
 Todays Cyanide and Happiness is great, well worth the bandwidth :)

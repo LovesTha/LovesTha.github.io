@@ -6,8 +6,8 @@ layout: post
 slug: please-chute-the-baby
 title: Please Chute the Baby
 wordpress_id: 272
-categories:
-- Philosophy &amp; Politics
+tags:
+- news
 ---
 
 Now that some of the heat has gone out of the debate I feel it is time to tackle it intelligently. A reality of human nature and biology is that their are going to be unplanned pregnancies. Just as real is that some of these pregnancies will be unwanted.

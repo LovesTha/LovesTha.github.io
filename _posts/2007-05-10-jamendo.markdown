@@ -6,8 +6,8 @@ layout: post
 slug: jamendo
 title: Jamendo
 wordpress_id: 259
-categories:
-- Music
+tags:
+- music
 ---
 
 I've stumbled across a great web site for free music: [Jamendo](http://www.jamendo.com/en/). All the music on the site is released under a creative commons licence, which essential lets you do anything with the music, as long as you don't claim its your original idea and credit the true author (essentially ensures you can't lie).

@@ -6,8 +6,8 @@ layout: post
 slug: telechoice-optus-apple-and-fraud
 title: Telechoice, Optus, Apple and Fraud
 wordpress_id: 497
-categories:
-- Geeky
+tags:
+- technology
 - Rant
 ---
 

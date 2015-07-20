@@ -6,7 +6,7 @@ layout: post
 slug: 9th-%d0%98%d0%97%d0%94%d0%90%d0%9d%d0%98%d0%95
 title: 9th ИЗДАНИЕ
 wordpress_id: 40
-categories:
+tags:
 - magic
 - set-9th
 ---

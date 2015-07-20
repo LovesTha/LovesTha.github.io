@@ -6,8 +6,8 @@ layout: post
 slug: pop-quiz
 title: Pop Quiz
 wordpress_id: 290
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 What is wrong/confusing with this answer, the question was "what is the coordinate system you are using":

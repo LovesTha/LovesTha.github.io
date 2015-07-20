@@ -6,10 +6,9 @@ layout: post
 slug: short-break
 title: Short Break
 wordpress_id: 221
-categories:
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
+tags:
+- magic
+- nm
 ---
 
 We had 5 teams along on Saturday and a fun time was had by all for most of the time.

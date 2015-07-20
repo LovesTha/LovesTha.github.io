@@ -6,7 +6,7 @@ layout: post
 slug: brrrr-is-it-cold-in-here
 title: Brrrr, is it Cold in Here?
 wordpress_id: 46
-categories:
+tags:
 - set-csp
 - magic
 ---

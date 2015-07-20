@@ -6,10 +6,10 @@ layout: post
 slug: world-catholic-youth-week-prooving-pell-to-be-stupid
 title: 'World Catholic Youth Week: Prooving Pell to be stupid'
 wordpress_id: 370
-categories:
-- Other
+tags:
+
 - Rant
-- Theology
+- church
 tags:
 - Cardinal George Pell
 - Catholic

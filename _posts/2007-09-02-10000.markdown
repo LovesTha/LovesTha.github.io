@@ -6,7 +6,7 @@ layout: post
 slug: '10000'
 title: 10,000
 wordpress_id: 294
-categories:
+tags:
 - Meta-Site Discussion
 ---
 

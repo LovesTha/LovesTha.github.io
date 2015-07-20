@@ -7,7 +7,7 @@ slug: ecotarian
 title: Ecotarian?
 wordpress_id: 266
 tags:
-- Ecotarian
+- food
 ---
 
 For a quick definition of the word, I grabbed this from [Wikipedia](http://en.wikipedia.org/wiki/Ecotarian):

@@ -6,13 +6,13 @@ layout: post
 slug: kl-india-1-ariving-in-kl
 title: 'KL + India #1 - Ariving in KL'
 wordpress_id: 355
-categories:
-- India
-- Judging
-- Magic The Gathering
 tags:
 - India
-- Judging
+- judging
+- magic
+tags:
+- India
+- judging
 - Kuala Lumpur
 - mtg
 ---

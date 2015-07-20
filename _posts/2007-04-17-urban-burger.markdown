@@ -6,8 +6,9 @@ layout: post
 slug: urban-burger
 title: Urban Burger
 wordpress_id: 248
-categories:
-- Burgers
+tags:
+- burger
+- food
 ---
 
 Theres been a request for my impression of Urban Burger in another thread so here goes.

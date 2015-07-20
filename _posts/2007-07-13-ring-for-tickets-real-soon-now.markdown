@@ -6,8 +6,8 @@ layout: post
 slug: ring-for-tickets-real-soon-now
 title: Ring For Tickets, Real Soon Now
 wordpress_id: 281
-categories:
-- Music
+tags:
+- music
 ---
 
 I'm trying frantically to get some tickets to the AIH show at the Northcote social club next week. It's proving to be rather annoying. Don't radio stations realize that forcing fans of bands to listen to the 1 station for ~14 hours a day in attempts to get tickets to a show is counter productive? Pretty much every radio station is really annoying to listen to if you are forced to do it for too long each day.

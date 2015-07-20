@@ -6,9 +6,9 @@ layout: post
 slug: bedrock-of-christianity
 title: Bedrock of Christianity!?
 wordpress_id: 213
-categories:
-- Philosophy &amp; Politics
-- Theology
+tags:
+- news
+- church
 ---
 
 With the release of the documentary _The Burial Cave of Jesus_ many local current affairs programs have been proclaiming that the Bedrock of Christianity has been undermined and that this will have profound effects on the Church at large.

@@ -6,10 +6,9 @@ layout: post
 slug: review-deep-analysis-the-rules-of-engagement
 title: 'Review: Deep Analysis - The Rules of Engagement'
 wordpress_id: 214
-categories:
-- Constructed
-- Magic The Gathering
-- Meta-Game Discussion
+tags:
+- constructed
+- magic
 ---
 
 I just spent the last 10 minutes of my lunch break reading _[Deep Analysis - The Rules of Engagement](http://www.starcitygames.com/php/news/article/13763.html)_, by Richard Feldman. Don't go running off to read that link unless you've read this review first and have a SCG premium account.

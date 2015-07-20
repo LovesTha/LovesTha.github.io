@@ -6,7 +6,7 @@ layout: post
 slug: pyramid-scheme-crap
 title: Pyramid Scheme Crap
 wordpress_id: 328
-categories:
+tags:
 - Rant
 tags:
 - Pyramid Scheme

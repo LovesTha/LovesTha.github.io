@@ -6,9 +6,9 @@ layout: post
 slug: ptq-berlin-warm-up-meta-games-pimpin-block
 title: PTQ Berlin Warm Up - Meta Games Pimpin' Block
 wordpress_id: 381
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 tags:
 - Doran
 - Doran the Siege Tower

@@ -6,8 +6,8 @@ layout: post
 slug: limericks-r-us
 title: Limericks-R-Us
 wordpress_id: 351
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 The dude at xkcd has setup a site to let people submit and vote on limericks.

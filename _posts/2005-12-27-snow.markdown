@@ -6,8 +6,8 @@ layout: post
 slug: snow
 title: Snow
 wordpress_id: 56
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 Bloody snow. I have two major issues with the proliferation of snow right now:

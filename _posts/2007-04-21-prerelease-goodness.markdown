@@ -6,11 +6,11 @@ layout: post
 slug: prerelease-goodness
 title: Prerelease Goodness
 wordpress_id: 252
-categories:
-- Judging
-- Limited
-- Magic The Gathering
-- Tournament Report
+tags:
+- judging
+- limited
+- magic
+- set-fut
 ---
 
 Judged at the Melbourne Future Sight Prerelease today. Very fun set, but first lets go through things in order. Got up to early because I don't like to risk being late with a train getting to the station at the same time I'm meant to be somewhere.

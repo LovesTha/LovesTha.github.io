@@ -1,6 +1,12 @@
 grammar:
   name: Grammar
 
+yoga:
+  name: Yoga
+
+set-pcs:
+  name: Planar Chaos
+
 sport:
   name: Sports
 
