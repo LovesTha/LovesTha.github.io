@@ -6,7 +6,7 @@ layout: post
 slug: triking-week-round-up-1
 title: 'Triking Week Round Up #1'
 wordpress_id: 479
-categories:
+tags:
 - Riding Log
 ---
 

@@ -6,8 +6,8 @@ layout: post
 slug: contest-closed
 title: Contest Closed
 wordpress_id: 243
-categories:
-- Comic
+tags:
+- comic
 ---
 
 Just letting everyone know that the Name A Comic contest has finished and I just emailed Alex a list of 36 submissions to choose from. Naturaly I've already thrown a few out (for some reason naming a comic after a major magic web site doesn't sound smart) and we hope to get the poll up in the next few days for you all to vote on.

@@ -6,8 +6,9 @@ layout: post
 slug: kfc-filler
 title: KFC Filler
 wordpress_id: 247
-categories:
-- Burgers
+tags:
+- burger
+- food
 ---
 
 Ok so I had a KFC Filler last night for the first time. The experience was about as exspected, rating a 1.5 of the burger scale:

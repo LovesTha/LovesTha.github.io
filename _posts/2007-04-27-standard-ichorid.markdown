@@ -6,9 +6,9 @@ layout: post
 slug: standard-ichorid
 title: Standard Ichorid
 wordpress_id: 256
-categories:
-- Deck Building
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 I know theres a problem with naming a deck after a card that isn't in the deck, but I think the name works.

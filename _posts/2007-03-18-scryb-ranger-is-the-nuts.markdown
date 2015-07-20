@@ -6,10 +6,8 @@ layout: post
 slug: scryb-ranger-is-the-nuts
 title: Scryb Ranger is the Nuts
 wordpress_id: 232
-categories:
-- Magic The Gathering
-- Play Skills
-- Tournament Report
+tags:
+- magic
 ---
 
 I am such a newb. I lost the last round of the draft yesterday because I forgot to make a game winning play. My opponent was heavy black with a fair bit of red, I was playing GWU with lots of tricks but no decent men. I did have Scryb Ranger and Dunerider Outlaw though.

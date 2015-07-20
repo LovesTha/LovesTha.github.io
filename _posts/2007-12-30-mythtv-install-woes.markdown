@@ -6,8 +6,8 @@ layout: post
 slug: mythtv-install-woes
 title: MythTV Install Woes
 wordpress_id: 330
-categories:
-- Geeky
+tags:
+- technology
 tags:
 - Linux
 - MythTV

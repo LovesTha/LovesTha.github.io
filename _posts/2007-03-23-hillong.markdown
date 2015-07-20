@@ -6,9 +6,9 @@ layout: post
 slug: hillong
 title: Hill$ong
 wordpress_id: 237
-categories:
-- Philosophy &amp; Politics
-- Theology
+tags:
+- church
+- news
 ---
 
 For those Hill$ong spotters amongst you, JTV will have a feature on them tonight. For the further subset of you that don't live in Australia or like to go to bed/clubs on a Friday night, you can watch the segment on the [JTV web site](http://abc.net.au/jtv/video/default.htm?clip=hillsong).

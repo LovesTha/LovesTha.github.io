@@ -6,9 +6,10 @@ layout: post
 slug: easter-giant-northern-magic-two-headed-giant
 title: Easter Giant - Northern Magic Two Headed Giant
 wordpress_id: 238
-categories:
-- Northern Magic
-- Northern Magic Event
+tags:
+- nm
+- magic
+- limited
 ---
 
 It appears I am attempting to imitate a female stereotype, the 7th of April Two Headed Giant is back on again. This could be the last 2HG in Melbourne before the PTQ, but who knows?

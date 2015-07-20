@@ -6,10 +6,10 @@ layout: post
 slug: obligatory-rumoured-card-im-excited-about
 title: Obligatory Rumoured Card I'm Excited about
 wordpress_id: 332
-categories:
+tags:
 - EDH
-- Judging
-- Magic The Gathering
+- judging
+- magic
 ---
 
 Morningtide is just around the corner and people are starting to get excited about it. I haven't seen anything yet that has made me excited in a judging way more than the news that we are going to use a new venue in Melbourne for the the prerelease. The big up about this venue is their are claiming to set the venue up to our desires, so we'll all get to sleep in on Saturday morning :)

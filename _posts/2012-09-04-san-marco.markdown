@@ -6,7 +6,7 @@ layout: post
 slug: san-marco
 title: San Marco
 wordpress_id: 614
-categories:
+tags:
 - Food
 tags:
 - food

@@ -6,10 +6,9 @@ layout: post
 slug: tombstalker-muhahahaha
 title: Tombstalker, Muhahahaha
 wordpress_id: 240
-categories:
-- Kicking The Habit - Spoilers
-- Magic The Gathering
-- Up Coming Releases
+tags:
+- set-fut
+- magic
 ---
 
 Ok, its official, my boycott of unofficial spoilers has ended (although I don't believe [MTGSalvation](http://mtgsalvation.com) has received an unofficial preview yet, but they have posted card from sources without context). This card makes me hope that WotC wont be printing this future mechanic for many many years. It would be rather over powered if in extended at the same time as Dredge.

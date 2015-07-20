@@ -6,8 +6,8 @@ layout: post
 slug: spamm-2
 title: Spamm--
 wordpress_id: 197
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 Seams that the spamm levels are returning to a less obnoxious level, my past months spamm is only 1502. That is a much more tolerable 48 spamm per day.

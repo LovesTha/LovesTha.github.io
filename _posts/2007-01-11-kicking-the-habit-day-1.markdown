@@ -6,10 +6,9 @@ layout: post
 slug: kicking-the-habit-day-1
 title: Kicking The Habit - Day 1
 wordpress_id: 198
-categories:
-- Kicking The Habit - Spoilers
-- Magic The Gathering
-- Up Coming Releases
+tags:
+- magic
+- set-pcs
 ---
 
 Time seams to be crawling.

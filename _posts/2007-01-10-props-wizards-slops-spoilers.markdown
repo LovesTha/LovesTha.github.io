@@ -6,10 +6,9 @@ layout: post
 slug: props-wizards-slops-spoilers
 title: 'Props: Wizards, Slops: Spoilers'
 wordpress_id: 195
-categories:
-- Kicking The Habit - Spoilers
-- Magic The Gathering
-- Up Coming Releases
+tags:
+- magic
+- set-pcs
 ---
 
 This is the first time I've said this, I feel that spoilers have stolen something from me. The [announcement](http://www.starcitygames.com/php/news/article/13483.html) of The Lovely Mares tribute card by Jamie Wakefeild was so much hollower because we'd already seen most of the text of the card already (I don't actually mind that the casting cost was wrong, that's not that relevant to me.

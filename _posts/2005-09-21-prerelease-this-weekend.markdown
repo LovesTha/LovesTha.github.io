@@ -6,7 +6,7 @@ layout: post
 slug: prerelease-this-weekend
 title: Prerelease This Weekend
 wordpress_id: 35
-categories:
+tags:
 - limited
 - magic
 - set-rav

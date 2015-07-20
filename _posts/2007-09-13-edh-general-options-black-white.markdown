@@ -6,11 +6,11 @@ layout: post
 slug: edh-general-options-black-white
 title: 'EDH: General Options - Black / White'
 wordpress_id: 301
-categories:
-- Constructed
-- Deck Building
+tags:
+- constructed
+- magic
 - EDH
-- Magic The Gathering
+- magic
 ---
 
 No one really wants to play Elder Dragon Highlander with a mono coloured deck (rumours of people who enjoy Karn as a general not withstanding), So I'm going to start on the 2 colour options first.

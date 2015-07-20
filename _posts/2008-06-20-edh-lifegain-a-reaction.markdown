@@ -6,11 +6,11 @@ layout: post
 slug: edh-lifegain-a-reaction
 title: 'EDH Lifegain: A Reaction.'
 wordpress_id: 369
-categories:
-- Constructed
-- Deck Building
+tags:
+- constructed
+- magic
 - EDH
-- Magic The Gathering
+- magic
 ---
 
 Ok, the start of this draft was killed by wordpress, apparently a saved draft can be replaced with the text "undefined" so this will be quicker than I intended.

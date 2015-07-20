@@ -6,9 +6,9 @@ layout: post
 slug: leaving-on-an-aeroplane
 title: Leaving on an Aeroplane
 wordpress_id: 349
-categories:
-- Judging
-- Magic The Gathering
+tags:
+- judging
+- magic
 ---
 
 For a count down till when I leave: [Linky](http://www.timeanddate.com/counters/customcounter.html?day=13&month=2&year=2008&hour=0&min=45&sec=0&p0=57)

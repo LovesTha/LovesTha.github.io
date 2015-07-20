@@ -6,11 +6,11 @@ layout: post
 slug: edh-a-review-of-my-decks
 title: 'EDH: A Review of My Decks'
 wordpress_id: 299
-categories:
-- Constructed
-- Deck Building
+tags:
+- constructed
+- magic
 - EDH
-- Magic The Gathering
+- magic
 tags:
 - elder dragon highlander
 ---

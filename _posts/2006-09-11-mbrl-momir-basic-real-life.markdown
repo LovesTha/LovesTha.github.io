@@ -6,7 +6,7 @@ layout: post
 slug: mbrl-momir-basic-real-life
 title: MBRL - Momir Basic Real Life
 wordpress_id: 131
-categories:
+tags:
 - constructed
 - magic
 ---

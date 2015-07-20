@@ -6,7 +6,7 @@ layout: post
 slug: luv-a-burgersandwichcoffee
 title: Luv A Burger/Sandwich/Coffee
 wordpress_id: 490
-categories:
+tags:
 - Burgers
 ---
 

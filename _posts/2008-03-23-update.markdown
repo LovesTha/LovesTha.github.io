@@ -6,10 +6,10 @@ layout: post
 slug: update
 title: Update
 wordpress_id: 359
-categories:
-- Constructed
-- Deck Building
-- Magic The Gathering
+tags:
+- constructed
+- magic
+- magic
 ---
 
 Just posting to say the below post has had a lot of extra info put in, including some pointers towards future directions for the deck.

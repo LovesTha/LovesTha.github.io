@@ -6,8 +6,8 @@ layout: post
 slug: beta-coaster
 title: Beta Coaster
 wordpress_id: 362
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 I upgraded to the Beta of Ubuntu 8.04 at the end of last month. I was happily surprised, naturally my wireless is broken, everything seams to work, but the tick box to enable the style of security we use doesn't jump out at me. I'll wait till the release of 8.04 before bothering to fix that though.

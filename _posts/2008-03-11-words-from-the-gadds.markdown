@@ -6,10 +6,10 @@ layout: post
 slug: words-from-the-gadds
 title: Words from the Gadds
 wordpress_id: 353
-categories:
-- Judging
+tags:
+- judging
 - Limited
-- Magic The Gathering
+- magic
 ---
 
 I don't commonly post links to articles on magic sites, but this one is worthy of the linkage. Some (very few) were complaining about the way the Melbourne preleases were run, so one of the important players from the region posted this article as a response. One of the paragraphs is worth quoting though:

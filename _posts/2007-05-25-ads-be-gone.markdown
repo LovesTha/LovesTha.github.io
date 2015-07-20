@@ -6,9 +6,9 @@ layout: post
 slug: ads-be-gone
 title: Ads Be Gone
 wordpress_id: 261
-categories:
-- Geeky
-- Theology
+tags:
+- technology
+- church
 ---
 
 I really dislike ads. I also hate bloated applications. So it is quite a pitty that MSN Messenger (Live) is such a useful app. Those adds and videos that constantly grab my attention in the corner of my screen really annoy me.

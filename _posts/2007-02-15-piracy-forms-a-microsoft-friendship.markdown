@@ -6,9 +6,9 @@ layout: post
 slug: piracy-forms-a-microsoft-friendship
 title: Piracy Forms a Microsoft Friendship?
 wordpress_id: 208
-categories:
-- Current News
-- Geeky
+tags:
+- news
+- technology
 ---
 
 I know this is slightly old news, but I just stumbled on it again and I love it.

@@ -26,8 +26,8 @@ flights at, core set prereleases and the intersection of those two groups
 can account for many of the people missing this weekend.
 
 Or people who don't believe Wizards of the Coast when they inform us of how
-awesome their new product is. It's a pretty reasonable type of skepticism.
-This skepticism helps us filter out much of the overly optimistic
+awesome their new product is. It's a pretty reasonable type of scepticism.
+This scepticism helps us filter out much of the overly optimistic
 marketing we are bombarded with. Personally I think that WotC have done 
 pretty well at being honest with us players, at least when their lawyers 
 aren't tying their hands but that is a topic for another longer more in
@@ -45,7 +45,7 @@ the pool. I'm pretty happy to trade the ability to move the counters around
 for trample. Those beaters probably accounted for at least two of our 
 wins, the third win it was really just the random creature that meant we 
 won one turn earlier, wining was never in question that game. My promo was 
-the new hot merfolk, [Harbinger of the Tides][4], so I was happy with the 
+the new hot Merfolk, [Harbinger of the Tides][4], so I was happy with the 
 value but the blue really did suck so we left all the blue cards on the 
 bench.
 

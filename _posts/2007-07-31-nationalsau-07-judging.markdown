@@ -6,9 +6,9 @@ layout: post
 slug: nationalsau-07-judging
 title: Nationals.au '07 - Judging
 wordpress_id: 285
-categories:
-- Judging
-- Magic The Gathering
+tags:
+- judging
+- magic
 ---
 
 I've got a few stories from Nationals for you all, but lets start first with a quick recap of my experiences as a judge this year.

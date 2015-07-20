@@ -6,10 +6,8 @@ layout: post
 slug: identity-theft-a-misdemeanor
 title: 'Identity Theft a Misdemeanor '
 wordpress_id: 233
-categories:
-- Current News
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
 ---
 
 _"At worst, spyware can lead to the unwanted exposure of offensive Web content to unsuspecting individuals, particularly children, it can also lead to outright fraud resulting in significant financial damages. At best, spyware is simply nasty stuff that clogs computers, slows down processing power, and is costly to remove."_

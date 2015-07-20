@@ -6,8 +6,8 @@ layout: post
 slug: dwarves-for-the-win
 title: Dwarves for the Win
 wordpress_id: 296
-categories:
-- Geeky
+tags:
+- technology
 ---
 
 My CAD Magnetic Poetry #1 arrived yesterday, it was the fast shipping version sent just last week.
