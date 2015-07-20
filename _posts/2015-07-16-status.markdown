@@ -1,0 +1,47 @@
+---
+author: Gareth Pye
+comments: true
+date: 2015-07-16 12:02:00+00:00 +1000
+layout: post
+slug: status
+title: Site Update And Direction
+tags:
+- meta
+---
+
+So this post will be my 8th in 8 days. It has been 5 years since I've done two 
+posts in the same month and another year on that for more than two in a month. 
+I hope y'all are enjoying the new content.
+
+# Update
+
+I restarted the blog as a way to play with the [Jekyll][1] platform, but I'd 
+also been getting into listening to podcasts recently and had been thinking
+about starting to listen to the new [ProBlogger Podcast][2], it's made by a
+friend of a friend and blogging has always been of some interest to me.
+
+[ProBlogger][2] is launching his podcast with a [31 Days To Build A Better Blog][3]
+and as I'm getting back into this blog it sounds like a perfectly happy 
+coincidence. I'm not following it in real time and I started 2 weeks late.
+
+Yesterday I listened to the Day 1 podcast on the way to work and found some time 
+to do what it suggested. It was "create your elevator pitch", I mulled it over for 
+a while and put the conclusions into the [about page][4].
+
+# Direction
+
+So setting a more definitive direction in the about page means I have a bit more of
+and idea of what I should be posting here. So hopefully you will all enjoy the 
+*slightly* more directed stream of posts.
+
+# Misc Stats
+
+Some data points to 90% of the visitors to this site using some form of advertisement
+or tracking blocking. I don't really mind, this isn't intended to be a revenue stream,
+I was more interested in seeing how advertising works than making money from it.
+
+
+[1]: http://jekyllrb.com/
+[2]: http://problogger.com/podcast/
+[3]: http://www.problogger.net/archives/category/31-days-to-building-a-better-blog/
+[4]: /aboutme/
