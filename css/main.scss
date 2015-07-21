@@ -109,7 +109,9 @@ hr.small {
   border-radius: 3px;
 }
 img {
-  width: 100%;
+  max-width: 90%;
+  height: auto;
+  width: auto\9; /* ie8 */
 }
 article {
   text-align: justify;
@@ -372,7 +374,7 @@ h1 .post-heading {
 
 .pre-content {
   margin: auto;
-  width: 621px;
+ /* width: 621px; */
   margin-top: 75px;
 }
 
