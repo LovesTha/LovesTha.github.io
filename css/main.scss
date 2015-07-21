@@ -211,11 +211,14 @@ img::-moz-selection {
 
 .navbar-custom .avatar-container {
   opacity: 0;
-  position: relative;
   float: right;
   width: 150px;
   margin: none;
   margin-right: 10px;
+  position: absolute;
+  left: 50%;
+  margin-top: -45px;
+  height: 5px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 100%;
