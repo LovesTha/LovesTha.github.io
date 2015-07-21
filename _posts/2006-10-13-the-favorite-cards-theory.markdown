@@ -6,9 +6,9 @@ layout: post
 slug: the-favorite-cards-theory
 title: The Favorite Cards Theory
 wordpress_id: 142
-categories:
-- Deck Building
-- Magic The Gathering
+tags:
+- magic
+- constructed
 ---
 
 I'm suggesting a new theory to describe the current Standard meta game. Most players I contend are just picking their few favourite cards and building a deck with them all in it. The only surprising bit is that it is working. For example lets look at my favourite T2 legal cards currently:
@@ -18,7 +18,7 @@ Stormbind
 Mystic Enforcer
 Magus of the Scroll<!-- more -->
 
-Ok so that looks like a good collection of powerful cards that can have some internal synergy. Its obvious this deck will be 3 colours: Red, Green and White. Now we need to add a few controlling elements, I suggest:
+Okay so that looks like a good collection of powerful cards that can have some internal synergy. Its obvious this deck will be 3 colours: Red, Green and White. Now we need to add a few controlling elements, I suggest:
 
 Lightning Helix
 Char

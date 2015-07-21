@@ -6,8 +6,8 @@ layout: post
 slug: interesting-stats
 title: Interesting Stats
 wordpress_id: 453
-categories:
-- Theology
+tags:
+- church
 ---
 
 Just recieved these in an email from Phil, can't be bothered working out if they are from a reputable source, but this is the internet:

@@ -6,8 +6,9 @@ layout: post
 slug: gruul-themed-decks-are-easy-to-build
 title: Gruul Themed Decks Are Easy To Build
 wordpress_id: 58
-categories:
-- Deck Building
+tags:
+- constructed
+- magic
 ---
 
 Building Gruul themed decks is easy, take this list that i'm making up on the spot:
@@ -38,4 +39,4 @@ Building Gruul themed decks is easy, take this list that i'm making up on the sp
 4x Forest
 2x Mountain
 
-And your done, I'd like to find the room to put the Burning Tree Shaman in and probably replace the Cantors with Birds, but I'm thinking the deck doesn't realy need any mana accelerators at all.
+And your done, I'd like to find the room to put the Burning Tree Shaman in and probably replace the Cantors with Birds, but I'm thinking the deck doesn't really need any mana accelerators at all.

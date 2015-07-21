@@ -6,14 +6,14 @@ layout: post
 slug: ug-control
 title: UG Control
 wordpress_id: 77
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 I've had a pretty good track record with UG Control decks. Maybe its my love of Gifts Ungiven and that the best Gifts decks were UG when Eternal Witness was legal or that the style of deck just agrees with me.
 
-So heres a snap shot at a deck I've been thinking about. (NB: that means I haven't tried to play it ever, not even on MWS, but don't get me started on MWS)
+So here's a snap shot at a deck I've been thinking about. (NB: that means I haven't tried to play it ever, not even on MWS, but don't get me started on MWS)
 
 Counters:
 4x Spell Snare

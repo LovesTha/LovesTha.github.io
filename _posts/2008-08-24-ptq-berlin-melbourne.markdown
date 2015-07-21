@@ -6,8 +6,8 @@ layout: post
 slug: ptq-berlin-melbourne
 title: PTQ Berlin - Melbourne
 wordpress_id: 388
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 Using the deck I had success with last weekend I went into the PTQ confident of a respectable win. After making several changes to last weeks sideboard, but none to the main deck this is what I played:

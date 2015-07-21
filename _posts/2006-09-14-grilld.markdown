@@ -6,9 +6,9 @@ layout: post
 slug: grilld
 title: Grill'd
 wordpress_id: 133
-categories:
-- Burgers
-- Other
+tags:
+- burger
+- food
 ---
 
 Someone just reminded me that I should speak about my favourite food dispenser: [Grill'd](http://www.grilld.com.au/). I do like good food, and I like a good burger. Grill'd have the best burger available or so I believe.

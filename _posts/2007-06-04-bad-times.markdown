@@ -6,12 +6,12 @@ layout: post
 slug: bad-times
 title: Bad Times
 wordpress_id: 269
-categories:
-- Constructed
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Other
+tags:
+- constructed
+- magic
+- nm
+- limited
+
 ---
 
 1) Only having 3 people turn up to the 2HG is making me seriously contemplate the future of the events. I will probably make the next one constructed (just to gauge interest) and am interested in what people would prefer: Time Spiral Block or Highlander.

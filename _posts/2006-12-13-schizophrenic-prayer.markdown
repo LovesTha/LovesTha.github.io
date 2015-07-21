@@ -6,10 +6,10 @@ layout: post
 slug: schizophrenic-prayer
 title: Schizophrenic Prayer
 wordpress_id: 183
-categories:
-- Magic The Gathering
-- Philosophy &amp; Politics
-- Theology
+tags:
+- magic
+- news
+- church
 ---
 
 Big Dude, help me:
@@ -17,19 +17,19 @@ Big Dude, help me:
 
 
 	
-  * Care for the disadvantaged, both localy and abroard.
+  * Care for the disadvantaged, both localy and abroad.
 
 	
   * Connect with the Magic Community in a meaningful way.
 
 	
-  * Minimise how I descrate your creation, both internaly and environmentaly.
+  * Minimise how I desecrate your creation, both internally and environmentally.
 
 	
   * Be a nicer Magic player, being respectful of my opponents
 
 	
-  * Praise you innn every way thing I do.
+  * Praise you in every way thing I do.
 
 	
   * Win more games.

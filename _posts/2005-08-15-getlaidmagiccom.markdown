@@ -6,15 +6,11 @@ layout: post
 slug: getlaidmagiccom
 title: Getlaidmagic.com
 wordpress_id: 18
-categories:
-- Magic The Gathering
-- Other
+tags:
+- magic
 ---
 
 Ok so magic web sites are now trying to give you tips on how to pick up girls?  Whats next, how to make money while playing magic???
-
-
-
 
 [Linkage](http://Getlaidmagic.com)
 

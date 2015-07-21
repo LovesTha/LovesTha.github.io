@@ -6,11 +6,11 @@ layout: post
 slug: raw-dump-of-notes
 title: Raw Dump of Notes
 wordpress_id: 97
-categories:
-- Theology
+tags:
+- church
 ---
 
-Here is the raw dump of my notes from the Forge Intensive this weekend:<!-- more -->
+Here is the raw dump of my notes from the Forge Intensive this weekend:
 
 Sun Alan:
 memes
@@ -39,5 +39,5 @@ How to rest? Is magic rest already?
 What does the economy of the kingdom say about ccgs?
 
 Post Reflection:
-How much is too much/too little? Do we need to do more than be christians in the community?
+How much is too much/too little? Do we need to do more than be Christians in the community?
 PS: I'm not a big one for writing many notes, I will probably come back and discuss some of them over the next few weeks

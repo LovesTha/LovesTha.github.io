@@ -6,8 +6,8 @@ layout: post
 slug: mummy-i-wanna-be-an-artist
 title: Mummy I wanna be an Artist
 wordpress_id: 336
-categories:
-- Geeky
+tags:
+- technology
 - Modifications
 ---
 

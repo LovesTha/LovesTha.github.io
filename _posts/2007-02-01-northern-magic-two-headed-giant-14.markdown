@@ -6,11 +6,9 @@ layout: post
 slug: northern-magic-two-headed-giant-14
 title: 'Northern Magic - Two Headed Giant #14'
 wordpress_id: 205
-categories:
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
-- Two Headed Giant
+tags:
+- magic
+- nm
 ---
 
 Just reminding everyone that our next tournament is this weekend

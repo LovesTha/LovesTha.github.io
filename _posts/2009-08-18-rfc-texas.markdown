@@ -6,7 +6,7 @@ layout: post
 slug: rfc-texas
 title: RFC - Texas
 wordpress_id: 504
-categories:
+tags:
 - Travel
 tags:
 - NASA

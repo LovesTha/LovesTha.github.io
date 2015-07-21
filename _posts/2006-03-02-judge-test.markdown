@@ -6,8 +6,9 @@ layout: post
 slug: judge-test
 title: Judge Test
 wordpress_id: 62
-categories:
-- Judging
+tags:
+- judging
+- magic
 ---
 
 Just letting all my faithful readers that I passed my level 1 judge test on the weekend.

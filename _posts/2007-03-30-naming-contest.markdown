@@ -6,8 +6,8 @@ layout: post
 slug: naming-contest
 title: Naming Contest
 wordpress_id: 239
-categories:
-- Comic
+tags:
+- comic
 ---
 
 Here's your chance to win some loot. Up for grabs is a Foil Textless Wrath of God (still in original plastic) or a 3 month subscription to deviantART. All you have to do is come up with a name for a project that Alex and I are undertaking: a web comic based around magic players.

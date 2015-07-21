@@ -6,16 +6,14 @@ layout: post
 slug: gambling-poker-tournament-yes-magic-tournament-no
 title: 'Gambling: Poker Tournament - Yes, Magic Tournament - No?'
 wordpress_id: 76
-categories:
-- Magic The Gathering
-- Theology
+tags:
+- magic
+- church
 ---
 
 I was reminded last night of an interesting discussion I once read on a message board somewhere. The main thrust was why is it acceptable for a minor to enter a large magic tournament but not a poker tournament.
 
-Naturaly the disscusion delved into the definitions of gambling, with different people arguing that Magic was gambling and that poker tournaments aren't. Most people seamed to agree that the division in eligability seams unjust but there was disagreement over if it should be allowed or not. Most people seamed to fall on the minors should be allowed, probably due to most of the forum members being people who had entered a Magic tournament as a minor at least once.
-
-<!-- more -->
+Naturally the discussion delved into the definitions of gambling, with different people arguing that Magic was gambling and that poker tournaments aren't. Most people seamed to agree that the division in eligibility seams unjust but there was disagreement over if it should be allowed or not. Most people seamed to fall on the minors should be allowed, probably due to most of the forum members being people who had entered a Magic tournament as a minor at least once.
 
 Dictionary.com tells me that gambling is:
 
@@ -53,4 +51,4 @@ Is poker a game of chance? Well yes, but it is not purely chance based. Winning 
 
 Is Magic a game of chance? Well yes, but it is not purely chance based. Once you've shuffled your hand you can try and out play your opponent to overcome the differences in your draw. Beyond that there is the skill in building your deck and deciding how to sideboard. Nothing gets around the fact that some hands just can't beat other hands in every match-up.
 
-While I don't think that there is much of a difference between Magic and Poker in terms of which is gambling, I do support that minors shouldn't be allowed to play in Poker tournaments but allowed to play in Magic tournaments. I don't mind being a hypocrit at times, just as long as I know I'm doing it.
+While I don't think that there is much of a difference between Magic and Poker in terms of which is gambling, I do support that minors shouldn't be allowed to play in Poker tournaments but allowed to play in Magic tournaments. I don't mind being a hypocrite at times, just as long as I know I'm doing it.

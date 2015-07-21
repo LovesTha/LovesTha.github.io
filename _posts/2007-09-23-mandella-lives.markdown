@@ -6,7 +6,7 @@ layout: post
 slug: mandella-lives
 title: Mandella Lives
 wordpress_id: 306
-categories:
+tags:
 - Current News
 ---
 

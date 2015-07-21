@@ -6,8 +6,8 @@ layout: post
 slug: we-three-kings
 title: We Three Kings
 wordpress_id: 350
-categories:
-- Comic
+tags:
+- comic
 ---
 
 I love when C&H touches on religion, its so funny.

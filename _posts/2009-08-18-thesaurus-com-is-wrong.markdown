@@ -6,7 +6,7 @@ layout: post
 slug: thesaurus-com-is-wrong
 title: Thesaurus.com is wrong
 wordpress_id: 508
-categories:
+tags:
 - Rant
 tags:
 - Someone on the Internet is wrong

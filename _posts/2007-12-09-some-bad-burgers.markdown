@@ -6,7 +6,7 @@ layout: post
 slug: some-bad-burgers
 title: Some Bad Burgers
 wordpress_id: 323
-categories:
+tags:
 - Burgers
 ---
 

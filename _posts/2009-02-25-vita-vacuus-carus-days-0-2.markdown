@@ -6,7 +6,7 @@ layout: post
 slug: vita-vacuus-carus-days-0-2
 title: Vita Vacuus Carus - Days 0 - 2
 wordpress_id: 425
-categories:
+tags:
 - Vita Vacuus Carus
 tags:
 - car

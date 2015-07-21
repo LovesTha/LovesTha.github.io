@@ -6,8 +6,6 @@ layout: post
 slug: possum-in-the-back-yard
 title: Possum in the Back Yard
 wordpress_id: 54
-categories:
-- Other
 ---
 
 [![](http://photos1.blogger.com/blogger/2980/1077/400/third.png)](http://photos1.blogger.com/blogger/2980/1077/1600/third.png)

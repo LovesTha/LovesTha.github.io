@@ -6,9 +6,9 @@ layout: post
 slug: broken-fattiesdec
 title: Broken Fatties.dec
 wordpress_id: 29
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 I'm sort of sure its a good idea to put several large fat creatures into a deck, when they cost 5 or less mana and you have several good efficient ways of getting around there drawbacks available.
@@ -44,7 +44,7 @@ When Hunted Dragon comes into play, put three 2/2 white Knight creature tokens w
 
 
 
-The ways to fully capitilise on the under costed fatties:  
+The ways to fully capitalise on the under costed fatties:  
 
 O-Naginata  
 

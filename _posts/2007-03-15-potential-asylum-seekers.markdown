@@ -6,10 +6,8 @@ layout: post
 slug: potential-asylum-seekers
 title: '"Potential Asylum Seekers"'
 wordpress_id: 231
-categories:
-- Current News
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
 ---
 
 Kevin Andrews has been quoted at using the term "potential asylum seekers" to refer to people who are arriving in Australia. I have a large issue with that, its implying that the important definition of an asylum seeker is the submission of relevant documents with the Australian government.

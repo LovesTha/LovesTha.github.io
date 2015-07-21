@@ -7,7 +7,7 @@ slug: cricket
 title: Cricket
 wordpress_id: 185
 tags:
-- Sport
+- sport
 ---
 
 I used to be a huge anti-fan of cricket, but recently my views have been changing a fair bit. I don't mind watching cricket on TV, but I do find watching cricket on the net great. I tend to have open the live score cards of the ABC and the ACC constantly.

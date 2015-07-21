@@ -6,8 +6,8 @@ layout: post
 slug: 40-for-a-in-print-card
 title: $40 For An In-Print Card
 wordpress_id: 311
-categories:
-- Magic The Gathering
+tags:
+- magic
 tags:
 - bot
 - bot herder

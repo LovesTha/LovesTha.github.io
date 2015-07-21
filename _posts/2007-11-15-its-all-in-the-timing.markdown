@@ -6,8 +6,8 @@ layout: post
 slug: its-all-in-the-timing
 title: Its all in the timing
 wordpress_id: 316
-categories:
-- Geeky
+tags:
+- technology
 tags:
 - ADSL2+
 - churn

@@ -6,8 +6,8 @@ layout: post
 slug: tiger-airways-like-a-tiger
 title: Tiger Airways - Like a Tiger
 wordpress_id: 430
-categories:
-- Magic The Gathering
+tags:
+- magic
 ---
 
 So I decided it was time to buy tickets to Canberra for nationals, Tiger Airways ended up being the cheapest option. So I purchased the tickets online. $101 for a return trip to Canberra is pretty good in my eyes and thats after selecting to have some check in luguage and selecting which seat I wanted on the way there.

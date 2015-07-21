@@ -6,9 +6,9 @@ layout: post
 slug: pioneering-leadership-intensive-summary-1-venue-boarders
 title: 'Pioneering Leadership Intensive Summary #1 - Venue & Boarders'
 wordpress_id: 177
-categories:
-- Philosophy &amp; Politics
-- Theology
+tags:
+- news
+- church
 ---
 
 The final forge intensive for my internship was on this past weekend. It was held at my home church: Northern Community {Church of Christ}. Its such a great venue, fairly comfortable seats, decently sound proofed auditorium with rather loud acoustics, one presenter even complained of reverb while they weren't being amplified. For the Monday and Tuesday of the Intensive we moved the large black couches out of the hospitality area into the auditorium so we were even more comfortable.
@@ -19,4 +19,4 @@ To help out our Tasmanian friends I had two of them stay in the spare bedroom. T
 
 So what I actually want to talk about in this post is the sickly back and forward that polite people fall into. The great friendly boarders naturally feel they need to thank me at various times through the intensive for my family and my hospitality. And being the polite person I am I tell them how it isn't a problem, which thankfully I can say without lying.
 
-What anoys me is that we have to go through this several times during the weekend. It just seams so redundant. Does this annoy anyone else?
+What annoys me is that we have to go through this several times during the weekend. It just seams so redundant. Does this annoy anyone else?

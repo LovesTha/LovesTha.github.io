@@ -4,7 +4,7 @@ layout: default
 
 {% assign post = page %}
 {% if post.tags.size > 0 %}
-    {% capture tags_content %}Posted with {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
+    {% capture tags_content %}Tagged as {% if post.tags.size == 1 %}<i class="fa fa-tag"></i>{% else %}<i class="fa fa-tags"></i>{% endif %}: {% endcapture %}
     {% for post_tag in post.tags %}
         {% assign tag = site.data.tags[post_tag] %}
         {% if tag %}
@@ -18,48 +18,71 @@ layout: default
 
 <header class="header-post">
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+    <div class="col-lg-8 col-md-9 ">
       <div class="post-heading">
-        <h1>{{ page.title }}</h1>
+        <h1 class="post-heading">{{ page.title }}</h1>
         {% if page.subtitle %}
         <h2 class="post-subheading">{{ page.subtitle }}</h2>
         {% endif %}
         <span class="post-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</span>
       </div>
-     </div>
+
+      {{ content }}
+      {{ tags_content }}
+
+      <ul class="pager blog-pager">
+
+        {% if page.previous.url %}
+        <li class="previous">
+          <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
+        </li>
+        {% endif %}
+
+        {% if page.next.url %}
+        <li class="next">
+          <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
+        </li>
+        {% endif %}
+
+      </ul>
+
+      <!-- nuffnang -->
+      <script type="text/javascript">
+              nuffnang_bid = "68d77b48481394368dba6ddecdca7373";
+              document.write( "<div id='nuffnang_lr'></div>" );
+              (function() {	
+                      var nn = document.createElement('script'); nn.type = 'text/javascript';    
+                      nn.src = 'http://synad3.nuffnang.com.au/lr.js';    
+                      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(nn, s.nextSibling);
+              })();
+      </script>
+      <!-- nuffnang-->
+
+      {% if page.comments %}
+      <div class="row disqus-comments">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+          {% include disqus.html %}
+        </div>
+      </div>
+      {% endif %}
+
+    </div>
+
+    <div class="col-lg-3 col-lg-offset-1 col-md-2 col-md-offset-1">
+        {% include sidebar.html %}
+    </div>
+
   </div>
 </header>
 
 <article>
   <div class="row">
-    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-	  {{ content }}
-	</div>
+    </div>
   </div>
 </article>
 
 <div class="row">
   <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-    <ul class="pager blog-pager">
-      {% if page.previous.url %}
-      <li class="previous">
-        <a href="{{ page.previous.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Previous Post</a>
-      </li>
-      {% endif %}
-      {% if page.next.url %}
-      <li class="next">
-        <a href="{{ page.next.url | prepend: site.baseurl | replace: '//', '/' }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Next Post &rarr;</a>
-      </li>
-      {% endif %}
-<p id="post-meta">{{ tags_content }}</p>
-    </ul>
   </div>
 </div>
 
-{% if page.comments %}
-<div class="row disqus-comments">
-  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-    {% include disqus.html %}
-  </div>
-</div>
-{% endif %}

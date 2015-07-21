@@ -6,8 +6,8 @@ layout: post
 slug: new-look-same-crapness
 title: New Look - Same Crapness
 wordpress_id: 64
-categories:
-- Meta-Site Discussion
+tags:
+- meta
 ---
 
 Changed the theme to the blue version because black was getting on my nerves.

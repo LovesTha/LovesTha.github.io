@@ -6,7 +6,7 @@ layout: post
 slug: christmas-sucks
 title: Christmas Sucks
 wordpress_id: 326
-categories:
+tags:
 - Rant
 tags:
 - Christmas

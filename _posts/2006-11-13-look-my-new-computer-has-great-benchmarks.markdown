@@ -6,11 +6,11 @@ layout: post
 slug: look-my-new-computer-has-great-benchmarks
 title: Look, My New Computer Has Great Benchmarks!?
 wordpress_id: 165
-categories:
-- Geeky
+tags:
+- technology
 ---
 
-Was just reading a review of the recent Intel Core2 Extreame Quad Core chip. It closed with the comment of "And, for that matter, benchmark apps better able to cope with more than two cores."
+Was just reading a review of the recent Intel Core2 Extreme Quad Core chip. It closed with the comment of "And, for that matter, benchmark apps better able to cope with more than two cores."
 
 Who gives a flying fuck? Sure having benchmarks that reflect actual performance are very convenient, but having benchmarks that can cope with things that applications don't is pointless. I want my benchmarks to help me get an idea of the comparative and quantitative performance of different systems at particular tasks. Sure having RandomBenchmark2007 show me the difference in performance potential between 2 and 4 cores would be great, but it'd be misleading if none of my applications can notice.
 

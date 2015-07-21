@@ -6,9 +6,9 @@ layout: post
 slug: spoiler-nearly-full
 title: Spoiler Nearly Full
 wordpress_id: 33
-categories:
-- Magic The Gathering
-- Up Coming Releases
+tags:
+- magic
+- set-rav
 ---
 
 Just reminding people that MTGSalvation.com's Ravnica spoiler is nearing completion and is very good reading now.

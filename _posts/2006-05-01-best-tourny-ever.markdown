@@ -6,10 +6,10 @@ layout: post
 slug: best-tourny-ever
 title: Best. Tourny. Ever.
 wordpress_id: 75
-categories:
-- Limited
-- Magic The Gathering
-- Tournament Report
+tags:
+- limited
+- set-diss
+- magic
 ---
 
 Lets put it like this, the only way my sneak peek experience could have been better is if it was a PTQ.
@@ -47,7 +47,7 @@ Nuts
 
 
 
-Every card I opened was damn near perfect. The tournament pack rares were: [Vulturous Zombie](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=vulturous_zombie), [Woodraith Corrupter](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=woodwraith_corrupter) and [Bottled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_cloister). Dissension gave me such pleasentries as: [Cytoplast Manipulator](http://gatherer.wizards.com/gathererlookup.asp?name=Cytoplast_manipulator), [Avatar of Discord](http://gatherer.wizards.com/gathererlookup.asp?name=Avatar_of_discord) and (you can't have absolutly everything) [Wit's End](http://gatherer.wizards.com/gathererlookup.asp?name=Wit[s_end).  Full list follows
+Every card I opened was damn near perfect. The tournament pack rares were: [Vulturous Zombie](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=vulturous_zombie), [Woodraith Corrupter](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=woodwraith_corrupter) and [Bottled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_cloister). Dissension gave me such pleasantries as: [Cytoplast Manipulator](http://gatherer.wizards.com/gathererlookup.asp?name=Cytoplast_manipulator), [Avatar of Discord](http://gatherer.wizards.com/gathererlookup.asp?name=Avatar_of_discord) and (you can't have absolutely everything) [Wit's End](http://gatherer.wizards.com/gathererlookup.asp?name=Wit[s_end).  Full list follows
 
 
 
@@ -127,12 +127,12 @@ Land:
 
 
 
-I've counted the [Sky Hussar](gatherer.wizards.com/gathererlookup.asp?name=Sky_hussar) as a spell as I wasn't included it as a creature as I had no reasonable chance of casting it in a reasonable timeframe but it would easly be used to draw cards as I had 10 blue creatures.
+I've counted the [Sky Hussar](gatherer.wizards.com/gathererlookup.asp?name=Sky_hussar) as a spell as I wasn't included it as a creature as I had no reasonable chance of casting it in a reasonable time frame but it would easily be used to draw cards as I had 10 blue creatures.
 
 
 
 
-The tournament went as well as could possibly be hoped for. I won each round with only 1 game ever looking like it could possibly go against me. This was against Bruce in the 2nd round. I was up 1-0 in games and the second game was taking quiet a while with the board static with Bruce at 21 life having a single Stinkweed Imp on the table and me at 9 life with 2 dudes on the table, the graft untargetable and some other semi vanila dude. If bruce had of not attacked with the Stinkie for several turns, I wouldn't have gotten in enough damage to pull him down to a low 6. I finaly managed to kill Bruce on the 5th turn after time, but the games really shouldn't have taken that long.
+The tournament went as well as could possibly be hoped for. I won each round with only 1 game ever looking like it could possibly go against me. This was against Bruce in the 2nd round. I was up 1-0 in games and the second game was taking quiet a while with the board static with Bruce at 21 life having a single Stinkweed Imp on the table and me at 9 life with 2 dudes on the table, the graft untargetable and some other semi vanilla dude. If Bruce had of not attacked with the Stinkie for several turns, I wouldn't have gotten in enough damage to pull him down to a low 6. I finally managed to kill Bruce on the 5th turn after time, but the games really shouldn't have taken that long.
 
 
 
@@ -147,7 +147,7 @@ Total.
 
 
 
-I have never spent so much time wandering around trash talking everyone, I may have even trash talked some of the people on the pcs that I could beat them in WoW with my deck. Or maybe thats one of the things I can claim because I'm a hot shot internet author.
+I have never spent so much time wandering around trash talking everyone, I may have even trash talked some of the people on the PC's that I could beat them in WoW with my deck. Or maybe that's one of the things I can claim because I'm a hot shot internet author.
 
 
 

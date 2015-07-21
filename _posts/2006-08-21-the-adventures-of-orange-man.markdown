@@ -6,53 +6,52 @@ layout: post
 slug: the-adventures-of-orange-man
 title: The Adventures of Orange Man
 wordpress_id: 121
-categories:
-- Constructed
-- Deck Building
-- Magic The Gathering
-- Tournament Report
+tags:
+- constructed
+- magic
 ---
 
 Ok the deck list I played with:
 
-Creatures:
-4x Bird of Paradise
-4x Eternal Witness
-4x Sakura Tribe Elder
-3x Carven Caryatid
-1x Nezumi Graverobber
-1x True Believer
-1x Viridian Zealot<!-- more -->
+Creatures:  
+4x Bird of Paradise  
+4x Eternal Witness  
+4x Sakura Tribe Elder  
+3x Carven Caryatid  
+1x Nezumi Graverobber  
+1x True Believer  
+1x Viridian Zealot
 
-Spells:
-4x Wrath of God
-3x Astral Slide
-3x Life from Loam
-4x Shred Memory
-1x Chainer's Edict
-1x Shining Shoal
+Spells:  
+4x Wrath of God  
+3x Astral Slide  
+3x Life from Loam  
+4x Shred Memory  
+1x Chainer's Edict  
+1x Shining Shoal  
 1x Dark Heart of the Wood
 
-Land:
-4x Windswept Heath
-2x Temple Garden
-4x Overgrown Tomb
-2x Godless Shrine
-4x Tranquil Thicket
-3x Barren Moor
-2x Secluded Steppe
-2x Forest
-1x Plains
+Land:  
+4x Windswept Heath  
+2x Temple Garden  
+4x Overgrown Tomb  
+2x Godless Shrine  
+4x Tranquil Thicket  
+3x Barren Moor  
+2x Secluded Steppe  
+2x Forest  
+1x Plains  
 1x Swamp
-Sideboard:
-4x Cranial Extraction
-1x Hide // Seek
-1x Darkblast
-1x Auriok Champion
-1x Silver Knight
-1x Kami of Ancient Law
-1x Gift of Estates
-1x Disenchant
+
+Sideboard:  
+4x Cranial Extraction  
+1x Hide // Seek  
+1x Darkblast  
+1x Auriok Champion  
+1x Silver Knight  
+1x Kami of Ancient Law  
+1x Gift of Estates  
+1x Disenchant  
 1x Suppression Field
 
 Few things, firstly yes that is only 12 cards in the sideboard, the 3 Carven Caryatid should be in the sideboard not the main deck but lets go over the differences I should have had if my deck building was optimal.
@@ -80,7 +79,7 @@ Its the perfect removal and threat and you can tutor for it, the only reason it 
 
 Onto the tournament report. I won the first round against a very friendly chap, who I love seeing at tournaments because he has so much fun. He isn't the strongest player around and I fear that in a normal matchup he would have beaten me quite easily. The deck he was playing (it wasn't his deck) was a red green good cards deck, running Veldaken Orrery to create lots of good blocking situations where he would play a creature at instant speed that caused his attacking creature to be bounced. So I won this round purely due to me making many less mistakes than my opponent.
 
-Second round I got to play the owner of the store playing little red creatures and burn. This was a tough match, I lost the first game in pretty short order, needing something like the non existent Solitary Confinements to have a chance of winning. After sideboarding everything went my way, drawing all of my sideboard red hate and Bronwyn failing to draw anywhere as much land in the second game. The third game was a great nail biter, Bron drew just few enough lands to give me time to stabilise on very little life then cast Dark Heart of the Wood. Boy was that card perfect for me all day, for just 5 mana I could tutor for then cast and gain upto 15 life easily. This is why I would also make the following change to the mana base:
+Second round I got to play the owner of the store playing little red creatures and burn. This was a tough match, I lost the first game in pretty short order, needing something like the non existent Solitary Confinements to have a chance of winning. After side boarding everything went my way, drawing all of my sideboard red hate and Bronwyn failing to draw anywhere as much land in the second game. The third game was a great nail biter, Bron drew just few enough lands to give me time to stabilise on very little life then cast Dark Heart of the Wood. Boy was that card perfect for me all day, for just 5 mana I could tutor for then cast and gain upto 15 life easily. This is why I would also make the following change to the mana base:
 
 -1 Godless Shrine
 +1 Temple Garden

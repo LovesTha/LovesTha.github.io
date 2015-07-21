@@ -6,10 +6,9 @@ layout: post
 slug: 30-is-the-new-40
 title: 30 is the new 40
 wordpress_id: 211
-categories:
-- Current News
-- Magic The Gathering
-- Two Headed Giant
+tags:
+- magic
+- nm
 ---
 
 ***Hot News***

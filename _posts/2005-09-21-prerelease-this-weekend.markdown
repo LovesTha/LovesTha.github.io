@@ -6,10 +6,10 @@ layout: post
 slug: prerelease-this-weekend
 title: Prerelease This Weekend
 wordpress_id: 35
-categories:
-- Limited
-- Magic The Gathering
-- Up Coming Releases
+tags:
+- limited
+- magic
+- set-rav
 ---
 
 I'm only planning on playing in 3 events this year, as I've started to find the team event is much too fun to miss. Also I'm pretty sure I've worked out how to go about building decks in Ravnica sealed Two Headed Giant: one deck is B/U based and the other is W/R based, and green gets added to which ever deck is weaker.  

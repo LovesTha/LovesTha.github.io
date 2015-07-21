@@ -6,8 +6,8 @@ layout: post
 slug: funny-video-shows
 title: Funny Video Shows
 wordpress_id: 333
-categories:
-- Geeky
+tags:
+- technology
 - Rant
 tags:
 - Copyright

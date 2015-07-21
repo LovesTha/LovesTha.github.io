@@ -1,3 +1,54 @@
+grammar:
+  name: Grammar
+
+yoga:
+  name: Yoga
+
+set-pcs:
+  name: Planar Chaos
+
+sport:
+  name: Sports
+
+set-tsp:
+  name: Timespiral
+
+burger:
+  name: Burgers
+
+dreamblade:
+  name: DreamBlade
+
+church:
+  name: Christian Ideas and Practice
+
+music:
+  name: Music, Festivals and Concerts
+
+set-diss:
+  name: Dissension
+
+movies:
+  name: Movies
+
+judging:
+  name: Judging
+
+set-rav:
+  name: "Ravnica: City Of Guilds"
+
+nm:
+  name: Northern Magic
+
+set-9th:
+  name: 9th Edition
+
+set-csp:
+  name: Cold Snap
+
+set-sok:
+  name: Saviours Of Kamigawa
+
 technology:
   name: Technology & Gadgets
 

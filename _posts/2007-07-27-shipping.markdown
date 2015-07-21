@@ -6,8 +6,8 @@ layout: post
 slug: shipping
 title: Shipping
 wordpress_id: 284
-categories:
-- Geeky
+tags:
+- technology
 tags:
 - Rant
 ---

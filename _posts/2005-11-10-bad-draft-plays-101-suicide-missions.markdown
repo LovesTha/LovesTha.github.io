@@ -6,8 +6,8 @@ layout: post
 slug: bad-draft-plays-101-suicide-missions
 title: 'Bad Draft Plays 101: Suicide Missions'
 wordpress_id: 53
-categories:
-- Play Skills
+tags:
+- magic
 ---
 
 Was playing in a Ravnica Draft last night and drafted a hot agro Dimir deck, with such niceties as:

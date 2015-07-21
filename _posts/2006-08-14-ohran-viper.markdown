@@ -6,9 +6,9 @@ layout: post
 slug: ohran-viper
 title: Ohran Viper
 wordpress_id: 117
-categories:
-- Constructed
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 I'm not completely sure what the hype is all about. Yes the card does exactly what it says it does. Its just that trading with a creature in an agro matchup or drawing a few cards against control doesn't seam to be as good as everyone's saying.
@@ -81,7 +81,7 @@ The other side of the problem is that green always has lots of really good 3 dro
   21. Yavimaya Enchantress
 
 
-Ok so none of them are playable, what about that cost 1GG:
+Okay so none of them are playable, what about that cost 1GG:
 
 	
   1. Budoka Pupil

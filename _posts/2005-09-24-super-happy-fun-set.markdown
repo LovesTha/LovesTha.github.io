@@ -6,11 +6,13 @@ layout: post
 slug: super-happy-fun-set
 title: Super Happy Fun Set
 wordpress_id: 37
-categories:
-- Magic The Gathering
+tags:
+- magic
+- set-rav
+- prerelease
 ---
 
-FYI: Ravnica: City of Guilds is realy fun!
+FYI: Ravnica: City of Guilds is really fun!
 
 
 

@@ -6,8 +6,8 @@ layout: post
 slug: chitty-chitty-bang-bang-reliving-old-memories
 title: Chitty Chitty Bang Bang - Reliving Old Memories
 wordpress_id: 418
-categories:
-- Other
+tags:
+
 ---
 
 Last week I thought it would be a good idea to grab a copy of Chitty Chitty Bang Bang. It was one of the two videos we watched continually when visiting my Grandmother and Grandfather in East Kew. (The other one I've only ever known as 'that ewok movie' and possibly the name being Caravan, I always suspected that I was just thinking all small furry aliens were called ewoks and that it wasn't actually a star wars movie. But my imdb skills have made me believe the movie was called An Ewok Adventure: Caravan of Courage).

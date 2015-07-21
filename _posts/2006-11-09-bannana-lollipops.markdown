@@ -6,8 +6,8 @@ layout: post
 slug: bannana-lollipops
 title: Bannana Lollipops
 wordpress_id: 162
-categories:
-- Theology
+tags:
+- church
 ---
 
 Some people have their nickers in a twist about the recent scandal of [Ted Haggard](http://www.cnn.com/2006/US/11/05/haggard.allegations/index.html). I'm most interested with how his local church, the community that he supported with significant work I'm sure, is now supporting him.

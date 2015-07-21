@@ -6,10 +6,8 @@ layout: post
 slug: our-mate-hicksy
 title: Our Mate Hicksy
 wordpress_id: 209
-categories:
-- Current News
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
 ---
 
 I can't understand what type of evil David Hicks is meant to be, from a [current ABC article](http://www.abc.net.au/news/newsitems/200702/s1849401.htm):

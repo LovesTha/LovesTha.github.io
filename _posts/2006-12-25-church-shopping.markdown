@@ -6,9 +6,9 @@ layout: post
 slug: church-shopping
 title: Church Shopping
 wordpress_id: 187
-categories:
-- Philosophy &amp; Politics
-- Theology
+tags:
+- news
+- church
 ---
 
 At the 'recent' Forge Intensive someone, I forget who, mentioned that the concept of church shopping is one of the proofs of how consumeristic we all have become. Then he went on to mention that the concept of church shopping horrifies him (my words).
@@ -23,6 +23,6 @@ Oh look, now I'm church shopping, woe is me.
 
 I also believe church shopping is good as it lets people find where their gifts are needed, the laws of supply and demand seam to be ignored by to many within churches. Economics are only a bad thing when used to increase your own wealth.
 
-I can see where the speaker was coming from though, if you go church shopping with a consumeristic perspective you will end up finding the most cushy church that has welcoming people. While that isn't a bad thing, it mighn't be where God wants you. So go and look around for a church, don't just look at what services they offer you, try and see what they are doing and what they will offer for you to do.
+I can see where the speaker was coming from though, if you go church shopping with a consumeristic perspective you will end up finding the most cushy church that has welcoming people. While that isn't a bad thing, it mightn't be where God wants you. So go and look around for a church, don't just look at what services they offer you, try and see what they are doing and what they will offer for you to do.
 
 Sorry if this post was a bit wandering, I wrote it over many days.

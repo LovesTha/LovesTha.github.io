@@ -6,10 +6,10 @@ layout: post
 slug: the-apec-eleven
 title: The APEC Eleven
 wordpress_id: 298
-categories:
-- Other
-- Philosophy &amp; Politics
-- Politics
+tags:
+
+- news
+- news
 ---
 
 I was enthralled to hear that Eleven people working on a gag for the Chasers War on Everything/APEC had been arrested and charged in Sydney. They had set-up 3 black vehicles, 2 SUVs and a Limo, to look like a motorcade for the Canadian president. Their impersonation wasn't all that complex, some flags on front of the Limo and some security guards. Their 'Insecurity Passes" were very fake, ever second phrase on them declared their fakeness.

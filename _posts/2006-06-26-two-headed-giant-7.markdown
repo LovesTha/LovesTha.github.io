@@ -6,11 +6,10 @@ layout: post
 slug: two-headed-giant-7
 title: 'Two Headed Giant #7'
 wordpress_id: 91
-categories:
-- Limited
-- Magic The Gathering
-- Northern Magic
-- Northern Magic Event
+tags:
+- limited
+- magic
+- nm
 ---
 
 Here we are, already at the end of Ravnica block, time for one more Two Headed Giant with it though. Ravnica block does seam to have passed quicker than all the other blocks I can remember.

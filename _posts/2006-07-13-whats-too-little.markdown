@@ -6,8 +6,8 @@ layout: post
 slug: whats-too-little
 title: What's Too Little
 wordpress_id: 98
-categories:
-- Theology
+tags:
+- church
 ---
 
 Darryl Gardner told us at the intensive about a 'thing' he and his wife have been doing for a while. They call it Beach Curry because they serve curry and live at the beach. So one night a week they serve curry. No agenda, no goals, just curry.

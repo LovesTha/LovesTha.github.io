@@ -6,14 +6,14 @@ layout: post
 slug: pro-tour-kuala-lumpur-acceptance
 title: Pro Tour Kuala Lumpur - Acceptance
 wordpress_id: 318
-categories:
+tags:
 - India
-- Judging
-- Magic The Gathering
+- judging
+- magic
 tags:
 - DCI
 - India
-- Judging
+- judging
 - KL
 - Kuala Lumpur
 - Pro Tour

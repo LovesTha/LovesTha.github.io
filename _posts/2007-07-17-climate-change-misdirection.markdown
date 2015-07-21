@@ -6,9 +6,9 @@ layout: post
 slug: climate-change-misdirection
 title: Climate Change Misdirection
 wordpress_id: 283
-categories:
-- Philosophy &amp; Politics
-- Politics
+tags:
+- news
+- news
 ---
 
 John Howard has announced that the government will spend some money on reducing pollution:

@@ -6,10 +6,9 @@ layout: post
 slug: scraping-the-barrel
 title: Scraping the Barrel
 wordpress_id: 122
-categories:
-- Constructed
-- Deck Building
-- Magic The Gathering
+tags:
+- constructed
+- magic
 ---
 
 One of the guys who comes along to my Two Headed Giant tournaments (need I remind you that the next one will have a DCI foil Vampiric Tutor up to be won) asked me for my thoughts on how to create a reanimation deck. So naturally I'm posting my answer on my blog :) Talk about killing two birds with one stone.<!-- more -->
@@ -41,7 +40,7 @@ Blue on the other hand, blue does everything. It helps us get fatties into the g
 To build deck you'll need:
 12 counter spells, at least 6 of the them need to be hard counter spells, and at least 6 of them need to cost 2 mana or less.
 
-8 draw spells definitly including Thirst for Knowledge or Compulsive research, depending on the format your playing.
+8 draw spells definitely including Thirst for Knowledge or Compulsive research, depending on the format your playing.
 
 then we needs about 5 or 6 creatures that are really scary in play, they need to be hard to remove and have evasion, really you have lots of options here.
 

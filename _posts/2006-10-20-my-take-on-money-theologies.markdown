@@ -6,8 +6,8 @@ layout: post
 slug: my-take-on-money-theologies
 title: My take on Money Theologies
 wordpress_id: 146
-categories:
-- Theology
+tags:
+- church
 ---
 
 Bad Prosperity Theology:

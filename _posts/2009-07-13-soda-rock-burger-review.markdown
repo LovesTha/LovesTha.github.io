@@ -6,7 +6,7 @@ layout: post
 slug: soda-rock-burger-review
 title: Soda Rock - Burger Review
 wordpress_id: 484
-categories:
+tags:
 - Burgers
 ---
 
