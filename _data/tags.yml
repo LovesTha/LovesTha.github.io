@@ -1,3 +1,12 @@
+weight:
+  name: Weight
+
+diet:
+  name: Dieting Tips
+
+Health:
+  name: Healthy Living
+
 grammar:
   name: Grammar
 
