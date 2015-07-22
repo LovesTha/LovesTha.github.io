@@ -2,8 +2,8 @@
 layout: post
 title: Rumblings Around Crimes	
 slug: rumblings
-date:   2015-07-21 21:30 +1000
-tags: [magic, news]
+date:   2015-07-22 18:15 +1000
+tags: [magic, news, rape]
 ---
 
 So recently a *thing* happened. Predictably, the community reacted badly but
@@ -44,15 +44,15 @@ disqualified from the tournament, some receive a sternly worded warning
 letter and others receiving lengthy suspensions from the game.
 
 Following the twitter storm, there was a small but vocal group of people
-hassling WotC for a response about allowing this player to play in large
+hassling Wizards of the Coast for a response about allowing this player to play in large
 events. As his crime was violent towards a woman there were a lot of
 people clamouring for his scalp and they were poking a hot topic right
-now. As a community in whole we are trying pretty hard to make Magic a more
+now. As a community we are trying pretty hard to make Magic a more
 welcoming community for everyone. Even those people who aren't young
 white men. Apparently some of those people also have money and deserve to be
 able to spend that money on enjoying themselves.
 
-This all lead to the most recent update to the official list of suspended
+This all led to the most recent update to the official list of suspended
 players including this criminal. He was given what is effectively a life ban. A
 friend of his forwarded to Reddit a message explaining how little consultation
 happened and that he is going to accept the punishment and look for other
@@ -71,7 +71,7 @@ only way he can try to sway the public opinion towards letting him play.
 
 ## The Lynch Mob
 
-Fear of sexual predictors is a very strong emotion. That is a very reasonable
+Fear of sexual preditors is a very strong emotion. That is a very reasonable
 thing, it's a despicable crime and those who do it have significant rates of
 recidivism.
 
@@ -81,7 +81,6 @@ pushed with the best interests of victims and the general public in mind.
 Registers and restrictions on where they live is common.
 
 Coupled with the Magic communities push to be more inclusive, this is a really
-
 bad time to have attention drawn to a criminal history that is characterised by
 how it attacks one of the minorities that magic has lots of trouble attracting.
 
@@ -97,27 +96,33 @@ ban, they don't think there is sufficient difference between shaming people for
 wearing their pants badly at tournaments and shaming someone for a crime they
 have served their time for.
 
-Personally I think that as a Christian I'm to love everyone. Throwing people
-out of all future events because of a criminal past isn't showing love to them.
+Personally I believe that as a Christian I'm to love everyone. Throwing people
+out of all future events because of a criminal past isn't showing them love.
 But rightly everyone should bring up the question of the safety of every other
 player, spectator and worker at these events. That is a valid point, and if
 people were known for responding sensibly to fearful things, that causes me to
 be happy that people bring up his conviction and educate people about what he
 has shown he was capable of doing.
 
-*deleted paragraph I talk about in [Footnote 1](#fn1)*
+*Deleted paragraph I talk about in [Footnote 1](#fn1)*
 
 In light of there not being anything we should do differently around a rapist
 compared to everyone else, I can't think of a good reason for the public to be
 reminded of anyone's crimes.
 
-## Wizards' Lawyers
+## Wizards of the Coast's Lawyers
 
 This is the group that I suspect ultimately are winning this *thing*. The risk
 of losing a law suit over having banned a player for no reason (not that this
 is no reason, I'm just taking the extreme position) is a much smaller risk
 than a law suit arising from having a convicted felon committing a similar
-offence at a Magic event.
+offence at a Magic event. Their legal documents about participation in events
+clearly state that they can refuse entry for any reason. This is a very common
+clause to find, I presume because it grants them a great legal position. Also 
+the damages would be quiet small, they would have only barred someone from a 
+hobby. 
+
+The damage and culpability in the other case are much much greater.
 
 That is sufficient reason without needing to look at factors of negative
 publicity this *thing* is generating or any other factors weighing into the
