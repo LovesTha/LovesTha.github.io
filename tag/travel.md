@@ -1,6 +1,6 @@
 ---
 layout: blog_by_tag
-tag: travek
+tag: travel
 permalink: /blog/tag/travel/
 ---
 
