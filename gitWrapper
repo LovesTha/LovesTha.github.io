@@ -1,0 +1,19 @@
+#!/bin/bash
+set -e
+
+cmd=$1
+shift 1
+#echo "Gareth's git wrapper"
+if [ "$cmd" = "" ]; then
+  /usr/bin/git
+elif [ $cmd = "log" ]; then
+  /usr/bin/git log --abbrev-commit "$@"
+elif [ $cmd = "branch" ]; then
+  /usr/bin/git branch -v "$@"
+elif [ $cmd = "remote" ]; then
+  /usr/bin/git remote -v "$@"
+elif [ $cmd = "merge" ]; then
+  /usr/bin/git merge -v --no-ff "$@"
+else
+  /usr/bin/git "$cmd" "$@"
+fi
