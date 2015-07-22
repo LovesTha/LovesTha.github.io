@@ -62,10 +62,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
-        "layout",
-        "syntax-highlighting"
+        "layout"
+//        "syntax-highlighting" */
 ;
-@import url("pygment_highlights.css");
+// @import url("pygment_highlights.css"); */
 
 /* --- General --- */
 
