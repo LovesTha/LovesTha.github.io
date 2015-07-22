@@ -7,10 +7,10 @@ tags: [magic, news]
 ---
 
 So recently a *thing* happened. Predictably, the community reacted badly but
-I think that was sort of expected. I'm unsure how avoidable it was, and
-as I'm not a lawyer, I'm not sure how valuable my commentary will be. But I
-feel I need to at least write about it. The sanity in publishing it is much
-easier to question, but I've never been shy of putting my foot in my mouth.
+I think that was expected. I'm unsure how avoidable it was, and as I'm not a 
+lawyer, I'm not sure how valuable my commentary will be. But I feel I need to 
+at least write about it. The sanity in publishing it is much easier to question,
+but I've never been shy of putting my foot in my mouth.
 
 # The Situation
 
@@ -23,11 +23,11 @@ twitter with outrage.
 Later, the felon posted to Reddit a brief summary of his life since the
 conviction, he wasn't trying to diminish what he'd done, just show that it
 wasn't the start of a trend in his behaviour. It showed that he was working
-at being both a good human and to bettering of society.
+at being both a good human and to the betterment of society.
 
 He didn't go into details about the crime it self, his early plea bargain
 coupled with the nature of his crime to give him a short immediate
-custodial sentence (although with work release) with a much more significant
+custodial sentence (with work release) with a much more significant
 one delayed. He has passed his bar entrance exam recently and when applying to
 become a member of the bar he only had to declare two minor traffic offences
 in addition to the significant crime that caused this *thing*. While the bar
@@ -37,8 +37,8 @@ decision till they have had more time to think about the situation.
 Please don't take anything written here to indicate that I think his crime was
 not really a crime. Not all crimes are equal though, (sane) laws agree and
 allow judges significant discretion in the punishments they can hand out for
-the same basic crime. In my corner of the world, Murder can get from life all
-the way down to a minor slap on the wrist (comparatively). In the lesser legal
+the same basic crime. In my corner of the world, murder can get from life all
+the way down to a minor slap on the wrist (comparatively). In the lesser non-legal
 court of Magic, cheaters get very different punishments, while they all get
 disqualified from the tournament, some receive a sternly worded warning
 letter and others receiving lengthy suspensions from the game.
