@@ -111,7 +111,7 @@ I don't have much experience with the deck to start tinkering but the new origin
 
 ## Animist Awakening
 
-[![Animist Awakening Image][3][4]
+[![Animist Awakening Image][3]][4]
 
 This one I'm not to sure about, this deck does love getting a lot of lands into 
 play but I'm not sure this is the greatest way to do it. Having a land density 
@@ -120,8 +120,11 @@ I expect it might not make the cut in the long run.
 
 ## Evolutionary Leap
 
-[![Evolutionary Leap Image][5][6]
+[![Evolutionary Leap Image][5]][6]
 
+## Elemental Bond 
+
+[![Elemental Bond Image][7]][8]
 
 [1]: https://www.facebook.com/events/1024681384211140/
 [2]: http://deckbox.org/sets/960900
@@ -129,3 +132,5 @@ I expect it might not make the cut in the long run.
 [4]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398437
 [5]: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=398573&type=card (View card on Gatherer)
 [6]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398573
+[7]: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=398406&type=card (View card on Gatherer)
+[8]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398406
