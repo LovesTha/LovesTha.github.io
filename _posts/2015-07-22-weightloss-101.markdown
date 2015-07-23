@@ -1,14 +1,83 @@
 ---
 author: Gareth Pye
 comments: true
-date: 2015-07-2 22:52:00 +1000
+date: 2015-07-23 22:12:00 +1000
 layout: post
-slug: weightloss-101
-title: Weightloss 101
+slug: weight-loss-101
+title: Weight Loss 101
 tags:
 - weight
 - diet
 - heath
 ---
 
+I'm not trying to claim that I'm an awesome font of wisdom about dieting but I 
+have managed to lose a reasonably large amount of weight these last two years.
+24kg in 26 months is fairly impressive to most people.
 
+I don't understand why all of the dieting companies always harp on about people
+who have lost 6kg in 6 weeks or 7kg in 7 weeks. I know why they aren't advertising
+the person who lost 23k in 4 weeks, it isn't good to set falsely high expectations
+and there is probably some regulation about promising too high. It wouldn't be
+in the public interest to have such companies trying to out do each other with
+outrageous claims.
+
+But why don't they give us some real weight loss stories? A total loss of 7kg is
+great for people who want to look better in their bikini. For those of us who 
+really need to serious weight 7kg is a bit of a joke. That's a nice first month
+or two but it needs to be backed up by many many more months the same. Where are
+their adverts about the person who lost 52kg in a year?
+
+So let me talk about the various strategies I've used to get to where I am.
+
+# Atkins Low Carb Diet
+
+Hearing all the hype I decided to jump in and try out it out. I tried to avoid
+eating anything that was high in carbs. Bacon and egg omelette for breakfast.
+Salad for lunch. Meat with leafy veggies for dinner.
+
+Starting out like this lost me 4kg in 2 days, 10kg in 45 days and then I gave it
+up.
+
+# Tim Ferris Slow Carb Diet
+
+Having read Tim Ferris's book, [The Four Hour Body][1], I decided to have a go
+at his version of *low carb* diet. It looked much the same as the previous
+attempt except I cut the dairy out. Oh, and I really enjoyed his cheat day
+every week.
+
+The first week I lost 6kg, another 2kg the next week, a single kilo the next
+two weeks. It kept going at a that pace with ups and downs for a while. 
+
+I couldn't keep the diet up. It was a lot of work. Then the weight started
+climbing back up.
+
+# Exercise
+
+This whole time I tried to ride more and more. If we ignore the months where
+I didn't ride at all, this was a roaring success. When I'm riding consistently
+the weight is nice and level, if I'm riding while on one of the diets the
+kilos fall off. If I'm not doing either they slowly creep back on.
+
+If I go on holiday to the USA the pounds really pile on fast. Which leads me 
+to my current trend
+
+# Eat Less
+
+I'm eating less. Not over filling my plate. Not going for seconds. Not having
+four different snacks each day. Not stuffing the lunch box full. Ordering two
+sushi rolls not three.
+
+It is a simple idea.
+
+It also works.
+
+The trick is figuring out why you eat too much. Mine appeared to be boredom.
+Luckily keeping busy is pretty easy these days.
+
+That said, [Tim Ferris's Four Hour Body][1] is an interesting read. It 
+introduced me to many new ideas, it's a bit extreme though.
+
+
+
+[1]: http://www.amazon.com/gp/product/030746363X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=030746363X&linkCode=as2&tag=rocpapdyn-20&linkId=YORIXON3DRVC4WQO
