@@ -107,5 +107,25 @@ The other occasion was a bunch of games against my brother in law, but the decks
 were unfun to play against each other so we'll just ignore those games. Really
 I don't have much experience with the deck to start tinkering but the new origins
 
+# Cards To Add
+
+## Animist Awakening
+
+[![Animist Awakening Image][3][4]
+
+This one I'm not to sure about, this deck does love getting a lot of lands into 
+play but I'm not sure this is the greatest way to do it. Having a land density 
+of 43% makes it pretty good though. I'm going to give it a run for a while, but
+I expect it might not make the cut in the long run.
+
+## Evolutionary Leap
+
+[![Evolutionary Leap Image][5][6]
+
+
 [1]: https://www.facebook.com/events/1024681384211140/
 [2]: http://deckbox.org/sets/960900
+[3]: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=398437&type=card (View card on Gatherer)
+[4]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398437
+[5]: http://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=398573&type=card (View card on Gatherer)
+[6]: http://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=398573
