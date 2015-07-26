@@ -62,84 +62,84 @@ running now:
 [Titania, Protector of Argoth][2]:
 
 22 Forest  
-1 Bant Panorama  
-1 Crystal Vein  
-1 Encroaching Wastes  
-1 Evolving Wilds  
-1 Havenwood Battleground  
-1 Hickory Woodlot  
-1 Jund Panorama  
-1 Lotus Vale  
-1 Myriad Landscape  
-1 Naya Panorama  
-1 Oran-Rief, the Vastwood  
-1 Rath's Edge  
-1 Scorched Ruins  
-1 Tectonic Edge  
-1 Terminal Moraine  
-1 Terramorphic Expanse  
-1 Treetop Village  
-1 Windswept Heath  
-1 Wooded Foothills  
+Bant Panorama  
+Crystal Vein  
+Encroaching Wastes  
+Evolving Wilds  
+Havenwood Battleground  
+Hickory Woodlot  
+Jund Panorama  
+Lotus Vale  
+Myriad Landscape  
+Naya Panorama  
+Oran-Rief, the Vastwood  
+Rath's Edge  
+Scorched Ruins  
+Tectonic Edge  
+Terminal Moraine  
+Terramorphic Expanse  
+Treetop Village  
+Windswept Heath  
+Wooded Foothills  
 
-1 Ambush Commander  
-1 Avenger of Zendikar  
-1 Bane of Progress  
-1 Beastmaster Ascension  
-1 Cartographer  
-1 Concordant Crossroads  
-1 Conjurer's Closet  
-1 Craterhoof Behemoth  
-1 Crucible of Worlds  
-1 Doubling Season  
-1 Edge of Autumn  
-1 Elemental Bond  
-1 Erratic Portal  
-1 Eternal Witness  
-1 Explosive Vegetation  
-1 Genju of the Cedars  
-1 Greater Good  
-1 Green Sun's Zenith  
-1 Groundskeeper  
-1 Harrow  
-1 Hornet Queen  
-1 Hydra Broodmaster  
-1 Into the Wilds  
-1 Journey of Discovery  
-1 Kamahl, Fist of Krosa  
-1 Krosan Grip  
-1 Krosan Reclamation  
-1 Life from the Loam  
-1 Mighty Emergence  
-1 Mwonvuli Acid-Moss  
-1 Nature's Spiral  
-1 Nissa's Expedition  
-1 Oracle of Mul Daya  
-1 Overlaid Terrain  
-1 Parallel Lives  
-1 Primeval Bounty  
-1 Rain of Thorns  
-1 Rampaging Baloths  
-1 Realm Seekers  
-1 Reap and Sow  
-1 Restore  
-1 Scapeshift  
-1 Seer's Sundial  
-1 Song of the Dryads  
-1 Sporemound  
-1 Squirrel Wrangler  
-1 Stocking Tiger  
-1 Sudden Reclamation  
-1 Survival of the Fittest  
-1 Sustenance  
-1 Sylvan Safekeeper  
-1 Tempt with Discovery  
-1 Terastodon  
-1 Tilling Treefolk  
-1 Tooth and Nail  
-1 Vastwood Zendikon  
-1 Wave of Vitriol  
-1 Wurmcoil Engine
+Ambush Commander  
+Avenger of Zendikar  
+Bane of Progress  
+Beastmaster Ascension  
+Cartographer  
+Concordant Crossroads  
+Conjurer's Closet  
+Craterhoof Behemoth  
+Crucible of Worlds  
+Doubling Season  
+Edge of Autumn  
+Elemental Bond  
+Erratic Portal  
+Eternal Witness  
+Explosive Vegetation  
+Genju of the Cedars  
+Greater Good  
+Green Sun's Zenith  
+Groundskeeper  
+Harrow  
+Hornet Queen  
+Hydra Broodmaster  
+Into the Wilds  
+Journey of Discovery  
+Kamahl, Fist of Krosa  
+Krosan Grip  
+Krosan Reclamation  
+Life from the Loam  
+Mighty Emergence  
+Mwonvuli Acid-Moss  
+Nature's Spiral  
+Nissa's Expedition  
+Oracle of Mul Daya  
+Overlaid Terrain  
+Parallel Lives  
+Primeval Bounty  
+Rain of Thorns  
+Rampaging Baloths  
+Realm Seekers  
+Reap and Sow  
+Restore  
+Scapeshift  
+Seer's Sundial  
+Song of the Dryads  
+Sporemound  
+Squirrel Wrangler  
+Stocking Tiger  
+Sudden Reclamation  
+Survival of the Fittest  
+Sustenance  
+Sylvan Safekeeper  
+Tempt with Discovery  
+Terastodon  
+Tilling Treefolk  
+Tooth and Nail  
+Vastwood Zendikon  
+Wave of Vitriol  
+Wurmcoil Engine
 
 [1]: https://www.facebook.com/events/1024681384211140/
 [2]: http://deckbox.org/sets/960900
