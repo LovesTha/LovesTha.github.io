@@ -71,7 +71,7 @@ only way he can try to sway the public opinion towards letting him play.
 
 ## The Lynch Mob
 
-Fear of sexual preditors is a very strong emotion. That is a very reasonable
+Fear of sexual predators is a very strong emotion. That is a very reasonable
 thing, it's a despicable crime and those who do it have significant rates of
 recidivism.
 
