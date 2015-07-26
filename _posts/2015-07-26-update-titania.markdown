@@ -2,7 +2,7 @@
 layout: post
 title: Updating Titania, Pillager of Land - Commander Deck Tech
 slug: updating-titania
-date:   2015-07-23 18:15 +1000
+date:   2015-07-26 21:15 +1000
 tags: [magic, edh]
 ---
 
