@@ -1,9 +1,11 @@
 // Shorten the navbar after scrolling a little bit down
 $(window).scroll(function() {
-    if ($(".navbar").offset().top > 50) {
+    if ($(".navbar").offset().top > 150) {
         $(".navbar").addClass("top-nav-short");
+        $(".affix").addClass("affix-short");
     } else {
         $(".navbar").removeClass("top-nav-short");
+        $(".affix").removeClass("affix-short");
     }
 });
 

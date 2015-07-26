@@ -57,8 +57,6 @@ $grey-color-dark:  darken($grey-color, 25%);
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
@@ -195,6 +193,16 @@ img::-moz-selection {
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
   color: $color-primary-2;
+}
+
+.affix {
+  -webkit-transition: top .5s ease-in-out;
+  -moz-transition: top .5s ease-in-out;
+  transition: top .5s ease-in-out;
+}
+
+.affix-short {
+  top: 50px;
 }
 
 @media only screen and (min-width: 768px) {
