@@ -1,11 +1,35 @@
-bbbg:
-  name: Badass Burgers & Board Games
+magic:
+  name: Magic the Gathering
+
+limited:
+  name: Limited (Draft Or Sealed)
+
+standard:
+  name: Standard Constructed
+
+edh:
+  name: Commander (Formerly EDH)
+
+highlander:
+  name: Australian 7 Point Highlander
+
+meta:
+  name: Site News
+
+burger:
+  name: Burgers
 
 boardgame:
   name: Boardgames
 
 weight:
   name: Weight
+
+cycling:
+  name: Cycling
+
+bbbg:
+  name: Badass Burgers & Board Games
 
 diet:
   name: Dieting Tips
@@ -27,9 +51,6 @@ sport:
 
 set-tsp:
   name: Timespiral
-
-burger:
-  name: Burgers
 
 dreamblade:
   name: DreamBlade
@@ -79,32 +100,11 @@ news:
 terrorism:
   name: Terrorism & Other People We Don't Like
 
-cycling:
-  name: Cycling
-
 rain:
   name: Weather - Rain
 
 rape:
   name: Rape
-
-limited:
-  name: Limited (Draft Or Sealed)
-
-standard:
-  name: Standard Constructed
-
-edh:
-  name: Commander (Formerly EDH)
-
-highlander:
-  name: Australian 7 Point Highlander
-
-magic:
-  name: Magic the Gathering
-
-meta:
-  name: Site News
 
 prerelease:
   name: Magic the Gathering Prereleases
