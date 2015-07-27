@@ -200,9 +200,9 @@ img::-moz-selection {
 }
 
 .affix {
-  -webkit-transition: top .5s ease-in-out;
-  -moz-transition: top .5s ease-in-out;
-  transition: top .5s ease-in-out;
+  -webkit-transition: position .5s ease-in-out;
+  -moz-transition: position .5s ease-in-out;
+  transition: position .5s ease-in-out;
 }
 
 .affix.affix-short {
