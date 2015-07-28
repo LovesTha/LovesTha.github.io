@@ -120,6 +120,11 @@ article {
   text-justify: inter-word;
 }
 
+ul {
+  list-style-type: none;
+  margin-top: -30px;
+}
+
 .main-content {
   padding-top: 80px;
   border-top-width: 2px;
@@ -203,6 +208,8 @@ img::-moz-selection {
   -webkit-transition: position .5s ease-in-out;
   -moz-transition: position .5s ease-in-out;
   transition: position .5s ease-in-out;
+  height: 100%;
+  overflow-y: auto;
 }
 
 .affix.affix-short {
