@@ -3,7 +3,7 @@ layout: post
 title: NLGR Commander League - Week 1
 subtitle: Apostle, Protector & Tim
 slug: commander-league
-date:   2015-07-29 21:15 +1000
+date:   2015-07-30 13:50 +1000
 tags: [magic, edh]
 ---
 
