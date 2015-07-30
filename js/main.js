@@ -2,10 +2,10 @@
 $(window).scroll(function() {
     if ($(".navbar").offset().top > 300) {
         $(".navbar").addClass("top-nav-short");
-        $(".affix").addClass("affix-short");
+//        $(".affix").addClass("affix-short");
     } else {
         $(".navbar").removeClass("top-nav-short");
-        $(".affix").removeClass("affix-short");
+//        $(".affix").removeClass("affix-short");
     }
 });
 
