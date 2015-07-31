@@ -17,7 +17,7 @@ when the real issue is an error in a card name.
 
 What I've done is take the complete oracle text, remove punctuation and generate
 a list of the unique words and added them to an aspell personal dictionary. You
-can download this dictionary here: [.aspell.en.pws][1]. If you are a linux user
+can download this dictionary here: [.aspell.en.pws][1]. If you are a Linux user
 just placing that in your home directory will make your spell checking much less
 painful.
 
