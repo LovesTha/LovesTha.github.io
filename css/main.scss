@@ -120,9 +120,13 @@ article {
   text-justify: inter-word;
 }
 
-ul {
+ul.sidebar {
   list-style-type: none;
   margin-top: -30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 90%;
+  height: 60%;
 }
 
 .main-content {
@@ -204,18 +208,6 @@ img::-moz-selection {
   color: $color-primary-2;
 }
 
-.affix {
-  -webkit-transition: position .5s ease-in-out;
-  -moz-transition: position .5s ease-in-out;
-  transition: position .5s ease-in-out;
-  height: 100%;
-  overflow-y: auto;
-}
-
-.affix.affix-short {
-  top: 50px;
-}
-
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     padding: 7px 0;
@@ -227,6 +219,20 @@ img::-moz-selection {
   .navbar-custom.top-nav-short {
     height: 50px;
     padding: 0;
+  }
+
+  .affix {
+    -webkit-transition: position .5s ease-in-out;
+    -moz-transition: position .5s ease-in-out;
+    transition: position .5s ease-in-out;
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+  }
+
+  .affix.affix-short {
+    position: fixed;
+    top: 50px;
   }
 }
 
