@@ -6,7 +6,7 @@ layout: default
     <div class="col-lg-8 col-md-9 ">
 <header id="post-header">
     <h1 id="post-title">{{ site.data.tags[page.tag].name }}</h1>
-    <h4 id="post-subtitle">Articles by tag</h4>
+    <h4 id="post-subtitle">All articles tagged with {{ site.data.tags[page.tag].name }}</h4>
 </header>
 
 <div id="post-content">
@@ -39,7 +39,7 @@ layout: default
     {% endif %}
 </div>
 </div>
-    <div class="col-lg-3 col-lg-offset-1 col-md-2 col-md-offset-1">
+    <div class="col-lg-4 col-md-3">
         {% include sidebar.html %}                                                                                                                     
     </div>
 </div>
