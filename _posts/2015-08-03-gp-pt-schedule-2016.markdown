@@ -1,0 +1,86 @@
+---
+layout: post
+title: Magic Pro Tour and Grand Prix Schedule 2016
+subtitle: Melbourne, Sydney & Sydney!
+slug: gp-pt-2016-schedule
+date: 2015-08-03 10:12 +1000
+tags: [magic]
+---
+
+As is common the Pro and Grand Prix events for next year were [announced][1] 
+during the top 8 play this morning. There were a few surprises in the 
+announcement: less events, GP & PT in Sydney, and Modern for the GP in 
+Melbourne.
+
+# Less GPs
+
+Apparently the attendance at some GPs was below what they were hoping for,
+particularly at ones that were sharing the date with other locations. So in
+trying to reduce that effect they have less weekends to put GPs on and have
+reduced the number of GPs.
+
+Personally I can't recall hearing about a GP this year that was shockingly low
+in attendance. The European Modern Master GP surprised me in how slowly it sold
+and that it didn't sell out but it still had a healthy crowd in attendance.
+
+It isn't an earth shattering blow to the program, but it isn't great to hear 
+about any shrink in a program.
+
+# GP Sydney
+
+Apparently we are going to have a GP in Sydney every year, October 8-9 next year,
+and it will always be Sealed. Not that Sydney doesn't deserve one every year, but
+the flow on effects for what it means for the other cities in the region (mostly 
+Melbourne but also Brisbane) is that they have them less often. I can see why this
+is the case for some good reasons (Sydney does get great numbers) and some bad (is
+it because the TO lives in Sydney, I hope not). Either way I enjoy a GP in Sydney
+more than ones in Melbourne a travelling to GPs makes them more fun for me and I 
+can easily cover costs on Sydney GPs.
+
+# GP Melbourne
+
+Melbourne is again going to have a GP next year, March 5-6. Having it's first Modern GP will
+be interesting but I trust it will be a lot better than the last time we had an
+Extended GP. That was so small that even I nearly made day 2 (4-3 would have done
+it but [I only got 3-4][2]). Modern might hurt it from breaking the Australian 
+attendance record, or it could help it with more players travelling from South-
+East Asia.
+
+This is pretty much all expected and good news.
+
+# PT Sydney
+
+I'd heard some rumours about this, it's hard to prevent the venues from leaking 
+some information about events booked with them, so it wasn't a surprise. It will 
+be held on August 5-7 and be the usual Standard/Draft format. While it is quite 
+nice to be able to watch it during day light hours I wonder how important this
+will really be. 
+
+I guess their might be a small bump in players due to the event getting a little 
+bit of coverage on TV and in the newspapers but for all of us who already play
+what does it mean?
+
+The few lucky players who'll get to play at a PT in their home country are going 
+to find it easier to find some friends to stay on their couch and they wont have
+jet lag to battle. That is balanced with them not getting to tack a holiday in 
+some  exciting country onto to the event. That isn't a big deal either way so I'll
+call that a wash.
+
+The few lucky judges who'll get to work the event will really enjoy it, but there
+aren't that many local judges who are eligible to work the event. A judge needs to
+be level 3 these days to work at a Pro Tour. Those lucky few will get to make a 
+small profit on the event I expect but they are a small minority. So that is a
+nice thing for the Australian community.
+
+There will be a few players who choose to go along and rail-bird. They'll get to try 
+and watch their favourite pros do their thing. When they get bored they'll play a
+draft and hope that some big names who have been dropped also sign up. Unless getting 
+that pro to sign your cards is a huge deal this sounds strictly worse than inviting a
+few friends over to watch the online stream.
+
+Is there some effect of having a PT in Sydney that I've missed? Is there some reason
+I should be excited?
+
+
+[1]: http://magic.wizards.com/PTOriginsOPAnnouncement
+[2]: /2005-11-07-gp-melbourne-mini-report/
