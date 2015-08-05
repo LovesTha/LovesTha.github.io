@@ -3,7 +3,7 @@ layout: post
 title: What Do You Want To See?
 subtitle: Help shape your favourite blog
 slug: what-do-you-want-to-see
-date: 2015-08-02 22:50 +1000
+date: 2015-08-05 10:50 +1000
 tags: [meta]
 ---
 
