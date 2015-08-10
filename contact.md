@@ -17,7 +17,7 @@ Facebook will be quickest for replies on the weekend, but I may just not see you
 ## [twitter][3]
 
 
-[1]: gareth+rpd@cerberos.id.au
+[1]: mailto:gareth+rpd@cerberos.id.au
 [2]: https://www.facebook.com/LovesTha
 [3]: https://twitter.com/LovesTha
 
