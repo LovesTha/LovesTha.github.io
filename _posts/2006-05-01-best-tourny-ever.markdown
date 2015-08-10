@@ -8,7 +8,7 @@ title: Best. Tourny. Ever.
 wordpress_id: 75
 tags:
 - limited
-- set-diss
+- set-dis
 - magic
 ---
 
