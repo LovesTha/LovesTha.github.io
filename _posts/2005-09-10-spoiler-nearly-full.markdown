@@ -45,7 +45,7 @@ Enchantment - Aura (C)
 
 Enchant Creature  
 
-When Fist of Ironwood comes into play, put 2 1/1 green saproling creature tokens into play.  
+When Fist of Ironwood comes into play, put 2 1/1 green Saproling creature tokens into play.  
 
 Enchanted creature has trample
 

@@ -21,7 +21,7 @@ Artifact (c)
 
 1, T: Add BR to your mana pool
 
-I mean there strictly better than the talismans except when you want to only produce 1 mana (which is rare, and when you do these will just cause 1 pain, which is still better than the talismans).  These also don't suffer from the problems of the filter lands, just the normal problems of a mana accelerant.
+I mean there strictly better than the talismans except when you want to only produce 1 mana (which is rare, and when you do these will just cause 1 pain, which is still better than the talismans).  These also don't suffer from the problems of the filter lands, just the normal problems of a mana accelerator.
 
 
 

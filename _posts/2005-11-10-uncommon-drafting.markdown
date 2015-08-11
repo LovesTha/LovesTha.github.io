@@ -18,7 +18,7 @@ Putrefy
 Darkblast
 Carrion Howler
 Spectral Searchlight
-Nullmage Shephard
+Nullmage Shepherd
 Ethereal Usher
 Netherborn Phalanx
 Wojek Apothecary
