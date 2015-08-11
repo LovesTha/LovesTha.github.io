@@ -28,3 +28,8 @@ two most classic examples of those to categories would be chess and solitaire
 respectively, the common more contemporary ones would be Words with Friends and Candy-
 Crush Saga. Some of the least intuitive ones would be trying to save more money than
 your partner and trying to pick the shortest line at the supermarket.
+
+*update: [second question posted here][1]*
+
+
+[1]: /2015-08-11-second-question-for-a-better-life
