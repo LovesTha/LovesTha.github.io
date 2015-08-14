@@ -23,7 +23,7 @@ finding people who played but finding people who wanted to trade. For a trade
 to happen you need to find someone who has a card you want, then they need to
 have things they want from you and finally the two of you have to agree on 
 values enough to agree to trade and be able to find a trade that both find 
-adventageous. Or at least not feel like they are being robbed.
+advantageous. Or at least not feel like they are being robbed.
 
 This can be pretty hard to do, personally there are about 15 cards I'm actively
 looking for and another thousand I'd be happy to acquire as of today. But out of
@@ -31,13 +31,13 @@ the 15 thousand odd cards printed that makes it unlikely that I want anything
 out of the hundred odd cards most people carry in a trade folder. So once the
 Internet became popular people started trading on it. 
 
-The most recent incarnation of this is the numerous facebook groups dedicated to 
+The most recent incarnation of this is the numerous Facebook groups dedicated to 
 trading Magic cards. There are probably thousands of such groups, most of them 
 split up in different geographical regions but then there are several global ones 
 for the trading of harder to find items where shipping internationally isn't a 
 big concern.
 
-There are even some resonable sofisticated websites dedicated to helping 
+There are even some reasonably sophisticated websites dedicated to helping 
 facilitate trades. Up until recently I'd been using [Deck Box][3] to do this. 
 They let you populate their database with your collection and wants list and then
 generate a list of users who have matching collections and wants and then you get
@@ -47,27 +47,27 @@ manually to find someone who would make a good trade with you.
 [Puca Trade][1] takes it to the next level by abstracting the trade process a bit
 more. Instead of matching people who have mutual haves and wants it uses a 
 currency to try and facilitate trading. Now you send cards to people who want 
-them to earn *puca points* and people send you cards to earn *puca points* from 
+them to earn *Puca points* and people send you cards to earn *Puca points* from 
 you.
 
-In the same way that the concept of currency accelerated comerce so that we can
+In the same way that the concept of currency accelerated commerce so that we can
 have lots of people employed in things that aren't directly tied to food 
-creation *puca points* are accelerating trade in Magic cards.
+creation *Puca points* are accelerating trade in Magic cards.
 
 Now it is easy to trade lots of small cards into large cards without needing to 
 grind out many intermediate steps or lose 60% of value by selling and buying 
-from stores. Even stors are using to to efficiently move stock that doesn't have 
+from stores. Even stores are using to to efficiently move stock that doesn't have 
 a strong local demand and get stock that will sell quickly.
 
 So if I've already sold you run on over and [create an account][1], but be careful
-those first few hundred *puca points* you get for signing up (and the 100 I'll get
-if you sign up via a link on this page) can dissapear quickly once you add cards
+those first few hundred *Puca points* you get for signing up (and the 100 I'll get
+if you sign up via a link on this page) can Disappear quickly once you add cards
 to you wants list.
 
-Otherwise subscribe to the [rss feed][4] to follow along to my coming series on 
+Otherwise subscribe to the [RSS feed][4] to follow along to my coming series on 
 [Puca Trade][1]
 
 [1]: https://pucatrade.com/invite/gift/65746
 [2]: https://pucatrade.com/
 [3]: https://deckbox.org/
-[4]: /feed.xml
+[4]: /feed.XML
