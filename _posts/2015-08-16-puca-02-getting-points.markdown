@@ -7,11 +7,11 @@ date: 2015-08-16 17:12 +1000
 tags: [magic, puca]
 ---
 
-Now that you've decided to sign up to [Puca Trade][1] you want people to send
-you cards. The problem is you need PucaPoints before people will send you cards.
-People have levelled complaints at [Puca Trade][1] that sending cards is very 
-hard. Cards can be snapped up in just a couple of seconds if they are in high
-circulation.
+Now that you've decided to sign up to [Puca Trade][1] you'll want people to 
+send you cards. The problem is you need PucaPoints before people will send you 
+cards. People have levelled complaints at [Puca Trade][1] that sending cards is
+very hard. Cards can be snapped up in just a couple of seconds if they are in 
+high circulation.
 
 [Puca Trade][1] have mentioned that they are trying to keep their market place
 healthy and employ an economist to ensure every move they make is sustainable.
