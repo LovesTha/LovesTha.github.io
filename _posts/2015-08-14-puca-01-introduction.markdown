@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Puca Trade - Series Introduction
+title: Puca Trade Series - Introduction
 subtitle: History and why Puca Trade has been created
 slug: puca-series-introduction
 date: 2015-08-14 17:12 +1000
