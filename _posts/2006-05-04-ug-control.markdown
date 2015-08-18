@@ -29,6 +29,6 @@ Win Condition:
 3x Simic Sky Swallower
 2x Keiga, the Tide Star (I hear hes good against 'Vore)
 
-Now that's only 29 cards, assuming 24 land, leaving us 7 more slots. Should those slots be a black splash for mortify and something else good? Personally I think I like 4 Cytoplast Manipulators and 3 Plaxcaster Froglings would be a realy good idea.
+Now that's only 29 cards, assuming 24 land, leaving us 7 more slots. Should those slots be a black splash for mortify and something else good? Personally I think I like 4 Cytoplast Manipulators and 3 Plaxcaster Froglings would be a really good idea.
 
 I do fear for this decks chances against a truly aggressive deck though, but I think that Disrupting Shoal and Spell Snare could be particularly effective.

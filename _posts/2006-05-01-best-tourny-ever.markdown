@@ -4,7 +4,7 @@ comments: true
 date: 2006-05-01 09:02:25+00:00 +1000
 layout: post
 slug: best-tourny-ever
-title: Best. Tourny. Ever.
+title: Best. Tourney. Ever.
 wordpress_id: 75
 tags:
 - limited
@@ -47,7 +47,7 @@ Nuts
 
 
 
-Every card I opened was damn near perfect. The tournament pack rares were: [Vulturous Zombie](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=vulturous_zombie), [Woodraith Corrupter](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=woodwraith_corrupter) and [Bottled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_cloister). Dissension gave me such pleasantries as: [Cytoplast Manipulator](http://gatherer.wizards.com/gathererlookup.asp?name=Cytoplast_manipulator), [Avatar of Discord](http://gatherer.wizards.com/gathererlookup.asp?name=Avatar_of_discord) and (you can't have absolutely everything) [Wit's End](http://gatherer.wizards.com/gathererlookup.asp?name=Wit[s_end).  Full list follows
+Every card I opened was damn near perfect. The tournament pack rares were: [Vulturous Zombie](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=vulturous_zombie), [Woodwraith Corrupter](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=woodwraith_corrupter) and [Bottled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_cloister). Dissension gave me such pleasantries as: [Cytoplast Manipulator](http://gatherer.wizards.com/gathererlookup.asp?name=Cytoplast_manipulator), [Avatar of Discord](http://gatherer.wizards.com/gathererlookup.asp?name=Avatar_of_discord) and (you can't have absolutely everything) [Wit's End](http://gatherer.wizards.com/gathererlookup.asp?name=Wit[s_end).  Full list follows
 
 
 
@@ -103,7 +103,7 @@ Spells:
 
 1x [Clutch of the Undercity](http://gatherer.wizards.com/gathererlookup.asp?name=Clutch_of_the_Undercity)  
 
-1x [Botttled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_Cloister)  
+1x [Bottled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_Cloister)  
 
 1x [Brainspoil](http://gatherer.wizards.com/gathererlookup.asp?name=Brainspoil)  
 
@@ -157,11 +157,11 @@ I have never spent so much time wandering around trash talking everyone, I may h
 
 
 
-Surveiling Sprite  
+Surveilling Sprite  
 
 Enigma Eidolon  
 
-Writ of Passag  
+Writ of Passage  
 
 Ocular Halo  
 
@@ -197,7 +197,7 @@ Vesper Ghoul
 
 Slaughterhouse Bouncer  
 
-Delerium Skeins (two)  
+Delirium Skeins (two)  
 
 Clinging Darkness  
 
@@ -282,7 +282,7 @@ Avatar of Discord
 
 
 
-Azorious Ploy (foil)  
+Azorius Ploy (foil)  
 
 Plumes of Peace
 
@@ -291,7 +291,7 @@ Plumes of Peace
 
 Vigean Intuition  
 
-Sheilding Plax
+Shielding Plax
 
 
 

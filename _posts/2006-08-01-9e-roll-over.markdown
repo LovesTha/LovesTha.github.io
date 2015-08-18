@@ -17,9 +17,9 @@ At a Champions of Kamigawa sneak peak I was using my Jiki-Kiki to attack with an
 
 As was just discussed on #mtgjudge, there are one two way in which this roll over trick can be seen in the base set though:
 	
-  * Ruhk Egg (it generates the token at end of turn)
+  * Rukh Egg (it generates the token at end of turn)
 	
-  * Viashino Sandstalker + Elvish Piper (to play the Sandstalker after the OET trigger)
+  * Viashino Sandstalker + Elvish Piper (to play the Sandstalker after the EOT trigger)
 
 In light of that it does make it slightly more reasonable for people to not understand how the 'trick' works. Its really quite simple though, the phrase '... until end of turn' is very different to 'at end of turn ...' The later is obviously creating a delayed triggered ability and the former just an effect with a duration.
 

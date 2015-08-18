@@ -14,7 +14,7 @@ tags:
 
 Here we are, already at the end of Ravnica block, time for one more Two Headed Giant with it though. Ravnica block does seam to have passed quicker than all the other blocks I can remember.
 
-Anyway, heres the details:
+Anyway, here's the details:
 
 When: Saturday the 1st of July.
 Time: 9.30am.

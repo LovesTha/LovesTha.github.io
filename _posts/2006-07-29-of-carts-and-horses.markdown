@@ -14,7 +14,7 @@ tags:
 
 I learnt many things while judging nationals. The most important things are though the answer to some of the questions that were asked.
 
-This doesn't mean that my answers to rules situation were enlightening, it would be more true to say that other peoples answers to those questions were more useful. Its the questions about what I want from judging and leveling that gave me the biggest.<!-- more -->
+This doesn't mean that my answers to rules situation were enlightening, it would be more true to say that other peoples answers to those questions were more useful. Its the questions about what I want from judging and levelling that gave me the biggest.<!-- more -->
 At the start of my Kaleo Team membership I was asked I was trying to do. In the great spirit of aiming for the stars I answered "determine what it would mean to be chaplain to the Pro Tour." While I would accept a job as chaplain to the PT, I don't think its what I'm currently actively pursuing. The current task that is before me is the building of a strong christian community within the Melbourne magic scene.
 
 To form such a community I feel it is needed that I be an upstanding member of the community. One easy way to do that is to be a well respected judge who is active in the local scene. I feel that to be a well respected judge I need to gain experience with judging that is most efficiently gained while judging high level events, things like Nats and GP's. I don't think its required that I become a level 2 judge, in 2 or 3 years time I'll have a good look at the type of jobs I'm doing with my judging and determine if that reflect the roles of a L2 or just an L1.

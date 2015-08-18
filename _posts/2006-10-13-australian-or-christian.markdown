@@ -13,7 +13,7 @@ tags:
 
 
 
-A quote from the man of steel reminded me of something Tim Costello said at Black Stump, firstly Howards quote:
+A quote from the man of steel reminded me of something Tim Costello said at Black Stump, firstly Howard's quote:
 
 
 
