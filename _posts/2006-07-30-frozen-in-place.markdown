@@ -23,4 +23,4 @@ One of the local players was complaining to me of how bad Coldsnap is in limited
 	
   * Its only going to be used for 1 significant local event, the top8 draft of PTQ Kobe.
 
-Sorry that last point is a sutble lie, it's also the format for my next Two Headed Giant.
+Sorry that last point is a subtle lie, it's also the format for my next Two Headed Giant.

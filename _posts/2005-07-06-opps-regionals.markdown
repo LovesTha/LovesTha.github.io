@@ -19,7 +19,7 @@ Out of 70 odd I believe.
 
 I'm fairly happy with my 4-3 effort. I feel things may have been better for me if I hadn't of lost the first round to a Red/Black pile.dec. I mean who expects such a deck to sideboard how it did.
 
-The situation you see is that he'd pulse of the forged me a few times, so I knew he had it in hand. I also knew that I either wanted to do 1 more damage to him, or enough to kill him on the spot, me having several insect tokens. So I attack with my lethal insect suited up with blanchwood armor and another token, thinking either he terrors the uber insect token or dies, if he has the terror then I do the max 1 damage that I wanted to do if I wasn't to win on the spot.
+The situation you see is that he'd pulse of the forged me a few times, so I knew he had it in hand. I also knew that I either wanted to do 1 more damage to him, or enough to kill him on the spot, me having several insect tokens. So I attack with my lethal insect suited up with Blanchwood armor and another token, thinking either he terrors the uber insect token or dies, if he has the terror then I do the max 1 damage that I wanted to do if I wasn't to win on the spot.
 
 Naturalise.
 

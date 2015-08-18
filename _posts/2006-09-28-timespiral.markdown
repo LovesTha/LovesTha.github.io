@@ -4,7 +4,7 @@ comments: true
 date: 2006-09-28 02:20:50+00:00 +1000
 layout: post
 slug: timespiral
-title: TimeSpiral
+title: Time Spiral
 wordpress_id: 138
 tags:
 - judging
