@@ -49,7 +49,40 @@ try and send to poor suckers like you.
 This hasn't happened to me yet, but there is a new feature for [Rare Tier 
 Members][3] that lets them limit the price that they are willing to pay for a 
 card. That single feature is probably worth it to anyone who is looking to use
-[Puca Trade][1] for 
+[Puca Trade][1] for speculation. Particularly if you are attempting to be a 
+short term speculator.
+
+What will happen constantly is someone will say they can send you a card, then
+when they get home they will find that one of th following has happened:
+
+* The card isn't in English.
+
+* The card was previously eaten by a dog and is now "SP".
+
+* The card was stolen by aliens.
+
+* The card is in a deck they now want to play.
+
+Naturally they'll say the card is missing when they think it was stolen by 
+aliens or they just don't want to trade the card any more. With the condition
+variations they will send you a nice polite message asking if you care. You are
+well within your rights on the site to refuse or to ask for the price to be 
+reduced. Personally I'm happy with slightly played cards, but you may want them
+to send you a photo before accepting.
+
+If you can't come to an agreement or they just cant send you the card any more
+they will ask to cancel the trade and most of the time you should just accept
+and move on. 
+
+What is slightly counter intuitive to many is that when a trade is
+cancled the card may or may not get added back to your wants lists 
+automatically. I believe the threshold is based on time: under 30 minutes after 
+they initiated the send and it will get added back but longer than that and 
+you'll need to do it manually. That protection is so that people can't agree to
+send you a card, wait a day, notice that the card went up 300 points over night,
+cancel the trade and then resend you the card for the new higher value.
+
+The Puca Trade guys have really thought through their platform :)
 
 [1]: https://pucatrade.com/invite/gift/65746
 [2]: https://deckbox.org/users/LovesTha/
