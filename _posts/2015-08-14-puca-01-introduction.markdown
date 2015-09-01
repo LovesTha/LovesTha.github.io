@@ -64,10 +64,20 @@ those first few hundred *Puca points* you get for signing up (and the 100 I'll g
 if you sign up via a link on this page) can Disappear quickly once you add cards
 to you wants list.
 
-Otherwise subscribe to the [RSS feed][4] to follow along to my coming series on 
-[Puca Trade][1]
+In the next part of this series I go over how to get points, an important step in 
+getting cards from [Puca Trade][1] Please subscribe to the [RSS feed][4] if you would 
+like to know the second the next in the series is posted.
+
+## The Rest of the Puca Series
+
+[01 - Introduction to Puca Trade][101]
+[02 - Getting Points][102]
+[03 - Getting Cards][103]
 
 [1]: https://pucatrade.com/invite/gift/65746
 [2]: https://pucatrade.com/
 [3]: https://deckbox.org/
 [4]: /feed.XML
+[101]: /2015-08-14-puca-01-introduction
+[102]: /2015-08-16-puca-02-getting-points
+[103]: /2015-09-01-puca-03-gettings-cards
