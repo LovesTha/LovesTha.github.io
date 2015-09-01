@@ -104,7 +104,9 @@ second the next in the series is posted.
 ## The Rest of the Puca Series
 
 [01 - Introduction to Puca Trade][101]
+
 [02 - Getting Points][102]
+
 [03 - Getting Cards][103]
 
 
