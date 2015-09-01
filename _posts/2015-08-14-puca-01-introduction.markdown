@@ -82,4 +82,4 @@ like to know the second the next in the series is posted.
 [4]: /feed.XML
 [101]: /2015-08-14-puca-01-introduction
 [102]: /2015-08-16-puca-02-getting-points
-[103]: /2015-09-01-puca-03-gettings-cards
+[103]: /2015-09-01-puca-03-getting-cards
