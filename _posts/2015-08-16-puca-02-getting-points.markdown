@@ -97,9 +97,25 @@ Lastly there is a new interface coming for [Puca Trade][1] in the next few
 months. What we've [seen so far][6] is pretty exciting, I'm not sure I like how
 graphical they going but the features it is meant to include are exciting.
 
+In the next part of this series I go over how the getting cards works in [Puca 
+Trade][1]. Please subscribe to the [RSS feed][7] if you would like to know the 
+second the next in the series is posted.
+
+## The Rest of the Puca Series
+
+[01 - Introduction to Puca Trade][101]
+[02 - Getting Points][102]
+[03 - Getting Cards][103]
+
+
+
 [1]: https://pucatrade.com/invite/gift/65746
 [2]; https://gist.github.com/dacrosby
 [3]: https://github.com/llamasoft/Puca-Power
 [4]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 [5]: https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/
 [6]: https://pucatrade.com/blog/2015/futuresight
+[7]: /feed.xml
+[101]: /2015-08-14-puca-01-introduction
+[102]: /2015-08-16-puca-02-getting-points
+[103]: /2015-09-01-puca-03-gettings-cards
