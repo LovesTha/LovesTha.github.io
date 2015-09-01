@@ -71,7 +71,9 @@ like to know the second the next in the series is posted.
 ## The Rest of the Puca Series
 
 [01 - Introduction to Puca Trade][101]
+
 [02 - Getting Points][102]
+
 [03 - Getting Cards][103]
 
 [1]: https://pucatrade.com/invite/gift/65746
