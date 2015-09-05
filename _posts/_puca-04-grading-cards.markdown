@@ -7,7 +7,7 @@ date: 2015-08-20 17:12 +1000
 tags: [magic, puca]
 ---
 
-This installment of the [Puca Trade series][5] covers the details of grading 
+This instalment of the [Puca Trade series][5] covers the details of grading 
 cards for [Puca Trade][1]. I'm going to point you to the best resources I've 
 found for describing what a near mint (NM) card is and isn't. Then I'm going 
 to discuss how to deal with cards that aren't near mint.
@@ -17,7 +17,7 @@ to discuss how to deal with cards that aren't near mint.
 ## [ABU Games - Detailed Magic the Gathering Cards Condition Guide][10]
 
 ABU Games has the most extensive guide to card conditions. For each condition
-they have three or more cards with both front and back images acompanied by a
+they have three or more cards with both front and back images accompanied by a
 detailed description of why the card has gained the condition listed.
 
 This is the best resource I've found for learning how to grade cards.
@@ -44,14 +44,14 @@ TCG Player give less examples of things that cause a card to be slightly played
 ### [Card Kingdom - Grading Guide][8]
 
 Card Kingdom use a different scale to other stores. There second best grade is
-EX, which correspondsly with other sources definition of slightly played. Using
+EX, which corresponds with other sources definition of slightly played. Using
 different names doesn't change what they are calling less than NM though. They
 only have photos of the back of cards and just a single one for each condition.
 
 # Puca Trade Policies
 
 [Puca Trade][1] are very strict on their card conditions. The policy forbids 
-sending a card that is less than near mint. Netherless many people are happy to
+sending a card that is less than near mint. Nonetheless many people are happy to
 receive cards that are slightly played. 
 
 Firstly check their profile page to see if they have clarified their position on
@@ -61,7 +61,34 @@ cancel the trade and there will be little consequence. If you ignore this and
 send any way it is likely that you'll be paying for shipping back to you or 
 negotiating a new value with no bargaining power.
 
-If they clearly state that they are happy to receive any card that is slightly played
+If they clearly state that they are happy to receive any card that is slightly 
+played it still isn't safe to blindly send them slightly played cards. The best
+cause of action is to send them a message with photos of the cards to confirm
+that they believe the cards are only slightly played. People don't always agree
+on what condition a card is but if they disagree you can be put in an 
+uncomfortable position.
+
+Once they confirm that the condition is acceptable then go ahead and send. Be
+careful with protecting cards in the mail. More detail on that will be in a 
+later [post in this series][6].
+
+When you receive cards it is important to check cards for condition. That is as
+long as you care about the condition of cards you receive. It is possible to 
+resolve things without opening a dispute, but I recommend opening one straight
+away. While it might offend the sender they have already offended you by sending
+cards that weren't acceptable. 
+
+There are two common results from reporting cards not in the correct condition:
+sending the cards back; or receiving a partial refund. Personally I tend to want
+a partial refund as card condition isn't that important to me.
+
+While I've had few instances where I've needed to use the dispute resolution, 
+when I have it has been quick, efficient and clear. It has given me great 
+confidence in continuing to use the service.
+
+In the next part of this series I'll go over some methods for sending cards 
+safely. Please subscribe to the [RSS feed][4] if you would like to know the 
+moment the next in the series is posted.
 
 ## The Rest of the Puca Series
 
