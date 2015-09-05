@@ -97,6 +97,8 @@ you would like to know the second the next in the series is posted.
 
 [03 - Getting Cards][103]
 
+[04 - Grading Cards][104]
+
 [1]: https://pucatrade.com/invite/gift/65746
 [2]: https://deckbox.org/users/LovesTha/
 [3]: https://pucatrade.com/account/upgrade
@@ -104,3 +106,5 @@ you would like to know the second the next in the series is posted.
 [101]: /2015-08-14-puca-01-introduction
 [102]: /2015-08-16-puca-02-getting-points
 [103]: /2015-09-01-puca-03-getting-cards
+[104]: /2015-09-05-puca-04-grading-cards
+

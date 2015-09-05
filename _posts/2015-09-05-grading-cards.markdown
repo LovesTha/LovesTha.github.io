@@ -3,7 +3,7 @@ layout: post
 title: Puca Trade Series - Grading Cards                                                                                                                            
 subtitle: Is It Good Enough?              
 slug: puca-series-grading cards
-date: 2015-08-20 17:12 +1000
+date: 2015-09-05 16:30 +1000
 tags: [magic, puca]
 ---
 
@@ -113,5 +113,5 @@ moment the next in the series is posted.
 [101]: /2015-08-14-puca-01-introduction
 [102]: /2015-08-16-puca-02-getting-points
 [103]: /2015-09-01-puca-03-getting-cards
-[104]: /-puca-04-grading-cards
+[104]: /2015-09-05-puca-04-grading-cards
 
