@@ -15,10 +15,11 @@ away from slipping from near mint all the way down to heavily played.
 
 
 
-This wraps up my initial series on [Puca Trade][1], please leave a comment if 
+This wraps up my introduction series on [Puca Trade][1], please leave a comment if 
 you have any requests for other area's of [Puca Trade][1] that you'd like me to
-cover. Subscribe to the [RSS feed][4] if you would like to know the moment the 
-next in the series is posted.
+cover. Left to my own choice I'll be looking at the economy of [Puca Trade][1] next.
+Subscribe to the [RSS feed][4] if you would like to know the moment the next in the 
+series is posted.
 
 ## The Rest of the Puca Series
 
