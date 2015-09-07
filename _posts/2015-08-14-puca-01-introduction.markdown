@@ -70,13 +70,10 @@ like to know the second the next in the series is posted.
 
 ## The Rest of the Puca Series
 
-[01 - Introduction to Puca Trade][101]
-
-[02 - Getting Points][102]
-
-[03 - Getting Cards][103]
-
-[04 - Grading Cards][104]
+[01 - Introduction to Puca Trade][101]  
+[02 - Getting Points][102]  
+[03 - Getting Cards][103]  
+[04 - Grading Cards][104]  
 
 [1]: https://pucatrade.com/invite/gift/65746
 [2]: https://pucatrade.com/
