@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Edric, Token Master
-subtitle: Success on it's first outting                                           
+subtitle: Success on it's first outing                                           
 slug: edric-token-master
 date: 2015-09-07 21:52 +1000
 tags: [magic, commander]
@@ -11,7 +11,7 @@ A new [Commander league][2] started this evening at [Next Level Games Ringwood]
 [3]. After coming third in the previous league I wanted to play a couple of new
 decks in this league.
 
-I'd been thinking about a deck centered around tokens. Looking through a list
+I'd been thinking about a deck centred around tokens. Looking through a list
 of [token ideas for commander][4] I decided that [Edric, Spymaster of Trest][5] 
 was my immediate favourite. Every time I've stumbled on Edric has made me think
 about building a deck with him.
@@ -24,7 +24,7 @@ your own hand has appealed greatly to me. That his hand refilling is much much
 stronger when going wide with tokens made this a strong choice for my token 
 deck. That and I really wanted to have green in the deck.
 
-Once I put together the list I wanted to build I found I need to acqurie a few 
+Once I put together the list I wanted to build I found I need to acquired a few 
 cards. To be particular I needed these:
 
 Citanul Hierophants
@@ -36,7 +36,10 @@ Spontaneous Generation
 
 Which I rushed over to [Puca Trade][7], have you checked out my [series on 
 using Puca Trade][8], and added them to my want list and they were all quickly
-on their way to me.
+on their way to me. Unfortunately they were on their way from Japan so they 
+haven't arrived yet.
+
+Apparently that didn't matter, the deck was quiet powerful as built:
 
 ## Spells
 
@@ -128,6 +131,17 @@ on their way to me.
 1 Windswept Heath  
 1 Wooded Foothills  
 1 Yavimaya Coast  
+
+That said I did start with the following opening:  
+Turn 1: Command Tower & Sol Ring  
+Turn 2: Forest & Skyshroud Claim
+Turn 3: Oran-Rief, the Vastwood & Caged Sun. Opponents Tempt with Discovery for Gaea's Cradle  
+Turn 4: Forest & Green Sun's Zenith for Verdant Force
+
+From there it was pretty hard to not win. So I won.
+
+All I really learnt in the game was that Sol Ring is still my favourite choice 
+for card that needs to be banned in Commander.
 
 [1]: http://deckbox.org/sets/1198982
 [2]: https://www.facebook.com/events/1622550071339101/
