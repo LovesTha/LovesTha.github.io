@@ -15,7 +15,7 @@ Don't we love the Pro Tour? It gives us great excuses to sit in front of a compu
 
 Talking of the Webcast, De Rosa should realy learn to play his ceatures after playing his land.
 
-Back on topic, I drafted a 4 colour deck not drafting red. My biggest mistakes ended up being not taking the bomb Selesnya cards in pack 1. I passed up such goodies as Evangel and City-Tree, but did pick up such silly things as double Eviction to combo with Dissmisser, Fists of Ironwood and double Hydropon. In round 3 game 1 I managed to have all of those in play with enough mana to play pretty much all of them every game.
+Back on topic, I drafted a 4 colour deck not drafting red. My biggest mistakes ended up being not taking the bomb Selesnya cards in pack 1. I passed up such goodies as Evangel and City-Tree, but did pick up such silly things as double Eviction to combo with Dismisser, Fists of Ironwood and double Hydropon. In round 3 game 1 I managed to have all of those in play with enough mana to play pretty much all of them every game.
 
 Managing to go 2-2 with my deck proved that old Mirrodin piece of advice, 4 colours is more consistent than 3 some times. I was running 17 lands with just 1 Silkwing Scout to fix my mana, managing to never be significantly colour screwed with only a single mulligan. But I was very glad I dropped the Scarab due to its double green cost
 

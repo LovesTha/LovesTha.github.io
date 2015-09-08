@@ -11,7 +11,7 @@ tags:
 - magic
 ---
 
-Building Gruul themed decks is easy, take this list that i'm making up on the spot:
+Building Gruul themed decks is easy, take this list that I'm making up on the spot:
 
 20x Creatures
 4x Llanowar Elves
@@ -24,7 +24,7 @@ Building Gruul themed decks is easy, take this list that i'm making up on the sp
 4x Moldervine Cloak
 
 4x Artifacts
-4x Umezama's Jitte
+4x Umezawa's Jitte
 
 12x Spells
 4x Pyroclasm

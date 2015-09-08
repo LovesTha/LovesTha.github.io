@@ -35,7 +35,7 @@ Green gives us some good ways to not loose the game and will let us cast the gam
 
 White will help us not loose but really wont give us many options on advancing points 1 or 2.
 
-Blue on the other hand, blue does everything. It helps us get fatties into the graveyard (Compulsive Research). Helps us draw our reanimation spells (Compulsive Research). Helps us not loose the game (Compulsive Research, ok, really all of the available counter spells). So lets settle on blue as our second colour.
+Blue on the other hand, blue does everything. It helps us get fatties into the graveyard (Compulsive Research). Helps us draw our reanimation spells (Compulsive Research). Helps us not loose the game (Compulsive Research, OK, really all of the available counter spells). So lets settle on blue as our second colour.
 
 To build deck you'll need:
 12 counter spells, at least 6 of the them need to be hard counter spells, and at least 6 of them need to cost 2 mana or less.

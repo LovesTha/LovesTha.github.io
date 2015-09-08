@@ -4,7 +4,7 @@ comments: true
 date: 2006-05-01 09:02:25+00:00 +1000
 layout: post
 slug: best-tourny-ever
-title: Best. Tourny. Ever.
+title: Best. Tourney. Ever.
 wordpress_id: 75
 tags:
 - limited
@@ -82,7 +82,7 @@ Dissension gave me such pleasantries as: [Cytoplast Manipulator](http://gatherer
 1x [Putrefy](http://gatherer.wizards.com/gathererlookup.asp?name=Putrefy)  
 1x [Seal of Doom](http://gatherer.wizards.com/gathererlookup.asp?name=Seal_of_doom)  
 1x [Clutch of the Undercity](http://gatherer.wizards.com/gathererlookup.asp?name=Clutch_of_the_Undercity)  
-1x [Botttled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_Cloister)  
+1x [Bottled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_Cloister)  
 1x [Brainspoil](http://gatherer.wizards.com/gathererlookup.asp?name=Brainspoil)  
 1x [Sky Hussar](http://gatherer.wizards.com/gathererlookup.asp?name=Sky_Hussar)
 
@@ -129,9 +129,12 @@ talked some of the people on the PC's that I could beat them in WoW with my deck
 
 For reference the rest of my card pool was:
 
-Surveiling Sprite  
+Surveilling Sprite  
+
 Enigma Eidolon  
-Writ of Passag  
+
+Writ of Passage  
+
 Ocular Halo  
 Compulsive Research  
 Muddle the Mixture  
@@ -190,11 +193,11 @@ Rally the Righteous
 Gobhobbler Rats  
 Avatar of Discord
 
-Azorious Ploy (foil)  
+Azorius Ploy (foil)  
 Plumes of Peace
 
 Vigean Intuition  
-Sheilding Plax
+Shielding Plax
 
 Rix Maadi, Dungeon Palace
 

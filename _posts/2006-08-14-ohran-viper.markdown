@@ -11,7 +11,7 @@ tags:
 - magic
 ---
 
-I'm not completely sure what the hype is all about. Yes the card does exactly what it says it does. Its just that trading with a creature in an agro matchup or drawing a few cards against control doesn't seam to be as good as everyone's saying.
+I'm not completely sure what the hype is all about. Yes the card does exactly what it says it does. Its just that trading with a creature in an aggro match up or drawing a few cards against control doesn't seam to be as good as everyone's saying.
 
 The other side of the problem is that green always has lots of really good 3 drops. So lets go have a look at all the legal standard creatures with casting cost of 2G:<!-- more -->
 
@@ -123,12 +123,12 @@ Okay so none of them are playable, what about that cost 1GG:
   13. Verduran Enchantress
 
 
-Ok so Carven Caryatid is playable, maybe we have something good at GGG:
+OK so Carven Caryatid is playable, maybe we have something good at GGG:
 
 [09:45:06] <cerberos> search color=green cost=ggG set=t2 type=creature
 [09:45:07] -Datatog- No matches found.
 
-Ok, so maybe we have lots of new playable 3 drops for green in Coldsnap:
+OK, so maybe we have lots of new playable 3 drops for green in Coldsnap:
 
 [09:45:51] <cerberos> search color=green cost=2G set=csp type=creature
 [09:45:52] -Datatog- Unique match: Frostweb Spider {2G} |Snow Creature -- Spider| 1/3. Frostweb Spider can block as though it had flying. / Whenever Frostweb Spider blocks a creature with flying, put a +1/+1 counter on Frostweb Spider at end of combat. CSP-C [Not tournament legal. Enters Vin Leg Ext Std Aug 20.]
@@ -138,9 +138,9 @@ Or 1GG:
 [09:46:12] <cerberos> search color=green cost=1GG set=csp type=creature
 [09:46:13] -Datatog- Unique match: Ohran Viper {1GG} |Snow Creature -- Snake| 1/3. Whenever Ohran Viper deals combat damage to a creature, destroy that creature at end of combat. / Whenever Ohran Viper deals combat damage to a player, you may draw a card. CSP-R [Not tournament legal. Enters Vin Leg Ext Std Aug 20.]
 
-Ok, so this isn't looking good, GGG?:
+OK, so this isn't looking good, GGG?:
 
 [09:46:41] <cerberos> search color=green cost=GGG set=csp type=creature
 [09:46:42] -Datatog- No matches found.
 
-Ok so Ohran Viper and Carven Caryatid isn't really a crowded 3 drop for a green deck. Maybe it is that good :)
+OK so Ohran Viper and Carven Caryatid isn't really a crowded 3 drop for a green deck. Maybe it is that good :)

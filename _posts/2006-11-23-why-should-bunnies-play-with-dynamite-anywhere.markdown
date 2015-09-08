@@ -9,7 +9,7 @@ wordpress_id: 173
 tags: meta
 ---
 
-Quite often I notice that people find my blog when searching for "where bunnys shouldnt play with dynamite". This causes me two huge issues:
+Quite often I notice that people find my blog when searching for "where bunnies shouldn't play with dynamite". This causes me two huge issues:
 
 
 
@@ -20,4 +20,4 @@ Quite often I notice that people find my blog when searching for "where bunnys s
   2. Why am I the top 2 responses for it?
 
 
-I mean what is peoples fascination with bunnys and dynamite? Sure its bit of a funny concept, but that's not enough of a good reason.
+I mean what is peoples fascination with bunnies and dynamite? Sure its bit of a funny concept, but that's not enough of a good reason.
