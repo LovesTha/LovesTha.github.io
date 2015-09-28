@@ -19,4 +19,4 @@ Problem is that changing themes really doesn't get around the crud that is blogg
   * Post heading perma-link to article.
 
 
-Ok actually that list was rather short, but its still annoying. Wonder how much longer till I move to rpd.cerberos.id.au and wordpress?
+Ok actually that list was rather short, but its still annoying. Wonder how much longer till I move to rpd.cerberos.id.au and Wordpress?

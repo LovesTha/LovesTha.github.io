@@ -21,7 +21,7 @@ There are so many options for a good rock deck these days. If your looking at an
 4x Putrefy
 4x Moldervine Cloak
 
-Thats 28 slots that I consider non negotiable. These collection of cards gives you many very very strong turn three game states:
+That's 28 slots that I consider non negotiable. These collection of cards gives you many very very strong turn three game states:
 Bird +  Hyppie = Hitting with Hyppie on turn 3 + relevant plays
 Bird + Cloak = 3/4 flyer on turn 3 + relevant plays
 Bird + Hyppie + Cloak = Hitting with a 5/5 Hyppie on turn 3

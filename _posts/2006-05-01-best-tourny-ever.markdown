@@ -49,7 +49,7 @@ Nuts
 
 Every card I opened was damn near perfect. The tournament pack rares were: 
 [Vulturous Zombie](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=vulturous_zombie), 
-[Woodraith Corrupter](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=woodwraith_corrupter) 
+[Woodwraith Corrupter](http://gatherer.wizards.com/gathererlookup.asp?set=RavnicaCityofGuilds&name=woodwraith_corrupter) 
 and [Bottled Cloister](http://gatherer.wizards.com/gathererlookup.asp?name=Bottled_cloister). 
 Dissension gave me such pleasantries as: [Cytoplast Manipulator](http://gatherer.wizards.com/gathererlookup.asp?name=Cytoplast_manipulator), 
 [Avatar of Discord](http://gatherer.wizards.com/gathererlookup.asp?name=Avatar_of_discord) and (you can't have absolutely everything) 
@@ -151,7 +151,7 @@ Strands of Undeath
 Wit's End  
 Vesper Ghoul  
 Slaughterhouse Bouncer  
-2x Delerium Skeins  
+2x Delirium Skeins  
 Clinging Darkness  
 Necromantic Thirst  
 
