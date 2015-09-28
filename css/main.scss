@@ -57,8 +57,6 @@ $grey-color-dark:  darken($grey-color, 25%);
     }
 }
 
-
-
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
@@ -120,6 +118,15 @@ img {
 article {
   text-align: justify;
   text-justify: inter-word;
+}
+
+ul.sidebar {
+  list-style-type: none;
+  margin-top: -30px;
+  margin-left: 0px;
+  margin-right: 0px;
+  width: 90%;
+  height: 60%;
 }
 
 .main-content {
@@ -213,6 +220,20 @@ img::-moz-selection {
     height: 50px;
     padding: 0;
   }
+
+  .affix {
+    -webkit-transition: position .5s ease-in-out;
+    -moz-transition: position .5s ease-in-out;
+    transition: position .5s ease-in-out;
+    position: relative;
+    height: 100%;
+    overflow-y: auto;
+  }
+
+  .affix.affix-short {
+    position: fixed;
+    top: 50px;
+  }
 }
 
 .navbar-custom .avatar-container {
@@ -274,10 +295,10 @@ img::-moz-selection {
 /* --- Footer --- */
 
 footer {
-  padding: 30px 0;
+  padding: 10px 0;
   background: $color-primary-4;
   border-top: 1px $color-primary-3 solid;
-  margin-top: 50px;
+  margin-top: 15px;
   font-size: 14px;
 }
 
@@ -301,7 +322,7 @@ footer .theme-by {
 
 @media only screen and (min-width: 768px) {
   footer {
-    padding: 50px 0;
+    padding: 15px 0;
   }
   footer .footer-links {
     font-size: 18px;
@@ -388,6 +409,10 @@ header.header-page {
 
 header.header-page .page-heading {
   text-align: center;
+}
+
+h1.page-heading {
+  margin-bottom: 45px;
 }
 
 header.header-post .post-heading h1 {

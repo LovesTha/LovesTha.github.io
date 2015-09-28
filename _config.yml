@@ -71,6 +71,10 @@ defaults:
     values:
       layout: "default"
 
+include:
+  - files/.aspell.en.pws
+  - .aspell.en.pws
+
 # Exclude these files from production site
 exclude:
   - CNAME
