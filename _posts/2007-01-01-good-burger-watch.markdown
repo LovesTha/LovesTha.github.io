@@ -13,7 +13,7 @@ tags:
 
 On the way home from McCrae yesterday we stopped in at a cafe in (roughly) McCrae for lunch. I decided that the most appetising item on the menu was the burger and ordered it with some reservations.
 
-What greeted me was the best non Grill'd burger I've ever eaten, scoring a 8.5 on my burger scale, the most significant point deduction being the bun, it was good real bread but nothing special. The pattie was large and juicy, the bacon crispy and the sauce was a good and chunky.
+What greeted me was the best non Grill'd burger I've ever eaten, scoring a 8.5 on my burger scale, the most significant point deduction being the bun, it was good real bread but nothing special. The patty was large and juicy, the bacon crispy and the sauce was a good and chunky.
 
 Now my scale looks like:
 0.0 - No Burger :(

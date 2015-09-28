@@ -12,7 +12,7 @@ tags:
 
 I smell a rat.
 
-Many media outlets have been reporting on a man in NSW who has beaten a speeding fine partially because of GPS. If you read the article fully ([SMH](http://www.smh.com.au/news/national/father-and-son-stick-to-guns-to-prove-radar-wrong/2007/03/11/1173548023012.html)) you will notice that how much weight the Judge gave to the GPS data is not specified only that it was admitted as evidence by the defendants. Also of note is that the Police under questioning admitted that they hadn't relied on the radar completely as they didn't have long enough to get a full reading, so they were using judgment to issue the fine.
+Many media outlets have been reporting on a man in NSW who has beaten a speeding fine partially because of GPS. If you read the article fully ([SMH](http://www.smh.com.au/news/national/father-and-son-stick-to-guns-to-prove-radar-wrong/2007/03/11/1173548023012.html)) you will notice that how much weight the Judge gave to the GPS data is not specified only that it was admitted as evidence by the defendants. Also of note is that the Police under questioning admitted that they hadn't relied on the radar completely as they didn't have long enough to get a full reading, so they were using judgement to issue the fine.
 
 What doesn't stack up is why the man would bother to spend lots of money defending a $200 fine. His father recently spent $20,000 defending a $160 fine, without the help of GPS data, so it definitely runs in the family.<!-- more -->
 

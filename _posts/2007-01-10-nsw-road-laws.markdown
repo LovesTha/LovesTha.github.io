@@ -18,4 +18,4 @@ NSW seams headed for having the least trusting P-Plate laws in the country (in m
 
 On principle I don't like restricting the passengers that certain drivers can have, but the above restriction does appear to be logically thought out and only inhibiting of the most dangerous driving.
 
-My issue is with the mobile phone clause, why should 1st year P-Platers be the only ones being forced to use their mobile phones responsibly in a car? Hasn't it been proved that any mobile phone use while driving is dangerous? Shouldn't all drivers have the same restriction on this?
+My issue is with the mobile phone clause, why should 1st year P-Plate rs be the only ones being forced to use their mobile phones responsibly in a car? Hasn't it been proved that any mobile phone use while driving is dangerous? Shouldn't all drivers have the same restriction on this?

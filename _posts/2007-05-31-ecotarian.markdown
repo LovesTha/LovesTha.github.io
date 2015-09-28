@@ -13,7 +13,7 @@ tags:
 For a quick definition of the word, I grabbed this from [Wikipedia](http://en.wikipedia.org/wiki/Ecotarian):
 
 
-<blockquote>_"When ecotarians make a consumption decision, they consider the impact on the land of growing the product, the impact of transporting the product from where it was produced[](http://en.wikipedia.org/wiki/Food_miles), and the labor conditions for the people who grow the product."_</blockquote>
+<blockquote>_"When ecotarians make a consumption decision, they consider the impact on the land of growing the product, the impact of transporting the product from where it was produced[](http://en.wikipedia.org/wiki/Food_miles), and the labour conditions for the people who grow the product."_</blockquote>
 
 
 At tangent on Tuesday night we read over Genesis 1&2 (the story of creation) and discussed what it means to be stewards of everything. I quickly gravitated to a concept that has been banging around my head for quite a while now: Eating in a resource sustainable way.

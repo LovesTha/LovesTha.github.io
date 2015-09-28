@@ -13,12 +13,12 @@ tags:
 
 Just reminding everyone that our next tournament is this weekend
 
-When: Saturday the 3rd of Febuary.
+When: Saturday the 3rd of February.
 Time: 9.30am.
 Where: Northern Community Church of Christ.
 Address: 81 High Street Preston.
 Cost: $50/team ($25/player).
-Product: 1 TimeSpiral Tournament pack, 1 TimeSpiral booster and 3 Planar Chaos Boosters.
+Product: 1 Timespiral Tournament pack, 1 Timespiral booster and 3 Planar Chaos Boosters.
 
 Please drop me a line to let me know that your coming along so I can
 guarantee that I have enough product for everyone. Email:

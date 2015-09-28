@@ -56,14 +56,14 @@ Sideboard:
 
 Few things, firstly yes that is only 12 cards in the sideboard, the 3 Carven Caryatid should be in the sideboard not the main deck but lets go over the differences I should have had if my deck building was optimal.
 
-- 3 Carven Caryatid to sideboard + 3 Loxodon Heirach
+- 3 Carven Caryatid to sideboard + 3 Loxodon Hierarch
 
-This one is pretty obvious, the Carytids are good, but they are not half as good as a Heirach, for that matter they are harder to cast. Their exclusion from the deck on the day was purely due to availability.
+This one is pretty obvious, the Caryatids are good, but they are not half as good as a Hierarch, for that matter they are harder to cast. Their exclusion from the deck on the day was purely due to availability.
 
 -2 Sakura Tribe Elder
 +2 Solitary Confinement
 
-The deck has too much mana acceleration, it has 25 land currently and 8 mana accelerators is too many for this deck. The left field play of a Solitary Confinement in what otherwise looks like a slide deck can confuse people quiet a bit. This also leads us to the next singlton the deck will run.
+The deck has too much mana acceleration, it has 25 land currently and 8 mana accelerators is too many for this deck. The left field play of a Solitary Confinement in what otherwise looks like a slide deck can confuse people quiet a bit. This also leads us to the next singleton the deck will run.
 
 +1 Sterling Grove
 
@@ -77,9 +77,9 @@ I know I'd prefer to not have to tutor for them, but I think we need the variety
 
 Its the perfect removal and threat and you can tutor for it, the only reason it wasn't in the deck on the day was I accidentally left them at home. I honestly thought there was one in the deck.
 
-Onto the tournament report. I won the first round against a very friendly chap, who I love seeing at tournaments because he has so much fun. He isn't the strongest player around and I fear that in a normal matchup he would have beaten me quite easily. The deck he was playing (it wasn't his deck) was a red green good cards deck, running Veldaken Orrery to create lots of good blocking situations where he would play a creature at instant speed that caused his attacking creature to be bounced. So I won this round purely due to me making many less mistakes than my opponent.
+Onto the tournament report. I won the first round against a very friendly chap, who I love seeing at tournaments because he has so much fun. He isn't the strongest player around and I fear that in a normal match up he would have beaten me quite easily. The deck he was playing (it wasn't his deck) was a red green good cards deck, running Vedalken Orrery to create lots of good blocking situations where he would play a creature at instant speed that caused his attacking creature to be bounced. So I won this round purely due to me making many less mistakes than my opponent.
 
-Second round I got to play the owner of the store playing little red creatures and burn. This was a tough match, I lost the first game in pretty short order, needing something like the non existent Solitary Confinements to have a chance of winning. After side boarding everything went my way, drawing all of my sideboard red hate and Bronwyn failing to draw anywhere as much land in the second game. The third game was a great nail biter, Bron drew just few enough lands to give me time to stabilise on very little life then cast Dark Heart of the Wood. Boy was that card perfect for me all day, for just 5 mana I could tutor for then cast and gain upto 15 life easily. This is why I would also make the following change to the mana base:
+Second round I got to play the owner of the store playing little red creatures and burn. This was a tough match, I lost the first game in pretty short order, needing something like the non existent Solitary Confinements to have a chance of winning. After side boarding everything went my way, drawing all of my sideboard red hate and Bronwyn failing to draw anywhere as much land in the second game. The third game was a great nail biter, Bron drew just few enough lands to give me time to stabilise on very little life then cast Dark Heart of the Wood. Boy was that card perfect for me all day, for just 5 mana I could tutor for then cast and gain up to 15 life easily. This is why I would also make the following change to the mana base:
 
 -1 Godless Shrine
 +1 Temple Garden

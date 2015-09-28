@@ -4,7 +4,7 @@ comments: true
 date: 2006-10-13 01:31:06+00:00 +1000
 layout: post
 slug: the-favorite-cards-theory
-title: The Favorite Cards Theory
+title: The Favourite Cards Theory
 wordpress_id: 142
 tags:
 - magic
@@ -35,4 +35,4 @@ As I think this deck will need 26 land (very controlling deck, needs a critical 
 1x Mountain
 1x Plains
 
-Although the Shock land count might be too high, and should be replaced with more karros and basics. That deck took me about 5 minutes to design, and I'm fairly sure it has the goods to deal with most decks going around, although I suspect the Scrolls might need to be Birds.
+Although the Shock land count might be too high, and should be replaced with more Karroo's and basics. That deck took me about 5 minutes to design, and I'm fairly sure it has the goods to deal with most decks going around, although I suspect the Scrolls might need to be Birds.

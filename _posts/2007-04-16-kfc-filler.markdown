@@ -11,7 +11,7 @@ tags:
 - food
 ---
 
-Ok so I had a KFC Filler last night for the first time. The experience was about as exspected, rating a 1.5 of the burger scale:
+Ok so I had a KFC Filler last night for the first time. The experience was about as expected, rating a 1.5 of the burger scale:
 0.0 - No Burger :(
 0.5 - McDonalds Cheese Burger
 1.0 - Big Mac

@@ -13,7 +13,7 @@ tags:
 
 Time seams to be crawling.
 
-Removing MTG Salvation RSS feed from google home page a master stroke, have attempted to use the link many times today. Effort of typing URL sufficient barrier to giving in.
+Removing MTG Salvation RSS feed from Google home page a master stroke, have attempted to use the link many times today. Effort of typing URL sufficient barrier to giving in.
 
 Hunger for today's MTG.com preview growing.
 

@@ -24,4 +24,4 @@ I'm sad to announce that Northern Magic will stop running its monthly Two Headed
   * Low attendance: The attendance at the events wasn't high enough for us to run them purely as a service.
 
 
-So watch this space, I will return to organizing something, not sure what.
+So watch this space, I will return to organising something, not sure what.

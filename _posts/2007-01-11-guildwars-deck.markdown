@@ -15,14 +15,14 @@ Playing in some more odd formats on Saturday, Guildwars (just a single Ravnica B
 
 Building a deck for such an unknown format posses some problems, have to ensure that its quick enough to cope by it self and have a relevant long game so that it isn't swamped in the Two Headed Giant late game. The card I am going to build around for this format is: Mark of Eviction.
 
-Defensively MoE is very good at trying to generate some tempo in the early game. When built around correctly it can also create alot of good pressure in the late game. When thinking of a MoE deck the following cards jump to mind:
+Defensively MoE is very good at trying to generate some tempo in the early game. When built around correctly it can also create a lot of good pressure in the late game. When thinking of a MoE deck the following cards jump to mind:
 
 Blue:
 Flight of Fancy
 Spawnbroker
 Steamcore Weird
-Veldaken Dismisser
-Veldaken Plotter<!-- more -->
+Vedalken Dismisser
+Vedalken Plotter<!-- more -->
 
 Black:
 Screeching Harpy
@@ -50,7 +50,7 @@ Izzet phun:
 4x  Sparkmage Apprentice
 4x Ogre Savant
 4x Steamcore Weird
-3x Veldaken Dismisser
+3x Vedalken Dismisser
 4x Spawn Broker
 
 4x Peel from Reality

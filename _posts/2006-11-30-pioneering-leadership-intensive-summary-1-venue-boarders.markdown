@@ -15,7 +15,7 @@ The final forge intensive for my internship was on this past weekend. It was hel
 
 We also used the Stolberg Beer Cafe during the day on Sunday as NC{CC}. This was great, as they serve great food. The speakers complained that it was too noisy but I thought it was very acceptable, but you have to make them happy.<!-- more -->
 
-To help out our Tasmanian friends I had two of them stay in the spare bedroom. To get them to and from the church all weekend I borrowed the churches ute. That was alot of fun as I hadn't driven a manual in a while and was starting to miss it. I really have to get around to converting the 300zx to manual, pity it costs money :(.
+To help out our Tasmanian friends I had two of them stay in the spare bedroom. To get them to and from the church all weekend I borrowed the churches ute. That was a lot of fun as I hadn't driven a manual in a while and was starting to miss it. I really have to get around to converting the 300zx to manual, pity it costs money :(.
 
 So what I actually want to talk about in this post is the sickly back and forward that polite people fall into. The great friendly boarders naturally feel they need to thank me at various times through the intensive for my family and my hospitality. And being the polite person I am I tell them how it isn't a problem, which thankfully I can say without lying.
 

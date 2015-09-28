@@ -14,7 +14,7 @@ tags:
 
 It appears I am attempting to imitate a female stereotype, the 7th of April Two Headed Giant is back on again. This could be the last 2HG in Melbourne before the PTQ, but who knows?
 
-Anyways heres the details, nothing of note has changed:
+Anyways here's the details, nothing of note has changed:
 
 
 

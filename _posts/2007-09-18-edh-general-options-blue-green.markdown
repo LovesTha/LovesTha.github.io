@@ -21,7 +21,7 @@ Legendary Creature -- Ooze Mutant
 Experiment Kraj has all activated abilities of each other creature with a +1/+1 counter on it.
 T: Put a +1/+1 counter on target creature.
 
-I like where this deck pushes you, but I can't think of any suficiently fun combos. If you can, go ahead.
+I like where this deck pushes you, but I can't think of any sufficiently fun combos. If you can, go ahead.
 
 Momir Vig, Simic Visionary 3GU
 Legendary Creature -- Elf Wizard
@@ -31,4 +31,4 @@ Whenever you play a blue creature spell, reveal the top card of your library. If
 
 This on the other hand looks really good. Although their doesn't seem to be enough UG creatures (only 16 others) to let you reliably trigger both abilities at once. Unless you get a good combo going. He does let you tutor for the 3,4,6&9 drop transmuters though, which should be a strong engine.
 
-I exspect I will see several fun decks built around both of the above cards, if for no other reason than they are in a popular colour combination.
+I expect I will see several fun decks built around both of the above cards, if for no other reason than they are in a popular colour combination.

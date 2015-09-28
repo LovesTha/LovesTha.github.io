@@ -10,4 +10,4 @@ tags:
 
 ---
 
-Good to know that at least the authorities in India don't want 15yo's performing ceasarian sections. [Linkage](http://http://www.msnbc.msn.com/id/19440884/?GT1=10056)
+Good to know that at least the authorities in India don't want 15yo's performing cesarean sections. [Linkage](http://http://www.msnbc.msn.com/id/19440884/?GT1=10056)

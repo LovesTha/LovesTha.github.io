@@ -4,7 +4,7 @@ comments: true
 date: 2007-09-05 23:26:18+00:00 +1000
 layout: post
 slug: dwarves-for-the-win
-title: Dwarves for the Win
+title: Dwarfs for the Win
 wordpress_id: 296
 tags:
 - technology

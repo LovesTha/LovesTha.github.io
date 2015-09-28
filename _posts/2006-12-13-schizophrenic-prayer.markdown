@@ -17,7 +17,7 @@ Big Dude, help me:
 
 
 	
-  * Care for the disadvantaged, both localy and abroad.
+  * Care for the disadvantaged, both locally and abroad.
 
 	
   * Connect with the Magic Community in a meaningful way.

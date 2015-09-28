@@ -12,7 +12,7 @@ tags:
 - limited
 ---
 
-Its coming again, this Saturday is the first Saturday of the month, so I guess its not that surprising. Usual details repeated for convienance.
+Its coming again, this Saturday is the first Saturday of the month, so I guess its not that surprising. Usual details repeated for convenience.
 
 I would like to point out that the starting time is 9.30, if you show up at 11.00 I doubt you'll be playing 2HG.
 
