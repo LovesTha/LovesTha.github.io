@@ -3,7 +3,7 @@ layout: post
 title: Distance Riding
 subtitle: Ramping My Weekly Distance                                           
 slug: distance-riding
-date: 2015-09-01 11:12 +1000
+date: 2015-09-24 11:12 +1000
 tags: [cycling]
 ---
 
