@@ -19,8 +19,8 @@ Core (8):
 
 Good Targets (20):
 4 Aven Riftwatcher (great dude, even better with Dust Elemental)
-4 Big Game Hunter (theres always big dude that needs killing)
-4 Knight of the Holy Nimbus (hard to kill dudes are great, specialy with a wrath in block)
+4 Big Game Hunter (there's always big dude that needs killing)
+4 Knight of the Holy Nimbus (hard to kill dudes are great, specially with a wrath in block)
 4 Saltfield Recluse (excellent combo with Porphyry Nodes)
 4 Amrou Seekers (efficient evasion, although not as hot as the Riftwatchers, a watch this space, soon to change)
 
@@ -34,14 +34,14 @@ Gas (7):
 4 Porphyry Nodes
 
 Land (22):
-4 Terramorphic Exspanse
+4 Terramorphic Expanse
 4 Flagstones of Trokair
 4 Swamp
 10 Plains
 
 Sideboard:
-4 Enslave (I want that Tefferi (although he doesn't hurt this deck))
-3 Dunerider Outlaw (I'm sure the Green Haste Agro will be popular)
+4 Enslave (I want that Teferi (although he doesn't hurt this deck))
+3 Dunerider Outlaw (I'm sure the Green Haste Aggro will be popular)
 4 Sunlance
 4 Voidstone Gargoyle (must be randomly useful I'm sure)
 

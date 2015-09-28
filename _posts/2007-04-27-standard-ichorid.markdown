@@ -11,7 +11,7 @@ tags:
 - magic
 ---
 
-I know theres a problem with naming a deck after a card that isn't in the deck, but I think the name works.
+I know there's a problem with naming a deck after a card that isn't in the deck, but I think the name works.
 
 Obvious inclusions:
 
@@ -22,9 +22,9 @@ Bridge from Below
 Golgari Grave Troll
 Stinkweed Imp
 
-Sinbad
+Sindbad
 Magus of the Bazaar
 
-What I can't see is how to capitalize on the engine, Vintage Ichorid has Sutured Ghoul to reanimate, and while we do have Dread Return, just nothing to return. Do we just attempt to capitalize on the dredge mechanic and play Zur's Weirding and Angels?
+What I can't see is how to capitalise on the engine, Vintage Ichorid has Sutured Ghoul to reanimate, and while we do have Dread Return, just nothing to return. Do we just attempt to capitalise on the dredge mechanic and play Zur's Weirding and Angels?
 
 I need some ideas people.

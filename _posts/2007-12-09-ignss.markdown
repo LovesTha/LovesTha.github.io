@@ -17,7 +17,7 @@ tags:
 - UNSW
 ---
 
-I spent the past week in Sydney working the booth at the [IGNSS conference](http://www.ignss.org/?D=5). The International Global Navigation Satellite Systems Society Inc hold two conferences every year one somewhere in asia and another in Australia, I believe it alternates between UNSW, Brisbane and the Goldcoast. This year was UNSWs turn again.
+I spent the past week in Sydney working the booth at the [IGNSS conference](http://www.ignss.org/?D=5). The International Global Navigation Satellite Systems Society Inc hold two conferences every year one somewhere in Asia and another in Australia, I believe it alternates between UNSW, Brisbane and the Goldcoast. This year was UNSWs turn again.
 
 My company had decided to set up lots of demos this year including an interactive one with a flight simulator game driving GPS simulator. People were quite interested in it, anything with a moving image draws something of a crowd.
 

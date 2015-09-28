@@ -13,7 +13,7 @@ tags:
 - magic
 ---
 
-A quick search for Legendary Creatures with 'flip' in their text (I like to use datatog on IRC for my searches) reveals 20 options for building decks around. Although many of them require your play group to allow for generals that are only legendary after some condition is met, I don't think I'll have too much issue there.
+A quick search for Legendary Creatures with 'flip' in their text (I like to use Datatog on IRC for my searches) reveals 20 options for building decks around. Although many of them require your play group to allow for generals that are only legendary after some condition is met, I don't think I'll have too much issue there.
 
 The biggest down side to all these generals is that your are forced into a single colour, I might like the challenge though.<!-- more -->
 
@@ -131,7 +131,7 @@ Whenever the fourth spell of a turn is played, flip Erayo, Soratami Ascendant.
 -----
 Erayo's Essence Legendary Enchantment Whenever an opponent plays a spell for the first time in a turn, counter that spell.
 
-This seems to be the perfect legend for a mono blue control style EDH deck. Players may attempt to horde spells to overwhelm this strategy but it is likely to back fire on players regularly, by stopping them from interupting the other players.
+This seems to be the perfect legend for a mono blue control style EDH deck. Players may attempt to horde spells to overwhelm this strategy but it is likely to back fire on players regularly, by stopping them from interrupting the other players.
 
 Homura, Human Ascendant 4RR
 Legendary Creature - Human Monk
@@ -141,7 +141,7 @@ When Homura is put into a graveyard from play, return it to play flipped.
 -----
 Homura's Essence Legendary Enchantment Creatures you control get +2/+2 and have flying and "R: This creature gets +1/+0 until end of turn."
 
-He looks quite good untill you realise you don't have many ways to sacrifice him, just:
+He looks quite good until you realise you don't have many ways to sacrifice him, just:
 
 (1) Blood Rites (2) Bloodshot Cyclops (3) Fiery Conclusion (4) Fling (5) Goblin Bombardment (6) Grab the Reins (7) Mons's Goblin Waiters (8) Orcish Bloodpainter (9) Pygmy Giant (10) Reckless Abandon (11) Rupture (12) Scorched Rusalka (13) Shivan Harvest (14) Thermopod
 

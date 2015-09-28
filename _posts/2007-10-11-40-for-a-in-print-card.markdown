@@ -18,6 +18,6 @@ tags:
 - tarmogoyf
 ---
 
-A favourite ebay seller of mine, kidicarus, who appears to be a mtgo botter who redeems sets to then sell as individual cards on ebay, just sold a play set of Tarmogoyfs for 160 US dollars. That has to be the highest cost an inprint card has gone for.
+A favourite eBay seller of mine, kidicarus, who appears to be a mtgo botter who redeems sets to then sell as individual cards on eBay, just sold a play set of Tarmogoyfs for 160 US dollars. That has to be the highest cost an inprint card has gone for.
 
 I pity the fools who didn't get a play set early.

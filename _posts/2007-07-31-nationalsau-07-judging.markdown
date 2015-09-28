@@ -15,7 +15,7 @@ I've got a few stories from Nationals for you all, but lets start first with a q
 
 Day 1 - Grinders
 
-The mix of Judges was interesting this year, I'm not sure if it was different from last year, but it was interesting. There was quite a few judglings looking to take their level 1 test, unfortunately none of them passed. In fact there was no leveling done at Nationals this year.<!-- more -->
+The mix of Judges was interesting this year, I'm not sure if it was different from last year, but it was interesting. There was quite a few judglings looking to take their level 1 test, unfortunately none of them passed. In fact there was no levelling done at Nationals this year.<!-- more -->
 
 Graeme and I were handed the first sealed grinder to do the grunt work for (we were to be the main judges on the floor for it, Lindsay did all the announcements for everything all day though) and it went off without a hitch, all 60 players.
 

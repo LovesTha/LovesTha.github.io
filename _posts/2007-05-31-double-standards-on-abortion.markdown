@@ -10,6 +10,6 @@ tags:
 - news
 ---
 
-Triple J's Hack last night was on about the double standard that Australia displays to abortion. Within Australia abortion is legal and subsidized by the government health service, Medicare. Australia will not give aid money to foreign organizations who perform abortions.
+Triple J's Hack last night was on about the double standard that Australia displays to abortion. Within Australia abortion is legal and subsidised by the government health service, Medicare. Australia will not give aid money to foreign organisations who perform abortions.
 
 What message does this send to the world?

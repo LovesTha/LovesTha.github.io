@@ -34,7 +34,7 @@ Which I think is rather close to what I'd want it to be but with +2 Pithing Need
 
 **Round1, Bill playing TEPS:**
 
-I get off to a reasonable start, but fail to remember that the ravager has a modular counter to start with so I can't figure out how to do enough damage to win the turn before he combos out. It is quite demoralizing for your opponent to duress you and tell you how you should have won on the previous turn.
+I get off to a reasonable start, but fail to remember that the ravager has a modular counter to start with so I can't figure out how to do enough damage to win the turn before he combos out. It is quite demoralising for your opponent to duress you and tell you how you should have won on the previous turn.
 For game 2 I sideboard in the Cabal Therapies and out the 3 Spellbombs and a Frogmite. I wiff on my first therapy and the second takes a Minds Desire. I forget what the next one took, but I should have names Cabal Ritual as he managed to go off with 2 Cabal Rituals in hand along with 2 Infernal Tutors (both fetching more Cabal Rituals). His hand was a bit silly and won the turn before I expected it to.
 
 **Round 2, {Guy who organised the tourney} playing Agro Loam:**
@@ -55,6 +55,6 @@ Game three was similar, but Chris was even more mana light, so I was more easily
 
 **Round 4, Mat playing Mono Red - Burn, Land Destruction + Weenies:**
 
-This seemed to be a good matchup, land destruction doesn't seem to be strong against Affinity, even when some of it doubles as artifact removal. Mainly as we all know that 1 for 1 answers aren't good enough against affinity as it will just play out more threats than you can answer 1 for 1. So I won three pretty quick games, and managed to finish up 3-1.
+This seemed to be a good match up, land destruction doesn't seem to be strong against Affinity, even when some of it doubles as artifact removal. Mainly as we all know that 1 for 1 answers aren't good enough against affinity as it will just play out more threats than you can answer 1 for 1. So I won three pretty quick games, and managed to finish up 3-1.
 
 It was nice to go 3-1 and finish in third place with $24 of store credit. My first 'cash' prize :)

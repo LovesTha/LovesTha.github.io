@@ -11,9 +11,9 @@ tags:
 - food
 ---
 
-Theres been a request for my impression of Urban Burger in another thread so here goes.
+There's been a request for my impression of Urban Burger in another thread so here goes.
 
-My initial thought was that I wanted to give them a 8, which seems apropriate. Their bun is really sub standard, about the same as what I get at BBNT recently, very fluffy and sugary. They do use good quality ingredients and have significant variety on their menu. Also they go for a short and wide burger, I seem to prefer the tall and thin.
+My initial thought was that I wanted to give them a 8, which seems appropriate. Their bun is really sub standard, about the same as what I get at BBNT recently, very fluffy and sugary. They do use good quality ingredients and have significant variety on their menu. Also they go for a short and wide burger, I seem to prefer the tall and thin.
 
 0.0 - No Burger :(
 0.5 - McDonalds Cheese Burger

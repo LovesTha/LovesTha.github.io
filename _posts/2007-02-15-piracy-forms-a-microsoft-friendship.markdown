@@ -3,7 +3,7 @@ author: rockpaperdynamite
 comments: true
 date: 2007-02-15 23:00:13+00:00 +1000
 layout: post
-slug: piracy-forms-a-microsoft-friendship
+slug: piracy-forms-a-Microsoft-friendship
 title: Piracy Forms a Microsoft Friendship?
 wordpress_id: 208
 tags:

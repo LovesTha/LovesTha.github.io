@@ -4,7 +4,7 @@ comments: true
 date: 2007-12-13 04:37:04+00:00 +1000
 layout: post
 slug: terry-pratchett-calling-all-nuerosurgeons
-title: 'Terry Pratchett: Calling All Nuerosurgeons'
+title: 'Terry Pratchett: Calling All Neurosurgeons'
 wordpress_id: 325
 tags:
 - technology

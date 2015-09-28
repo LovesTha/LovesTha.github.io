@@ -10,7 +10,7 @@ tags:
 - Burgers
 ---
 
-Firstly lets get onto the relatively large chain by the name of Hogs Breath Cafe. On the drive home from Sydney this week I saw a billboard advertising the chain with three pigs advocating the eating of beef at HBC. The only thing the burgers I've eaten at HBC have in their favour is they are large. The bun was cheap and sugary, pattie dry and tasteless, sauce thin on the ground and overall bugger construction/design was lack luster. I believe they didn't even bother to use tomato in the burger I had, major point deduction.
+Firstly lets get onto the relatively large chain by the name of Hogs Breath Cafe. On the drive home from Sydney this week I saw a billboard advertising the chain with three pigs advocating the eating of beef at HBC. The only thing the burgers I've eaten at HBC have in their favour is they are large. The bun was cheap and sugary, patty dry and tasteless, sauce thin on the ground and overall bugger construction/design was lack lustre. I believe they didn't even bother to use tomato in the burger I had, major point deduction.
 
 Secondly, I can't remember the other burger I was wanting to review, so watch out for part 2.
 

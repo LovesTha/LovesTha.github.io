@@ -26,7 +26,7 @@ Time: 9.30am.
 Where: Northern Community.
 Address: 81 High Street Preston.
 Cost: $50/team ($25/player).
-Product: 1 TimeSpiral Tournament pack, 2 Planar Chaos Boosters and 2 Future Sight Boosters.
+Product: 1 Timespiral Tournament pack, 2 Planar Chaos Boosters and 2 Future Sight Boosters.
 
 Please drop me a line to let me know that your coming along so I can guarantee that I have enough product for everyone. I can be contacted by phone, email or comment
 

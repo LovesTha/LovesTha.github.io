@@ -18,7 +18,7 @@ tags:
 
 
 
-Giving everyone plenty of warning about the next tourney. Last months one was big (8 teams) some I'm exspecting a big turn out for the next as well
+Giving everyone plenty of warning about the next tourney. Last months one was big (8 teams) some I'm expecting a big turn out for the next as well
 
 
 
@@ -29,7 +29,7 @@ Time: 9.30am.
 Where: Northern Community Church of Christ.
 Address: 81 High Street Preston.
 Cost: $50/team ($25/player).
-Product: 1 TimeSpiral Tournament pack, 1 TimeSpiral booster and 3 Planar Chaos Boosters.
+Product: 1 Timespiral Tournament pack, 1 Timespiral booster and 3 Planar Chaos Boosters.
 
 Please drop me a line to let me know that your coming along so I can
 guarantee that I have enough product for everyone.

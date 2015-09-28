@@ -14,7 +14,7 @@ tags:
 - registry
 ---
 
-I need, and my google foo has failed to find, a registry editor that lets me deal with a very common problem I have. The root problem is I don't want manual steps in the setup of an application I am involved with creating. It relies on IRQ to be enabled for the LPT on a windows PC, but scince Windows 2000 Microsoft has decided that they shouldn't enable them by default.
+I need, and my Google foo has failed to find, a registry editor that lets me deal with a very common problem I have. The root problem is I don't want manual steps in the setup of an application I am involved with creating. It relies on IRQ to be enabled for the LPT on a windows PC, but scince Windows 2000 Microsoft has decided that they shouldn't enable them by default.
 
 Due to where Windows stores the setting for this:
 

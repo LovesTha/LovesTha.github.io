@@ -19,4 +19,4 @@ Flying
 Delve (You may remove any number of cards in your graveyard from the game as you play this spell. It costs ![1](http://forums.mtgsalvation.com/images/smilies/mana1.gif) less to play for each card removed this way.)
 5/5
 
-I wont insult peoples intelligences by attempting to put this into a deck, just know that this will be ridiculous in many formats.
+I wont insult peoples intelligence's by attempting to put this into a deck, just know that this will be ridiculous in many formats.

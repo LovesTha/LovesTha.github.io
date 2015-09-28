@@ -14,7 +14,7 @@ I brought my self a laptop this week, a [Acer Aspire 5630](http://www.byo.acer.c
 
 Got it home, messed around in windows for a short while, did important updates and such, and downloaded the current 64bit install CD for Ubuntu. After a fair bit of frigging around, I needed to use the alternate CD for no good reason, I got it installed. It didn't even take much effort to get the video card working well.
 
-What is really anoying though is the essential pieces of software that aren't 64bit friendly:
+What is really annoying though is the essential pieces of software that aren't 64bit friendly:
 
 
 
