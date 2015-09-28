@@ -14,7 +14,7 @@ beautiful weather like:
 ![Sunny Day](/img/sunnyDay.jpg)
 
 I'm finding it hard to resist going for a ride. Coupled with buying new riding
-shoes on Saturday and mounting my new rack it is getting realy hard.
+shoes on Saturday and mounting my new rack it is getting really hard.
 
 I'm not going to last 2 weeks. More like I'm going to skip 2 days of commuting.
 Including last Friday and today that means I'm free to commute on Wednesday.
