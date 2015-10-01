@@ -19,7 +19,7 @@ People are complaining about how long 9 player games of EDH take.
 
 Apparently this is because there are too many wrath effects and lie gain in the format.
 
-My responce is two pronged:
+My response is two pronged:
 
 Play many wrath effects, playing them is essential to keeping the format balanced.
 
@@ -28,7 +28,7 @@ Use that useful rule about General combat damage. I only need to deal 21 damage 
 LovesTha: text=creatures*have haste set=type1
 Datatog: 12 matches found: (1) Anger (2) Concordant Crossroads (3) Emblem of the Warmind (4) Fervor (5) Fires of Yavimaya (6) Firewake Sliver (7) Goblin Warchief (8) Heart Sliver (9) Lovisa Coldeyes (10) Mass Hysteria (11) Reflex Sliver (12) Steamflogger Boss
 
-Naturally some of them aren't particularly good. Emblem of the Warmind isn't all that hawt when you plan to wrath every (second) turn. Goblin Warchief, Lovisa Coldeyers, Steamflogger Boss and Firewake/Heart/Reflex Sliver only a single creature type haste and I don't feel like using a creature that is going to die to every wrath for my haste anyway.
+Naturally some of them aren't particularly good. Emblem of the Warmind isn't all that hawt when you plan to wrath every (second) turn. Goblin Warchief, Lovisa Coldeyes, Steamflogger Boss and Firewake/Heart/Reflex Sliver only a single creature type haste and I don't feel like using a creature that is going to die to every wrath for my haste anyway.
 
 Which leaves 5 remaining options, the other re-usable source of haste that I can think of that I want to use is Dragon Fangs, so my general needs to have a cmc > 5, with R&G for haste, BWR for wrath effects. The only General that meets that requirement is Pumpkin Head, aka: The Reaper King. All the other. Or Karona, False God but I don't think I have one of her, and I like the Pumpin Head more.
 
@@ -67,12 +67,12 @@ Acceleration (20):
 10 Signets
 5 Talismans
 Coldsteal Heart
-Darksteal Ingot
+Darksteel Ingot
 Mind Stone
 Prismatic Lens
 Journeyer's Kite
 
-Gass (24):
+Gas (24):
 
 Tutors (10):
 Demonic Tutor

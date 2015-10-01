@@ -32,4 +32,4 @@ To violate [law of time/space].
 
 [Linky](http://limerickdb.com/?259)
 
-Nothing like meta comentary in the form of the subject :)
+Nothing like meta commentary in the form of the subject :)

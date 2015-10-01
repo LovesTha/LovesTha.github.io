@@ -55,9 +55,9 @@ Land [25]
 ](http://www.magiccards.info/query.php?cardname=Soul+Snuffers)2 Wispmare
 1 Wickerbough Elder
 2 Snakeform
-2 Puppeter Clique
+2 Puppeteer Clique
 
-This sideboard was much better than the list from Denver. I managed to finish the tournament at 5-1-1 with my loss in the swiss coming to Faeries weilded by Will Chan.
+This sideboard was much better than the list from Denver. I managed to finish the tournament at 5-1-1 with my loss in the Swiss coming to Faeries wielded by Will Chan.
 
 The top 8 consisted of:
 Chan - Faeries

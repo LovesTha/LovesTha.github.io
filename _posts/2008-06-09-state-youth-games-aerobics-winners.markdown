@@ -19,4 +19,4 @@ SYG was this weekend, and Northern had a team of around 25-30 people down there.
 
 [youtube=http://www.youtube.com/watch?v=tz8St6Lwx9w]
 
-I know this isn't related to most of what my blogs about, but plenty of people who visit this blog will be insterested in it.
+I know this isn't related to most of what my blogs about, but plenty of people who visit this blog will be interested in it.

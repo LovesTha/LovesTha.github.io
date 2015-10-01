@@ -58,7 +58,7 @@ marked than a foil card is (which isn't the same things as saying they aren't ma
 
 From all the reading I have done of the relevant DCI documents, I have only found one 
 relevant clause: Artistic modifications and signatures are acceptable if they don't 
-make the cards art hard to recognize (paraphrased, but if the specific wording is 
+make the cards art hard to recognise (paraphrased, but if the specific wording is 
 important to you: A) you're pushing things to far and B) you can find it for your self). 
 The other relevant thing is a [O] net rep ruling from roughly 2004 stating that a cards 
 title is what defines which card it is (it is relevant to cards that are badly miscut, 

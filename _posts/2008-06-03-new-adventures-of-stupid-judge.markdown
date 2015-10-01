@@ -27,7 +27,7 @@ A turn 2: Draw, Moonring Island, go.
 
 B turn 2: Draw, land, go.
 
-A turn 3: Draw, Briarbelly Cohort, go.
+A turn 3: Draw, Briarberry Cohort, go.
 
 B: Dude that land comes into play still.
 
@@ -37,7 +37,7 @@ B: Sure.
 
 B turn 3: Draw, Land, Dude, go.
 
-A turn 4: Draw, Briarbell Cohort, go.
+A turn 4: Draw, Briarberry Cohort, go.
 
 B turn 4: Draw, Land ....
 

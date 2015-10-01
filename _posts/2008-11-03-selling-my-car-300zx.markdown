@@ -34,7 +34,7 @@ Body: Targa Roof Coupe
 Colour: Black
 Notes:
 
-Mechanically its in very good condition but due to typicall things like spacers on the wheels it will be cheaper for the buyer to obtain a road worthy from a friend than for me to get one: So I'm selling the car without road worthy and I'm currently asking for $9,500. That is a very good price for a car in this condition.
+Mechanically its in very good condition but due to typical things like spacers on the wheels it will be cheaper for the buyer to obtain a road worthy from a friend than for me to get one: So I'm selling the car without road worthy and I'm currently asking for $9,500. That is a very good price for a car in this condition.
 
 Add a comment with any questions you may have and I'll get back to you quickly. Use a real email address in your comment if you want me to email you with phone details.
 
