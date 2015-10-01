@@ -40,4 +40,4 @@ Or with the counter intuitive:
 
 Now because one of the white cards was Rune-Cervin Rider the heavy green mana base was better, but isn't it weird what options are possible with these sets.
 
-I was happy with my deck though, it was just a pair of sideboarded Disenchants away from winning the draft. I need to remember to sideboard more often in drafts.
+I was happy with my deck though, it was just a pair of side boarded Disenchants away from winning the draft. I need to remember to sideboard more often in drafts.

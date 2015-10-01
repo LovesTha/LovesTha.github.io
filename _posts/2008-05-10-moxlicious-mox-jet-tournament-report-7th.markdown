@@ -45,7 +45,7 @@ Ideas Unbound
 Imperial Recruiter
 2x Island
 Karmic Guide
-Kiki-jiki, Mirror Breaker
+Kiki-Jiki, Mirror Breaker
 Llanowar Elves
 Mirror Entity
 Misdirection
@@ -73,7 +73,7 @@ Tundra
 Underground Sea
 Volrath's Shapeshifter
 Vorosh, The Hunter
-Vulcanic Island
+Volcanic Island
 Windswept Heath
 Wooded Foothills
 Worldly Tutor
@@ -116,7 +116,7 @@ This was a bit of a poor game because I managed to combo win on turn two on the 
 
 
 
-Round 2 - Dean with Grual Beats
+Round 2 - Dean with Gruul Beats
 This was a match where my utility was a good thing, I believe it took me three games to win the round, but my two wins were not all that close. My memory of what happened in this round isn't very strong.
 
 
@@ -129,15 +129,15 @@ I was overjoyed to be 2-0, probably my best start to a tournament in a very long
 
 
 Round 3 - Ben with RG Land Destruction
-I attribute loosing this round to my deck failing me. I believe my LD matchup is a bit swingy, I think I need hands that will get to a combo reasonably early with a mana elf in them to win. Bens build was harder to beat than Lukes becuase he relies on more creature based LD, giving him a better clock (this could be just my small sample size here though, if so I've still identified how I loose this matchup). So I lost here 0-2 by not drawing a way to win either game, probably a lesson in how to muligan the deck.
+I attribute loosing this round to my deck failing me. I believe my LD matchup is a bit swingy, I think I need hands that will get to a combo reasonably early with a mana elf in them to win. Bens build was harder to beat than Lukes becuase he relies on more creature based LD, giving him a better clock (this could be just my small sample size here though, if so I've still identified how I loose this matchup). So I lost here 0-2 by not drawing a way to win either game, probably a lesson in how to mulligan the deck.
 
 
 
 
 
 Round 4 - Adam Witton with UW Control (Gifts for Slaver Lock win condition)
-After the lunch break I was diapointed to find that I had been paired down against Witton who had managed to go just 1-1-1 up to this point. His deck isn't particularly fast, but for some reason in testing the previous Saturday I found that I lost many games to him.
-Luck was on my side though because I won game 1 on turn 2 with Adam tapping out. Game three took forever with Adam eventually going infinite with Crucuible of Worlds / Fast Bond / Zuran Orb / Life from the Loam / Cycling land. That game was so painful, I really don't like playing against this deck.
+After the lunch break I was disappointed to find that I had been paired down against Witton who had managed to go just 1-1-1 up to this point. His deck isn't particularly fast, but for some reason in testing the previous Saturday I found that I lost many games to him.
+Luck was on my side though because I won game 1 on turn 2 with Adam tapping out. Game three took forever with Adam eventually going infinite with Crucible of Worlds / Fast Bond / Zuran Orb / Life from the Loam / Cycling land. That game was so painful, I really don't like playing against this deck.
 I'm going to go through game three play by play just to point out how badly I played, I'm on the play and open this hand:
 Flash
 Fetch Land
@@ -165,7 +165,7 @@ This is definitely the first time I've been 3-1 at a tournament of this size, ju
 
 
 Round 5 - Alex Sutton with Mono Green Beats (w/ Bad Combos) - Eventual Champion
-Alex is paired down against me needing just a single ID for the lock on top 8, I ask if he will conceede to me, but he wants at least a draw but I have a real chance to win this round so playing feels infinetly better for me.
+Alex is paired down against me needing just a single ID for the lock on top 8, I ask if he will concede to me, but he wants at least a draw but I have a real chance to win this round so playing feels infinitely better for me.
 These two games really aren't all that intersting, I've played against this deck of Alex's many many times and win, giving my self a near lock on top 8.
 
 
@@ -184,13 +184,13 @@ W00000000T!!!!!!!11111oneone! I've made my first ever top 8 (that 15 player GP t
 
 
 
-Top 8 - Charles Ko with Grual Aggro
-I'd beaten a relatively similar deck in a previous round so that shouldn't have been a huge problem, but my deck is less consistent than the Grual Aggro decks and I loose in 3 matches. None of these games was really worth talking about so I'll leave it there.
+Top 8 - Charles Koh with Gruul Aggro
+I'd beaten a relatively similar deck in a previous round so that shouldn't have been a huge problem, but my deck is less consistent than the Gruul Aggro decks and I loose in 3 matches. None of these games was really worth talking about so I'll leave it there.
 
 
 
 
-There are a few changes I want to make to the deck and one that I need to. The Otherworldly Journey and the Momentary Blink are just not pulling their weight, so they need to be cut. They were sideboarded out every match and only cast once to save a Dryad Arbour from LD. That isn't good enough to stay in the deck. Also I need to drop a point for the new national points list, Force of Will seams like the obvious option here because I don't need it that much.
+There are a few changes I want to make to the deck and one that I need to. The Otherworldly Journey and the Momentary Blink are just not pulling their weight, so they need to be cut. They were side boarded out every match and only cast once to save a Dryad Arbour from LD. That isn't good enough to stay in the deck. Also I need to drop a point for the new national points list, Force of Will seams like the obvious option here because I don't need it that much.
 
 
 
@@ -200,7 +200,7 @@ The inclusion for the deck feel fairly easy, Persist feels like a very strong me
 
 
 
-What to replace Force of Will with is the tougher question. Glittering Wish make want to make its presence known, the current sideboard is very multicolor friendly but I don't think I'm sold on it. Muddle the mixture could make a very strong case, I currently have no way to tutor for flash and it has some limited utility without being transmuted. Although I wonder what Twilight Shepherd would do in the deck, its biggest downside is that its another xCCC spell that isn't UB, but I manage to cast Kiki-Jiki much more often than I would suspect. Is it good to be able to Flash hulk on turn two and end up with a 5/5 flying vigilant persist creature in play and Hulk back in my hand? It might be quite nice against decks with some graveyard removal. It would probably also recur a fetch land for me, that could be good.
+What to replace Force of Will with is the tougher question. Glittering Wish make want to make its presence known, the current sideboard is very multi colour friendly but I don't think I'm sold on it. Muddle the mixture could make a very strong case, I currently have no way to tutor for flash and it has some limited utility without being transmuted. Although I wonder what Twilight Shepherd would do in the deck, its biggest downside is that its another xCCC spell that isn't UB, but I manage to cast Kiki-Jiki much more often than I would suspect. Is it good to be able to Flash hulk on turn two and end up with a 5/5 flying vigilant persist creature in play and Hulk back in my hand? It might be quite nice against decks with some graveyard removal. It would probably also recur a fetch land for me, that could be good.
 
 
 

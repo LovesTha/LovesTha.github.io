@@ -67,7 +67,7 @@ Imperial Recruiter
 Reveillark
 Natural Order
 Karmic Guide
-Kiki-Jiki, Mirrorbreaker
+Kiki-Jiki, Mirror-breaker
 
 Tutor for combo: (2)
 Summoners Pact
@@ -115,7 +115,7 @@ Game 2 is less of a good thing, it starts with me having no idea how to sideboar
 So a game loss later (replacing the second Llanowar with a Deep Shadow) I'm shuffling up for game three not really sure what I should be sideboarding. I did do some, but it wasn't much, I just wasn't sure what to bring in against random green beats, possibly the right answer is some anti-anti-graveyard tech, but that would just be a stab in the dark. I forget how this game goes but I do remember that I lost it, probably because Alex's deck did its thing this time, instead of looking like a pile of good cards.
 
 Round 2 - 'Fred' playing Alex Wynnter's UB steal your stuff, sacrifice your stuff.dec
-I've played against this deck quite often, but never with the deck I'm playing with. On the plus side though, 'Fred' has only played one match with the deck he is play up to now. So I should have the edge here, unless his deck just beats mine. Game 1 takes quiet a while, with me eventually winning with the hulk combo not having shown him any of the Reveillark pieces. Game 2 he mulligans to 5, but I don't have the hand to punish him, specially when he plays a turn 1 Scrabling Claws. The game gets further locked down by Chamber of Manipulation + Carrion Feeder, but I manage to keep things in my court despite having my own Carrion Feeder on the table. The final play was as follows:
+I've played against this deck quite often, but never with the deck I'm playing with. On the plus side though, 'Fred' has only played one match with the deck he is play up to now. So I should have the edge here, unless his deck just beats mine. Game 1 takes quiet a while, with me eventually winning with the hulk combo not having shown him any of the Reveillark pieces. Game 2 he mulligans to 5, but I don't have the hand to punish him, specially when he plays a turn 1 Scrabbling Claws. The game gets further locked down by Chamber of Manipulation + Carrion Feeder, but I manage to keep things in my court despite having my own Carrion Feeder on the table. The final play was as follows:
 
 LovesTha: Flash?
 Fred: Chamber your Carrion Feeder?

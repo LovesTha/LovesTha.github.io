@@ -55,6 +55,6 @@ I wanted to play the deck because it was one of the few lists that I'd seen that
 
 There were 18 players so 5 rounds + top 8. I only lost round 2 against Kithkin I believe, and that was a mull to 4 in game 3 :(. I had to play round 5 because my terrible tie breakers left me in 7th place at the end of round 4, but winning that round left me as top of the swiss.  First time thats ever happened to me :)
 
-The quarter final was another Kithkin matchup and I lost it pretty quickly.
+The quarter final was another Kithkin match up and I lost it pretty quickly.
 
 I was very happy my foil Wanderwine Hub for 5th place.
