@@ -19,9 +19,9 @@ After spending what felt like 3 days on the phone answering and asking questions
 
 Arriving back in the office this arvo I ask has a package arrived for me, it hasn't. Same answer in the other office. Calling my house mate no package has arrived at home either. So I give Optus a call. There lovely phone system can't handle the complex request of "where is my iPhone" so the nice switchboard lady passes me to the right place.
 
-But this just brings up more questions, as they can't find my order anywhere in their system. Eventually the helpful lass tells me that I placed an order with Telechoice and I'll need to ring them. The number she forwards to me isn't a general inquiry line its the line for "Sam from head office" and I doubt that leaving a message (which I did) for him is going to get me anywhere. So I google up Telechoice's main customer phone number and eventually get to speak to someone.
+But this just brings up more questions, as they can't find my order anywhere in their system. Eventually the helpful lass tells me that I placed an order with Telechoice and I'll need to ring them. The number she forwards to me isn't a general inquiry line its the line for "Sam from head office" and I doubt that leaving a message (which I did) for him is going to get me anywhere. So I Google up Telechoice's main customer phone number and eventually get to speak to someone.
 
-So this nice voice on a phone tells me that they don't have any iPhones in stock and they are on backorder and they don't know when they will have any more. This doesn't make me happy.
+So this nice voice on a phone tells me that they don't have any iPhones in stock and they are on back order and they don't know when they will have any more. This doesn't make me happy.
 
 Naturally this someone can't actually help me resolve their fraudulent sales technique or that I am now being charged an increased rate for a phone and service I don't have.
 

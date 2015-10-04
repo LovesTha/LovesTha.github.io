@@ -28,7 +28,7 @@ I wasn't all that thirsty so it took me about 10 minutes to drink the coke. But 
 
 We resolve that we will give them another 2 minutes to serve our meals. If that isn't sufficient time, 17 minutes to prepare a burger is too much, we'll ask for them to go. This prompts a discussion of what are the essential qualities of an American Dinner that should be emulated. We both think that Dinners should be about quick seated meals, hrm..
 
-I mean the place is very well presented, there is plenty of chrome molded into apropriate shapes and the bench seats in the booths really do look the part. There is even a little antique jukebox controller at the end of each booth proclaiming $1 - 2 plays. The silly Elvis statue and such do convince you that your in a 2000's era tribute to the 50's Dinner, why can't they just try and convince you that your in the 1950's?
+I mean the place is very well presented, there is plenty of chrome moulded into appropriate shapes and the bench seats in the booths really do look the part. There is even a little antique jukebox controller at the end of each booth proclaiming $1 - 2 plays. The silly Elvis statue and such do convince you that your in a 2000's era tribute to the 50's Dinner, why can't they just try and convince you that your in the 1950's?
 
 More on those bench seats in the booths, they looked good, but they weren't very comfortable. They were much too deep and the one I was using wasn't firmly attached to the seat, so it slid forward as I slid into the seat. Enough of the distractions of the venue, its now time to get onto the burgers right?
 

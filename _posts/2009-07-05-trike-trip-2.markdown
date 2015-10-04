@@ -9,7 +9,7 @@ wordpress_id: 468
 tags: cycling
 ---
 
-So after the defeat of the rather large hill I went after a flatter target this Sunday. Practicing the trip to work seemed like a good idea. Having perfected the use of the Garmin Edge 205 I know that the trip was 4902 meters. As my day job informs me GPS units are least accurate in terms of height (it has to do with the geometry of the constellation. IE you can only ever receive satellites that are 'up' so working out how far up or down you are is hard), which explains why I keep managing to have a total gain in elevation greater than my loss, despite starting and finishing the trip at the same place.
+So after the defeat of the rather large hill I went after a flatter target this Sunday. Practising the trip to work seemed like a good idea. Having perfected the use of the Garmin Edge 205 I know that the trip was 4902 meters. As my day job informs me GPS units are least accurate in terms of height (it has to do with the geometry of the constellation. IE you can only ever receive satellites that are 'up' so working out how far up or down you are is hard), which explains why I keep managing to have a total gain in elevation greater than my loss, despite starting and finishing the trip at the same place.
 
 Elevation - Distance graph:
 

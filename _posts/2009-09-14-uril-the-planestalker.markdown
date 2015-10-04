@@ -47,7 +47,7 @@ Dowsing Shaman
 Eternal Witness
 Nomad Mythmaker
 
-So now we want to abuse Uril, so we need ways of making him larger and evasive. Flying isn't the best evasion, fear would be better but isn't available to us and neither is unblockability. Trample is pretty good if Uril has grown large enough.
+So now we want to abuse Uril, so we need ways of making him larger and evasive. Flying isn't the best evasion, fear would be better but isn't available to us and neither is unblock-ability. Trample is pretty good if Uril has grown large enough.
 
 Urils Pants (12):
 Rancor
@@ -68,7 +68,7 @@ Troll Ascetic
 Woodfall Primus
 Twilight Shepherd
 Felidar Sovereign
-Magma Pheonix
+Magma Phoenix
 Shard Phoenix
 Shivan Phoenix
 
@@ -84,13 +84,13 @@ Sol Ring
 Vedalken Orrery
 Wrath of God
 Day of Judgement
-Akroma's Vengance
+Akroma's Vengeance
 Earthquake
 Hurricane
 Shining Shoal
 Swords to Plowshares
 Path to Exile
-Codemn
+Condemn
 Evangelize
 
 Other Enchantments (6):
@@ -117,7 +117,7 @@ Terramorphic Expanse
 4 Mountain
 Krosan Verge
 
-So thats where the deck list sits currently. Now I need to put it together and try it out locally a few times before Austin. GP Melbourne will give me a definite chance to give it a work out but I'll be heading for the US straight after it so I wont have much time.
+So that's where the deck list sits currently. Now I need to put it together and try it out locally a few times before Austin. GP Melbourne will give me a definite chance to give it a work out but I'll be heading for the US straight after it so I wont have much time.
 
 Here follows what I think the plane deck will look like for it:
 
