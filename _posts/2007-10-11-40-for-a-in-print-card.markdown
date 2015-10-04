@@ -6,10 +6,7 @@ layout: post
 slug: 40-for-a-in-print-card
 title: $40 For An In-Print Card
 wordpress_id: 311
-tags:
-- mtg
-- ebay
-- tarmogoyf
+tags: [magic, ebay, tarmogoyf]
 ---
 
 A favourite eBay seller of mine, kidicarus, who appears to be a mtgo botter who redeems sets to then sell as individual cards on eBay, just sold a play set of Tarmogoyfs for 160 US dollars. That has to be the highest cost an inprint card has gone for.
