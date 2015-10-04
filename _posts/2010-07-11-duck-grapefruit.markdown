@@ -19,7 +19,7 @@ Calling on the impressive powers of the Internet (Looking for recipes is the o
 
 [Spicy Pumpkin Soup](http://www.taste.com.au/recipes/22640/spicy+pumpkin+soup)
 
-I was over catering by aiming for 16 serves of everything, which left me with quite a large amount of pumpkin and potato to cut. Towards the end of cutting the pumpkin I realised it wasn't all going to fit into the pot so i probably only cut 3.750kg of pumpkin, but all the other quantites were an accurate 4x of the recipe. I did add 2 carrots expecting that a bit of sweetness was a good idea. My Sister apparently could detect the carrot in the soup, although she might have seen it while helping out with the blending.
+I was over catering by aiming for 16 serves of everything, which left me with quite a large amount of pumpkin and potato to cut. Towards the end of cutting the pumpkin I realised it wasn't all going to fit into the pot so i probably only cut 3.750kg of pumpkin, but all the other quantities were an accurate 4x of the recipe. I did add 2 carrots expecting that a bit of sweetness was a good idea. My Sister apparently could detect the carrot in the soup, although she might have seen it while helping out with the blending.
 
 Tasting the soup just before adding the cream I was disappointed by the spiciness of the soup but then adding the cream really brought the spice to the front nicely. If I was cooking to my taste I would still increase the amount of chilli but probably only doubling, the balance given by the recipe is fantastic.
 

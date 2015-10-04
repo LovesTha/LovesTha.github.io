@@ -13,12 +13,12 @@ tags:
 - Fibre
 ---
 
-Prime Minister Rudd announced this morning our new National Broadband Network plan. Apparently the only different between Telstra and the other players in the tender process was that Telstra worked out they couldn't make a worthy tender before submitting, everyone else just submited something anyway.
+Prime Minister Rudd announced this morning our new National Broadband Network plan. Apparently the only different between Telstra and the other players in the tender process was that Telstra worked out they couldn't make a worthy tender before submitting, everyone else just submitted something anyway.
 
 
 
 
-So now that the government has no worthy tenders they have decided to do it them selves (with 49% private ownership, the other 51% to be several years after completion). Which is a nobel idea, but I do wonder how this is going to interact with Telstra. My ability to find stock prices online is apparently bad enough that I can find out what has happened to Telstra stock price since this was announced.
+So now that the government has no worthy tenders they have decided to do it them selves (with 49% private ownership, the other 51% to be several years after completion). Which is a Nobel idea, but I do wonder how this is going to interact with Telstra. My ability to find stock prices online is apparently bad enough that I can find out what has happened to Telstra stock price since this was announced.
 
 
 
@@ -33,7 +33,7 @@ Wouldn't your value drop when one of your major assets, a monopoly no less, has 
 
 
 
-But I think this is truely good for Australian Internet users. This will be a great new internet connection method and will give the Australian market more true competition.
+But I think this is truly good for Australian Internet users. This will be a great new internet connection method and will give the Australian market more true competition.
 
 
 

@@ -10,7 +10,7 @@ tags:
 
 ---
 
-So I invited everyone to my place to celebrate my 26th birthday. 'Everyone' in this case means all the people on facebook that I wouldn't feel weird about having turn up to my place, 84 people. 15 people RSVPed using the facebook application, but 6 of those people didn't turn up in the long run.
+So I invited everyone to my place to celebrate my 26th birthday. 'Everyone' in this case means all the people on Facebook that I wouldn't feel weird about having turn up to my place, 84 people. 15 people RSVPed using the Facebook application, but 6 of those people didn't turn up in the long run.
 
 18 people said they might attend, of them 1 did, who was my sister. Of the 22 you declined the invite none of them turned up and the 33 who didn't respond at all didn't show up either.
 

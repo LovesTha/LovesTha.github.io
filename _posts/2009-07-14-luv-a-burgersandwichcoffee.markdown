@@ -18,7 +18,7 @@ Is it really that hard to buy quality buns?<!-- more -->
 
 If there burger was all there was to this story I wouldn't be bothering to write it, despite the 8.5 the burger is going to get in my rating.
 
-The real story is the club sandwich. While I was eating my burger I saw someone on an adjacent table eating one of the club sandwiches. Three slices of toast with chicken, tomato, lettuce, bacon, mayonaisé, avocado some some important ingredient that I'm forgetting. Cut into four triangles arranged on the plate using skewers to hold the pieces together.
+The real story is the club sandwich. While I was eating my burger I saw someone on an adjacent table eating one of the club sandwiches. Three slices of toast with chicken, tomato, lettuce, bacon, mayonnaise, avocado some some important ingredient that I'm forgetting. Cut into four triangles arranged on the plate using skewers to hold the pieces together.
 
 The plate is finished off with a stack of shoe string fries covered in a great tasting red salt.
 

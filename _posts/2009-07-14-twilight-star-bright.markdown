@@ -25,7 +25,7 @@ When half way through the 4th book I discovered the best twist in the books a me
 
 I don't know what's wrong with me, apparently Jamie is much more of a man than I am: I never found the descriptions of the characters to be either terribly repetitive or overly soppy. It must just be that I like Stephanie's style.
 
-That doesn't mean I'm going to rush out and read the first book again from Edwards perspective though. It'll probably be a more sedate meadering, once it is properly released.
+That doesn't mean I'm going to rush out and read the first book again from Edwards perspective though. It'll probably be a more sedate meandering, once it is properly released.
 
 (While I might not bother to pay for copyrighted things always I do respect content creators enough to let them wait for it to be finished before consuming it)
 

@@ -4,7 +4,7 @@ comments: true
 date: 2009-02-17 05:10:17+00:00 +1000
 layout: post
 slug: la-monicas-abismal
-title: La Monicas - Abismal
+title: La Monicas - Abysmal
 wordpress_id: 423
 tags:
 - Burgers
@@ -28,7 +28,7 @@ When the burger arrived I was fairly disappointed, but first the good. The meat 
 
 The Turkish bun, which encouraged me to purchase the burger in the first place wasn't toasted. Which was a substantial problem because the mushrooms had been cooked in plenty of butter, making the whole burger nearly too soggy to hold.
 
-Lastly you'll notice that my list of ingredients for the burger didn't include letuce or tomato, so the first thing both of us did was add them from the side salad to the burger.
+Lastly you'll notice that my list of ingredients for the burger didn't include lettuce or tomato, so the first thing both of us did was add them from the side salad to the burger.
 
 Updated Points:
 
