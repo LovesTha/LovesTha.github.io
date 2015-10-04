@@ -17,7 +17,7 @@ The other good news he gave me on the phone was that Optus will be waiving a mon
 
 A large part of my expectation was that Apple are renowned for things just working out of the box, this was going to be good I thought. So opening the box and digesting the contents two things appear to be missing: Instructions on what to do with my new sim card; And a way to actually use the device.
 
-How is it acceptable to ship such an expensive item with no way in the box to use it. I don't mind uncharged batteries, I'm talking about needing to download a 74M installer for a piece of software that will only work on operating systems that I don't natively use.
+How is it acceptable to ship such an expensive item with no way in the box to use it. I don't mind uncharged batteries, I'm talking about needing to download a 74M installer for a piece of software that will only work on operating systems that I don't naively use.
 
 Sorry but waiting 15 minutes for my reasonably fast connection to download then install iTunes just so I can use my phone for anything more than emergency phone calls is ludicrous.
 

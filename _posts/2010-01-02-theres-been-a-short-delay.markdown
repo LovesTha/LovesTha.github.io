@@ -13,7 +13,7 @@ Sorry for the long time between posts, I suspect this might have gotten me off a
 
 Anyway, the topic today manages to refer to both my bogging absence and what's got my goat at the moment.
 
-Ubuntu 9.10 was released a little while ago and it doesn't look too bad. I upgraded my laptop shortly after the official release and the media box at home only this last fortnight. I needed to upgrade it because it was running out of space on / and I wanted to start running Deluge as a daemon on the media box and the front end on my laptop. It was an upgrade from 8.04 I believe so I just did a fresh install formating / and keeping /data and /home intact.
+Ubuntu 9.10 was released a little while ago and it doesn't look too bad. I upgraded my laptop shortly after the official release and the media box at home only this last fortnight. I needed to upgrade it because it was running out of space on / and I wanted to start running Deluge as a daemon on the media box and the front end on my laptop. It was an upgrade from 8.04 I believe so I just did a fresh install formatting / and keeping /data and /home intact.
 
 This afternoon when I rebooted the media box I had to do this dance to try to make the torrents recheck their data because they were all at 0% apparently. Many attempts to get them to recheck their status left them at "0% checking" until eventually they started checking and everything was ok again. Naturally I thought that the last thing I did, pause -> force-recheck while un bandwidth throttled, was the silly new required dance to fix things.<!-- more -->
 

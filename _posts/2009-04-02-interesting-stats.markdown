@@ -10,7 +10,7 @@ tags:
 - church
 ---
 
-Just recieved these in an email from Phil, can't be bothered working out if they are from a reputable source, but this is the internet:
+Just received these in an email from Phil, can't be bothered working out if they are from a reputable source, but this is the internet:
 
 
 <blockquote>MELBOURNE: 3.6 million people (2006), 248 Nationalities, 289 languages,128 religious faiths
