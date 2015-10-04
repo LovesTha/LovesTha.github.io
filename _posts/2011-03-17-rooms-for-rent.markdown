@@ -24,7 +24,7 @@ Rear courtyard suitable for cooking a BBQ in
 
 Current room vacancy is a reasonable sized bedroom with built in wardrobe.
 Room available in Mid May is master bed room with en-suite and walk in 'robe.
-Double Garrage, 1 space available to applicant.
+Double Garage, 1 space available to applicant.
 
 ![](/img/gcp_3134-for-web.jpg?w=300)
 
