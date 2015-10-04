@@ -19,7 +19,7 @@ It was a nice simple looking Pizza/Pasta place called [The Old Pepper](http://ww
 
 We were handed a pair of menu's and even these had the good feel of quality to them. Our expectations were being exceeded in every way. This is something I like :)
 
-We both order pasta dishes and in what feels like 10 seconds our meals are brought out to us. Ok it was more like 5-10 minutes, and the place was nearly empty but the service was quick and friendly. So naturally I was exspecting the pasta to be like rubber and the sauce to taste like dish water.
+We both order pasta dishes and in what feels like 10 seconds our meals are brought out to us. Ok it was more like 5-10 minutes, and the place was nearly empty but the service was quick and friendly. So naturally I was expecting the pasta to be like rubber and the sauce to taste like dish water.
 
 As is the theme of this review my expectation was wrong, the meal was great. There was not a single thing wrong with the experience.
 
