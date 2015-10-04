@@ -7,14 +7,8 @@ slug: 40-for-a-in-print-card
 title: $40 For An In-Print Card
 wordpress_id: 311
 tags:
-- magic
-tags:
-- bot
-- bot herder
+- mtg
 - ebay
-- money
-- mtgo
-- rare
 - tarmogoyf
 ---
 
