@@ -1,0 +1,16 @@
+---
+layout: post
+title: GP Sydney Recap
+subtitle: Intro to the Sydney Swap
+slug: gp-sydney-recap
+date: 2015-10-15 21:52 +1000
+tags: [magic, judge, gp]
+---
+
+This past weekend was GP Sydney and while we only ended up with 996 players, 
+missing by such a small margin on Australia breaking into the 1k player club, 
+it was a great event and there is much to learn from it. Notably it premiered 
+the Sydney Swap, a way to reduce the desire for players to drop during deck
+registration.
+
+
