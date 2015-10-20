@@ -16,7 +16,7 @@ registration.
 Sleep in special registrations were particularly strong for GP Sydney. The final
 count was in the order of 250 players were signed up for it. That is ~25% of the
 entire tournament. The high value of the Zendikar Expeditions was the clear 
-reason for unsually high interest in them. Few players were likely to be happy 
+reason for unusually high interest in them. Few players were likely to be happy 
 about passing cards worth multiple hundreds of dollars and $20 was seen by many 
 as a cheap way to remove the need to decide between dropping and playing.
 
@@ -29,10 +29,10 @@ tasks done on Thursday, even with a reduction in SIS numbers when the Sydney
 Swap becomes well known.
 
 If I'd been a player who'd purchased the SIS to avoid the hard decision of 
-playing versus a drop for value, I'd be mightly unimpressed that I'd paid $20 
-for no percieved value. I haven't heard of any players complaining about this,
+playing versus a drop for value, I'd be mightily unimpressed that I'd paid $20 
+for no perceived value. I haven't heard of any players complaining about this,
 and it wasn't the TOs fault. I did hear lots of players enjoying the new 
-proceedure, although there was plenty of chicken little reactions as well. 
+procedure, although there was plenty of chicken little reactions as well. 
 Hopefully cheating wont suddenly increase and players will become happy with the
 Sydney Swap with time.
 
@@ -56,12 +56,12 @@ quicker. The judge side of grinders has been optimised and runs very efficiently
 Despite much effort on the part of scorekeepers and TOs the data entry aspects 
 are still impacting events. This is with results entry completely delayed till 
 after the weekend, the only thing the scorekeepers need to do on Friday is 
-enroll players and print round 1 pairings and random seating if the event is 
+enrol players and print round 1 pairings and random seating if the event is 
 sealed.
 
 I wonder if online + self service kiosks could help this process? It'd leave 
 things in a bad position if it crashed and burned, but it could help 
-parrallelise the process further.
+paralleling the process further.
 
 The physical process of the Sydney Swap went pretty well. The need to have 
 players paired with someone caused some issues for the verification of who had
