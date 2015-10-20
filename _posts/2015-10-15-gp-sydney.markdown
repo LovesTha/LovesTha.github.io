@@ -3,7 +3,7 @@ layout: post
 title: GP Sydney Recap
 subtitle: Intro to the Sydney Swap
 slug: gp-sydney-recap
-date: 2015-10-15 21:52 +1000
+date: 2015-10-21 10:52 +1000
 tags: [magic, judge, gp, sydney]
 ---
 
@@ -67,4 +67,6 @@ The physical process of the Sydney Swap went pretty well. The need to have
 players paired with someone caused some issues for the verification of who had
 failed to turn up to the event. I'm wondering if it would have been simpler and
 faster to just waste the time of having 95% of the room sit quietly for 2 
-minutes while the few triangles did their third 'open while watched'. 
+minutes while the few triangles did their third 'open while watched'. I'm
+probably being too optimistic about how happy and compliant 900 people would be
+when asked to be silent and do nothing for 2 minutes.
