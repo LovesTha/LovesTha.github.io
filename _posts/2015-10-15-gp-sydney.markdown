@@ -4,7 +4,7 @@ title: GP Sydney Recap
 subtitle: Intro to the Sydney Swap
 slug: gp-sydney-recap
 date: 2015-10-15 21:52 +1000
-tags: [magic, judge, gp]
+tags: [magic, judge, gp, sydney]
 ---
 
 This past weekend was GP Sydney and while we only ended up with 996 players, 
@@ -21,4 +21,50 @@ about passing cards worth multiple hundreds of dollars and $20 was seen by many
 as a cheap way to remove the need to decide between dropping and playing.
 
 The registration of all those pools was left to the judge staff, with assistance 
-from event staff, to do along side running grinders on Friday. This was 
+from event staff, to do along side running grinders on Friday. Previous years 
+this wasn't a monumental amount of work, with the sheer number of SIS sales the
+work continued on till after all the players had left the venue. Australian GPs 
+are getting large enough that the TO may need to consider having some of these 
+tasks done on Thursday, even with a reduction in SIS numbers when the Sydney 
+Swap becomes well known.
+
+If I'd been a player who'd purchased the SIS to avoid the hard decision of 
+playing versus a drop for value, I'd be mightly unimpressed that I'd paid $20 
+for no percieved value. I haven't heard of any players complaining about this,
+and it wasn't the TOs fault. I did hear lots of players enjoying the new 
+proceedure, although there was plenty of chicken little reactions as well. 
+Hopefully cheating wont suddenly increase and players will become happy with the
+Sydney Swap with time.
+
+Another last minute change was imposed on the event: a new version of software 
+was mandated by WotC the week of the GP. One of the impacts of this was that the
+scorekeepers had less flexibility in how they ran grinders. I'm not abreast of 
+exactly what changed but it caused grinders on Friday to fire very slowly. While
+the queue to drop of your registration sheet cleared pretty quickly, the actual 
+events didn't start to well over an hour later. I heard one player complain that 
+it took him 13 hours to play in two grinders that he lost in the first round. I 
+can't believe his time line as I believe that the grinders were starting less 
+than two hours after the event had filled up, but his hyperbole does demonstrate
+how frustrated the players were.
+
+There were many instances of players signing up for grinder X only to hear over
+the PA that grinder X-2 was just about to start. I feel there has to be some way
+to streamline the starting of events, requiring scorekeepers to find and enter 
+DCI numbers takes much too long. I'm pretty confident that tournament entries on 
+Friday could have been increased by 30% or more if events had been starting 
+quicker. The judge side of grinders has been optimised and runs very efficiently.
+Despite much effort on the part of scorekeepers and TOs the data entry aspects 
+are still impacting events. This is with results entry completely delayed till 
+after the weekend, the only thing the scorekeepers need to do on Friday is 
+enroll players and print round 1 pairings and random seating if the event is 
+sealed.
+
+I wonder if online + self service kiosks could help this process? It'd leave 
+things in a bad position if it crashed and burned, but it could help 
+parrallelise the process further.
+
+The physical process of the Sydney Swap went pretty well. The need to have 
+players paired with someone caused some issues for the verification of who had
+failed to turn up to the event. I'm wondering if it would have been simpler and
+faster to just waste the time of having 95% of the room sit quietly for 2 
+minutes while the few triangles did their third 'open while watched'. 
