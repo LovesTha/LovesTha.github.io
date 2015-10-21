@@ -3,7 +3,7 @@ layout: post
 title: GP Sydney Recap
 subtitle: Intro to the Sydney Swap
 slug: gp-sydney-recap
-date: 2015-10-21 10:52 +1000
+date: 2015-10-21 10:52 +1100
 tags: [magic, judge, gp, sydney]
 ---
 
