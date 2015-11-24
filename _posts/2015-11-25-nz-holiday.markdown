@@ -1,9 +1,9 @@
 ---
 layout: post
-title: NZ Holiday Snaps
-subtitle: Delightful Mountains and Mountains of Delight(-ful Food)
+title: NZ Holiday Stories
+subtitle: Delightful Mountains and Mountains of Delight(-ful Food) - Part 1
 slug: nz-holiday-2015
-date: 2015-10-21 10:52 +1100
+date: 2015-10-25 10:52 +1100
 tags: [nz, holiday, food, burger]
 ---
 
@@ -26,13 +26,17 @@ North Island.
 We flew into Wellington on the red eye from Melbourne. This was one of my first
 red eye flights and I was surprised how much sleep we managed. With New Zealand
 being East of Melbourne the red eye is in the bad direction for jet lag, making
-our first day in New Zealand hard to remember through the sleepyness.
+our first day in New Zealand hard to remember through the sleepyness. 
 
+That may also be the third leg in the story that ends up with me buying the
+wrong SIM card. Flying out of Melbourne so late the store that sells foreign 
+SIM cards was already closed. Arriving so early in Wellington the Vodafone store
+at the airport wasn't open yet. After dropping our bags off at our hostel the 
+main phone stores weren't open yet. So I end up buying a Vodafone SIM from a 
+convienance store. But it's the wrong one and I end up with only 7 days of data
+and the cost of a recharge for data for the last 5 days feels too steep to me.
 
-
-
-
-The closest to a Lord of the Rings related activity we did was when I went to 
-the toilet at Christchurch Airport it was clearly built by hobbits. The toilet
-paper dispensers were mounted so low it was very hard to get paper out of them.
-
+We had lunch plans with the Wellington Level 2 Magic judges but that was several 
+hours away. We spent the morning exploring the harbour front area and Cuba 
+Street. My highlight of this was discovering the Ekim burger place that looked
+worth heading back to for dinner Sunday night.
